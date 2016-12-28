@@ -1,0 +1,1 @@
+Welcome to [inventaire.io](https://inventaire.io) [wiki](https://en.wikipedia.org/wiki/Wiki)!

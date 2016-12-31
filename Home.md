@@ -5,7 +5,7 @@ Welcome to [inventaire.io](https://inventaire.io) [wiki](https://en.wikipedia.or
 ## Summary
 * [[About the project]]
 * [[Tutorials]]
-* [[Wiki How-To]]
+* [[Wiki how-to]]
 
 ## Contribute to this wiki
 It's a work in progress and you're welcome to contribute to it! If you have any question, just pick a place where to start a discussion:

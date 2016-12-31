@@ -1,7 +1,6 @@
 <!-- LANG:EN, title="Wiki how to"-->
  
 ## language markups
-[[test-test]]
 
 In this wiki, every page is multiligual. When editing a page, split languages like so:
 ```markdown

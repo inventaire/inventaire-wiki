@@ -2,37 +2,57 @@
 
 Start a discussion in your favorite communication channel!
 
-## Social networks
+## General
+### Social networks
 * **twitter**: mention [@inventaire_io](http://twitter.com/inventaire_io) or use the hashtag [#inventaireio](https://twitter.com/search?q=%23inventaireio)
 * **[facebook](http://facebook.com/inventaire.io/)**
 
-## Tools
-* this wiki
-* to discuss features and evolution of the project, use the **[roadmap board](https://trello.com/b/0lKcsZDj/inventaire-roadmap)**
-* on **technical subjects**: [ask question by opening issues](https://github.com/inventaire/inventaire/issues), [document in the technical wiki](https://github.com/inventaire/inventaire/wiki)
+### Tools
+* to discuss and vote the next features and evolution of the project, use the **[roadmap board](https://trello.com/b/0lKcsZDj/inventaire-roadmap)**
+* use this wiki to centralize all the knowledge about the project
 
-## Chats
+### Chats
+Both general and technical discussions are welcome in those chatrooms
 * irc: #inventaire @freenode.net
 * [gitter](http://gitter.im/inventaire/inventaire)
 
-## Email
+### Email
 hello@inventaire.io
+
+## Technical discussions
+### Tools
+* ask question by [opening issues on github](https://github.com/inventaire/inventaire/issues)
+* document in the [technical wiki](https://github.com/inventaire/inventaire/wiki)
+### Social networks
+* **twitter**: [@inventaire_dev](http://twitter.com/inventaire_dev)
+
 
 <!-- LANG:FR, title="Canaux de communication"-->
  
 Commencez une discussion dans votre canal de communication préféré !
 
-## Réseaux sociaux
-* **twitter**: mention [@inventaire_io](http://twitter.com/inventaire_io) or use the hashtag [#inventaireio](https://twitter.com/search?q=%23inventaireio)
+## Général
+### Réseaux sociaux
+* **twitter**: mentionnez [@inventaire_io](http://twitter.com/inventaire_io) ou utilisez le hashtag [#inventaireio](https://twitter.com/search?q=%23inventaireio)
 * **[facebook](http://facebook.com/inventaire.io/)**
 
-## Outils
+### Outils
 * pour discuter fonctionnalités et évolution du projet, utilisez la **[roadmap](https://trello.com/b/0lKcsZDj/inventaire-roadmap)**
-* sur les **sujets techniques** : [posez vos questions en ouvrant des issues sur github](https://github.com/inventaire/inventaire/issues), [documentez dans le wiki technique](https://github.com/inventaire/inventaire/wiki)
+* utilisez ce wiki pour centraliser la savoir autour du projet
 
-## Chats
+### Chats
+Les discussions générales ou techniques sont toutes bienvenues dans ces chatrooms
 * irc: #inventaire @freenode.net
 * [gitter](http://gitter.im/inventaire/inventaire)
 
-## Email
+### Email
 hello@inventaire.io
+
+## Discussions techniques
+
+### Outils
+* posez vos questions [en ouvrant des issues sur github](https://github.com/inventaire/inventaire/issues)
+* documentez dans le [wiki technique](https://github.com/inventaire/inventaire/wiki)
+
+### Réseaux sociaux
+* **twitter**: [@inventaire_dev](http://twitter.com/inventaire_dev)

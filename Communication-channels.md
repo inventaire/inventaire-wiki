@@ -9,9 +9,9 @@ Start a discussion in your favorite communication channel!
 * on technical subjects: [ask question by opening issues](https://github.com/inventaire/inventaire/issues), [document in the technical wiki](https://github.com/inventaire/inventaire/wiki)
 * email: hello@inventaire.io
 
-<!-- LANG:FR, title="Cannaux de communication"-->
+<!-- LANG:FR, title="Canaux de communication"-->
  
-Commencez une discussion dans votre cannal de communication préféré !
+Commencez une discussion dans votre canal de communication préféré !
 
 * twitter: mentionnez [@inventaire_io](http://twitter.com/inventaire_io) ou utilisez le hashtag [#inventaireio](https://twitter.com/search?q=%23inventaireio)
 * [facebook](http://facebook.com/inventaire.io/)

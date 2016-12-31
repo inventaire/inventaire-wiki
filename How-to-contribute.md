@@ -14,7 +14,7 @@
 * [help with **code on external tools and projects**]( https://github.com/inventaire/inventaire/wiki/wishlist)
 
 * **spread the word**!
-   * invite friends by email: https://inventaire.io/network/friends
+   * [invite friends to join by email](https://inventaire.io/network/friends)
    * share on social networks
    * help to reach people who might be interested in using it: you know a blog about books or openknowledge, maybe they would be interested in talking about inventaire!
 

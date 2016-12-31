@@ -5,13 +5,13 @@
   * [write or translate tutorials on how to use the different features](https://wiki.inventaire.io/wiki/Tutorials)
   * [organize a user meeting in your city](https://trello.com/c/EexK1Uve/98-organize-a-user-meeting-in-your-city)
 
-* **translate** inventaire in a new language: https://www.transifex.com/inventaire/inventaire/
+* [**translate** inventaire in a new language](https://www.transifex.com/inventaire/inventaire/)
 
 * help to improve the **data** (no technical skills required): find the missing data for [books without author](http://tools.wmflabs.org/wikidata-game/#mode=no_author)
 
-* help with **code on Inventaire**: https://github.com/inventaire/inventaire/wiki#new-contributors
+* [help with **code on Inventaire**](https://github.com/inventaire/inventaire/wiki#new-contributors)
 
-* help with **code on external tools and projects** https://github.com/inventaire/inventaire/wiki/wishlist
+* [help with **code on external tools and projects**]( https://github.com/inventaire/inventaire/wiki/wishlist)
 
 * **spread the word**!
    * invite friends by email: https://inventaire.io/network/friends

@@ -1,5 +1,7 @@
 <!-- LANG:EN -->
 
+![inv-banner](https://inventaire.io/img/560x560/a703e4c65a44dab0e9086722ac296)
+
 Welcome to [inventaire.io](https://inventaire.io) [wiki](https://en.wikipedia.org/wiki/Wiki)! This should be the space where the community shares knowledge about the project : how the project is run? How to use the tool? How to contribute? etc.
 
 ## Summary

@@ -1,4 +1,6 @@
 <!-- LANG:EN, title="How to contribute"-->
+
+## For everyone
  
  * look for cards on the [roadmap board](https://trello.com/b/0lKcsZDj/inventaire-roadmap) with the tag **Doable by new contributors** (pink tag):
   * [take a great picture with books to renew the homepage background](https://trello.com/c/Ny3dfpkJ/97-take-a-great-picture-with-books-to-renew-the-homepage-background)
@@ -6,12 +8,6 @@
   * [organize a user meeting in your city](https://trello.com/c/EexK1Uve/98-organize-a-user-meeting-in-your-city)
 
 * [**translate** inventaire in a new language](https://www.transifex.com/inventaire/inventaire/)
-
-* help to improve the **data** (no technical skills required): find the missing data for [books without author](http://tools.wmflabs.org/wikidata-game/#mode=no_author)
-
-* [help with **code on Inventaire**](https://github.com/inventaire/inventaire/wiki#new-contributors)
-
-* [help with **code on external tools and projects**]( https://github.com/inventaire/inventaire/wiki/wishlist)
 
 * **spread the word**!
    * [invite friends to join by email](https://inventaire.io/network/friends)
@@ -22,6 +18,15 @@
 
 * help **designing inventaire** by upvoting feature cards on this board, commenting or creating new ones: don't be afraid, you can't break anything (well, unless you aim for it, don't take it as a challenge ;) )
 
+* help to improve the **data** (no technical skills required): find the missing data for [books without author](http://tools.wmflabs.org/wikidata-game/#mode=no_author)
+
+## Technical tasks
+
+* [help with **code on Inventaire**](https://github.com/inventaire/inventaire/wiki#new-contributors)
+
+* [help with **code on external tools and projects**]( https://github.com/inventaire/inventaire/wiki/wishlist)
+
 
 ----------
-you are very welcome to ask for anything in the chatrooms of your choice,  [gitter](https://gitter.im/inventaire/inventaire) or irc (#inventaire @freenode), or by email [hello@inventaire.io](mailto:hello@inventaire.io)
+
+**For any question on any of those, feel welcome to ask in any of our [[communication channels]]**

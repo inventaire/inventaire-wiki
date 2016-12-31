@@ -1,5 +1,7 @@
 <!-- LANG:EN, title="Communication channels"-->
- 
+
+Start a discussion in your favorite communication channel!
+
 * twitter: mention [@inventaire_io](http://twitter.com/inventaire_io) or use the hashtag [#inventaireio](https://twitter.com/search?q=%23inventaireio)
 * [facebook](http://facebook.com/inventaire.io/)
 * chat: on irc #inventaire on freenode, or [gitter](http://gitter.im/inventaire/inventaire)
@@ -7,7 +9,9 @@
 * on technical subjects: [ask question by opening issues](https://github.com/inventaire/inventaire/issues), [document in the technical wiki](https://github.com/inventaire/inventaire/wiki)
 * email: hello@inventaire.io
 
- <!-- LANG:FR, title="Cannaux de communication"-->
+<!-- LANG:FR, title="Cannaux de communication"-->
+ 
+Commencez une discussion dans votre cannal de communication préféré !
 
 * twitter: mentionnez [@inventaire_io](http://twitter.com/inventaire_io) ou utilisez le hashtag [#inventaireio](https://twitter.com/search?q=%23inventaireio)
 * [facebook](http://facebook.com/inventaire.io/)

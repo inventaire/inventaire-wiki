@@ -8,7 +8,7 @@ Welcome to [inventaire.io](https://inventaire.io) [wiki](https://en.wikipedia.or
 * [[Wiki how-to]]
 
 ## Contribute to this wiki
-It's a work in progress and you're welcome to contribute to it! If you have any question, just start a discussion in [[Communication channels|your favorte discussion channel]]!
+It's a work in progress and you're welcome to contribute to it! If you have any question, just start a discussion in [[Communication channels|your favorite discussion channel]]!
 
 <!-- LANG:ES, title="Inicio" -->
 

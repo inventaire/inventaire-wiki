@@ -40,6 +40,7 @@ Commencez une discussion dans votre canal de communication préféré !
 ### Réseaux sociaux
 * **twitter**: mentionnez [@inventaire_io](http://twitter.com/inventaire_io) ou utilisez le hashtag [#inventaireio](https://twitter.com/search?q=%23inventaireio)
 * **[facebook](http://facebook.com/inventaire.io/)**
+* **[framasphere](https://framasphere.org/tags/inventaireio)**
 
 ### Outils
 * pour discuter fonctionnalités et évolution du projet, utilisez la **[roadmap](https://trello.com/b/0lKcsZDj/inventaire-roadmap)**

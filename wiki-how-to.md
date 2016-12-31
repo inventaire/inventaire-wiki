@@ -19,7 +19,7 @@ As a convention, when editing, language sections should be ordered following the
 
 <!-- LANG:FR, title="Aide Wiki" -->
 
-## balise de language
+## balises de language
 
 Dans ce wiki, toutes les pages sont multilingue. Pour cela, chaque page est divisée comme ceci en mode édition:
 ```markdown

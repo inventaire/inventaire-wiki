@@ -1,5 +1,7 @@
 <!-- LANG:EN, title="How to contribute"-->
 
+For any question on any of those, feel welcome to ask in any of our **[[communication channels]]**!
+
 ## For everyone
  
  * look for cards on the [roadmap board](https://trello.com/b/0lKcsZDj/inventaire-roadmap) with the tag **Doable by new contributors** (pink tag):
@@ -25,8 +27,3 @@
 * [help with **code on Inventaire**](https://github.com/inventaire/inventaire/wiki#new-contributors)
 
 * [help with **code on external tools and projects**]( https://github.com/inventaire/inventaire/wiki/wishlist)
-
-
-----------
-
-**For any question on any of those, feel welcome to ask in any of our [[communication channels]]**

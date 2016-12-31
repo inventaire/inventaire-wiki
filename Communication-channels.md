@@ -1,6 +1,6 @@
 <!-- LANG:EN, title="Communication channels"-->
  
- * twitter: mention [@inventaire_io](http://twitter.com/inventaire_io) or use the hashtag [#inventaireio](https://twitter.com/search?q=%23inventaireio)
+* twitter: mention [@inventaire_io](http://twitter.com/inventaire_io) or use the hashtag [#inventaireio](https://twitter.com/search?q=%23inventaireio)
 * [facebook](http://facebook.com/inventaire.io/)
 * chat: on irc #inventaire on freenode, or [gitter](http://gitter.im/inventaire/inventaire)
 * to discuss features and evolution of the project, use the [trello roadmap](https://trello.com/b/0lKcsZDj/inventaire-roadmap)

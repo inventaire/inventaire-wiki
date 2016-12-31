@@ -2,7 +2,7 @@
 
 Start a discussion in your favorite communication channel!
 
-## General
+## General discussions on the project
 ### Social networks
 * **twitter**: mention [@inventaire_io](http://twitter.com/inventaire_io) or use the hashtag [#inventaireio](https://twitter.com/search?q=%23inventaireio)
 * **[facebook](http://facebook.com/inventaire.io/)**
@@ -36,7 +36,7 @@ As much as possible, use the [Transifex project](https://www.transifex.com/inven
  
 Commencez une discussion dans votre canal de communication préféré !
 
-## Général
+## Discussion général sur le projet
 ### Réseaux sociaux
 * **twitter**: mentionnez [@inventaire_io](http://twitter.com/inventaire_io) ou utilisez le hashtag [#inventaireio](https://twitter.com/search?q=%23inventaireio)
 * **[facebook](http://facebook.com/inventaire.io/)**

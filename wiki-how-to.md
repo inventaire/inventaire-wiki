@@ -1,6 +1,6 @@
 <!-- LANG:EN, title="Wiki how-to"-->
  
-## language markups
+## Language markups
 
 In this wiki, every page is multiligual. When editing a page, split languages like so:
 ```markdown
@@ -19,7 +19,7 @@ As a convention, when editing, language sections should be ordered following the
 
 <!-- LANG:FR, title="Aide Wiki" -->
 
-## balises de language
+## Balises de language
 
 Dans ce wiki, toutes les pages sont multilingue. Pour cela, chaque page est divisée comme ceci en mode édition:
 ```markdown

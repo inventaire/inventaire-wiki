@@ -8,13 +8,7 @@ Welcome to [inventaire.io](https://inventaire.io) [wiki](https://en.wikipedia.or
 * [[Wiki how-to]]
 
 ## Contribute to this wiki
-It's a work in progress and you're welcome to contribute to it! If you have any question, just pick a place where to start a discussion:
-* twitter: mention [@inventaire_io](http://twitter.com/inventaire_io) or use the hashtag [#inventaireio](https://twitter.com/search?q=%23inventaireio)
-* [facebook](http://facebook.com/inventaire.io/)
-* chat: on irc #inventaire on freenode, or [gitter](http://gitter.im/inventaire/inventaire)
-* to discuss features and evolution of the project, use the [trello roadmap](https://trello.com/b/0lKcsZDj/inventaire-roadmap)
-* on technical subjects: [ask question by opening issues](https://github.com/inventaire/inventaire/issues), [document in the technical wiki](https://github.com/inventaire/inventaire/wiki)
-* email: hello@inventaire.io
+It's a work in progress and you're welcome to contribute to it! If you have any question, just start a discussion in [[Communication channels|your favorte discussion channel]]!
 
 <!-- LANG:ES, title="Inicio" -->
 
@@ -35,10 +29,4 @@ Bienvenue sur le [wiki](https://fr.wikipedia.org/wiki/Wiki) d'[inventaire.io](ht
 * [[Wiki how-to|Aide wiki]]
 
 ## Contribuer à ce wiki
-Ce wiki en est à ses tout débuts, votre contribution est la bienvenue ! Pour n'importe quelle question, choississez votre mode de communication préféré pour commencer une discussion :
-* twitter: mentionnez [@inventaire_io](http://twitter.com/inventaire_io) ou utilisez le hashtag [#inventaireio](https://twitter.com/search?q=%23inventaireio)
-* [facebook](http://facebook.com/inventaire.io/)
-* chat: sur irc #inventaire chez freenode.net, ou [gitter](http://gitter.im/inventaire/inventaire)
-* pour discuter fonctionnalités et évolution du projet, utilisez la [roadmap trello](https://trello.com/b/0lKcsZDj/inventaire-roadmap)
-* sur les sujets techniques : [posez vos questions en ouvrant des issues sur github](https://github.com/inventaire/inventaire/issues), [documentez dans le wiki technique](https://github.com/inventaire/inventaire/wiki)
-* email: hello@inventaire.io
+Ce wiki en est à ses tout débuts, votre contribution est la bienvenue ! Pour n'importe quelle question, choississez votre [[Communication channels|mode de communication préféré]] pour commencer une discussion !

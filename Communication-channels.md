@@ -20,9 +20,11 @@ Both general and technical discussions are welcome in those chatrooms
 hello@inventaire.io
 
 ## Technical discussions
+
 ### Tools
 * ask question by [opening issues on github](https://github.com/inventaire/inventaire/issues)
 * document in the [technical wiki](https://github.com/inventaire/inventaire/wiki)
+
 ### Social networks
 * **twitter**: [@inventaire_dev](http://twitter.com/inventaire_dev)
 

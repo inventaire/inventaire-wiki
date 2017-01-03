@@ -17,7 +17,7 @@ It's a work in progress and you're welcome to contribute to it! If you have any 
 ## Summary
 * [[About the project]]
 * [[Tutorials]]
-* [[Wiki How-To]]
+* [[Wiki how-to]]
 
 <!-- LANG:FR, title="Accueil" -->
 

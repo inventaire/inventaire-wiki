@@ -3,6 +3,11 @@
 For any question on any of those, feel welcome to ask in any of our **[[Communication channels|communication channels]]**!
 
 ## For everyone
+
+* help to improve **[[Books data|books data]]** (no technical skills required), both:
+  * in Inventaire: on any book's page, click the pencil (should be somewhere on the top right) to display the data editor
+  * in Wikidata:
+    * find the missing data for [books without author](http://tools.wmflabs.org/wikidata-game/#mode=no_author)
  
  * look for cards on the [roadmap board](https://trello.com/b/0lKcsZDj/inventaire-roadmap) with the tag **Doable by new contributors** (pink tag):
   * [take a great picture with books to renew the homepage background](https://trello.com/c/Ny3dfpkJ/97-take-a-great-picture-with-books-to-renew-the-homepage-background)
@@ -19,8 +24,6 @@ For any question on any of those, feel welcome to ask in any of our **[[Communic
 * give **feedback** on what works and what doesn't, either by commenting a card on the [roadmap board](https://trello.com/b/0lKcsZDj/inventaire-roadmap) or by sending an email at hello@inventaire.io 
 
 * help **designing inventaire** by upvoting feature cards on this board, commenting or creating new ones: don't be afraid, you can't break anything (well, unless you aim for it, don't take it as a challenge ;) )
-
-* help to improve the **data** (no technical skills required): find the missing data for [books without author](http://tools.wmflabs.org/wikidata-game/#mode=no_author)
 
 ## Technical tasks
 

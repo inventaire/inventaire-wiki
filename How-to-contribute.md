@@ -7,9 +7,9 @@ For any question on any of those, feel welcome to ask in any of our **[[Communic
 * help to improve **[[Books data|books data]]** (no technical skills required), both:
   * in Inventaire: on any book's page, click the pencil (should be somewhere on the top right) to display the data editor
   * in Wikidata:
-    * find the missing data for [books without author](http://tools.wmflabs.org/wikidata-game/#mode=no_author)
+      * find the missing data for [books without author](http://tools.wmflabs.org/wikidata-game/#mode=no_author)
  
- * look for cards on the [roadmap board](https://trello.com/b/0lKcsZDj/inventaire-roadmap) with the tag **Doable by new contributors** (pink tag):
+* look for cards on the [roadmap board](https://trello.com/b/0lKcsZDj/inventaire-roadmap) with the tag **Doable by new contributors** (pink tag):
   * [take a great picture with books to renew the homepage background](https://trello.com/c/Ny3dfpkJ/97-take-a-great-picture-with-books-to-renew-the-homepage-background)
   * [write or translate tutorials on how to use the different features](https://wiki.inventaire.io/wiki/Tutorials)
   * [organize a user meeting in your city](https://trello.com/c/EexK1Uve/98-organize-a-user-meeting-in-your-city)

@@ -1,6 +1,6 @@
 <!-- LANG:EN, title="How to contribute"-->
 
-For any question on any of those, feel welcome to ask in any of our **[[communication channels]]**!
+For any question on any of those, feel welcome to ask in any of our **[[Communication channels|communication channels]]**!
 
 ## For everyone
  

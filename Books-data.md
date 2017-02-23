@@ -9,6 +9,9 @@ Books data come from 3 sources:
 
 * **Basic Facts on books editions extracted from the wide web, proceessed, and enriched** to bootstrap the data set of an edition missing to the database.
 
+### Readings
+* [CC0 is the best open data license](https://pietercolpaert.be/open%20data/2017/02/23/cc0.html)
+
 <!-- LANG:FR, title="Données des livres"-->
 
 Les données des livres viennent de 3 sources :

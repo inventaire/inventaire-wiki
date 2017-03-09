@@ -1,4 +1,5 @@
 <!-- LANG:EN, title="Frequently Asked Questions"-->
+Work in progress: your help at documenting the following issues is welcome!
 
 * [[How to create an account]]
 * [[How to add a book to my inventory]]
@@ -11,6 +12,7 @@
 Couldn't find the help you need? You can ask anything by writting to [hello@inventaire.io](mailto:hello@inventaire.io)
 
 <!-- LANG:FR, title="Foire Aux Questions"-->
+Section en cours d'élaboration : votre aide pour étoffer la documentation sur les questions ci-dessous est la bienvenue !
 
 * [[How to create an account|Comment se créer un compte]]
 * [[How to add a book to my inventory|Comment ajouter un livre à mon inventaire]]

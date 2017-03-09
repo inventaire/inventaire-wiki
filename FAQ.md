@@ -8,6 +8,8 @@
 * [[How to change my book transaction mode]]
 * [[How to make a request for a book]]
 
+Couldn't find the help you need? You can ask anything by writting to [hello@inventaire.io](mailto:hello@inventaire.io)
+
 <!-- LANG:FR, title="Foire Aux Questions"-->
 
 * [[How to create an account|Comment se créer un compte]]
@@ -17,3 +19,5 @@
 * [[How to change who can see my books|Comment changer qui peut voir mes livres]]
 * [[How to change my book transaction mode|Comment changer le mode de transaction d'un livre]]
 * [[How to make a request for a book|Comment faire une demande pour un livre]]
+
+Vous n'avez pas trouvé l'aide dont vous avez besoin ? Il est toujours possible de poser une question en écrivant à [hello@inventaire.io](mailto:hello@inventaire.io)

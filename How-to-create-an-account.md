@@ -1,6 +1,6 @@
 <!-- LANG:EN, title="How to create an account"-->
  
-* Go to the [Signup page](https://inventaire.io/signup)
+* Go to the **[Signup page](https://inventaire.io/signup)**
 * **Enter a username**: ideally, a name that helps your friends identify you.
 * **Enter an email**: it will be used to send you updates on the books that were added to your friends inventories, or when you get a request for one of your books. Once signed up, you will be able to customize your notification preferences in the [notifications settings](https://inventaire.io/settings/notifications)
 * **Enter a password**: if you are on your own computer/mobile, we recommand to use a password manager to remember it for you. Most browsers have one integrated:
@@ -14,7 +14,7 @@
 
 <!-- LANG:FR, title="Comment se créer un compte"-->
  
-* Allez sur la [page d'inscription](https://inventaire.io/signup?lang=fr)
+* Allez sur la **[page d'inscription](https://inventaire.io/signup?lang=fr)**
 * **Entrez un nom d'utilisateur**: idealement, un nom permettant à vos amis de vous identifier.
 * **Entrez une adresse email**: elle sera utilisée pour vous informer des livres ajoutés à l'inventaire de vos amis et groupes, ou vous signaler qu'une de vos livre a été demandé. Une fois inscrit, vous pourrez choisir les emails que vous souhaitez recevoir en vous rendant sur la page des [paramètres de notifications](https://inventaire.io/settings/notifications).
 * **Entrez un mot de passe**: si vous êtes sur votre propre ordinateur/smartphone, nous vous recommandons d'utiliser un gestionnaire de mot de passe pour qu'il se le rappelle à votre place. La plus part des navigateurs ont un tel gestionnaire intégré :

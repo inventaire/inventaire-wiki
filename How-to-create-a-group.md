@@ -2,7 +2,7 @@
 
 <!-- LANG:FR, title="Comment créer un groupe"-->
   
-Avant tout, il faut que vous ayez un compte personnel, ce sera l'administrateur du groupe : [Créez vous un compte personnel](https://wiki.inventaire.io/wiki/How-to-create-an-account?lang=fr)
+Avant tout, il faut que vous ayez un compte personnel, ce sera l'administrateur du groupe : [[How-to-create-an-account|Créez vous un compte personnel]]
 
 Ensuite, rendez-vous sur la [page de création de groupe](https://inventaire.io/network/groups/create)
 * Ajoutez un **nom** : si vous créez un groupe pour un lieu physique, inclure le nom du lieu dans le nom aidera à le retrouver dans la recherche.

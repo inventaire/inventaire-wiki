@@ -47,4 +47,4 @@ Ce wiki en est à ses tout débuts, votre contribution est la bienvenue ! Pour n
 * [Roadmap](http://roadmap.inventaire.io/)
 * [documentation de l'API](http://api.inventaire.io/)
 * [Code](http://git.inventaire.io/)
-* [Traductio](http://translate.inventaire.io/)
+* [Traduction](http://translate.inventaire.io/)

@@ -9,7 +9,8 @@ The biggest challenge of this project is not (that much) code, its organizing th
 ## Inspiration
 * [Do-ocracy](https://wiki.p2pfoundation.net/DoOcracy)
 * [Holacracy](https://en.wikipedia.org/wiki/Holacracy)
-* Wikipedia
+* Wikimedia
+* [Trustroot Foundation](https://www.trustroots.org/faq/foundation)
 
 <!-- LANG:FR, title="Modèle d'organisation"-->
  
@@ -23,3 +24,4 @@ Le plus gros défi de ce projet n'est pas tant le code, que l'organisation des �
 * [Do-ocracy](https://wiki.p2pfoundation.net/DoOcracy)
 * [Holacracy](https://fr.wikipedia.org/wiki/Holacratie)
 * Wikipédia: [Le Lâcher prise au pouvoir](https://www.youtube.com/watch?v=x61FPodmTdQ)
+* [Trustroot Foundation](https://www.trustroots.org/faq/foundation)

@@ -8,7 +8,7 @@ I don't see those two conditions being met before one or two years : there is st
 
 [[FAQ|Back to Q&A list]]
 
-<!-- LANG:EN, title="Quand pourra-t-on ajouter des magazines et des DVD à son inventaire ?"-->
+<!-- LANG:FR, title="Quand pourra-t-on ajouter des magazines et des DVD à son inventaire ?"-->
 
 **Question**: *dans quelle mesure il serait possible dans le futur d'intégrer les magazines et les DVD dans la base d'inventaire.io?* (29/06/2017)
 

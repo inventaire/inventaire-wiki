@@ -6,6 +6,7 @@
   - or, if it's a private group, by visiting the [URL](https://en.wikipedia.org/wiki/Uniform_Resource_Locator) the group administrator should have sent you
 
 3 - Once on the group page, click *request to join the group*, and *voilà*! You now just have to wait for the group administrator to validate your request.
+![request_to_join_group_en](https://user-images.githubusercontent.com/1596934/27707390-7449841c-5d15-11e7-9afe-0a89b17e35b0.png)
 
 4 - To make books available for exchanges in this group, you just need to [[How to add a book to my inventory|add books to your inventory]] and select the *friends & groups* visibility option. Unfortunately, it's not yet possible to make a book visible to only certain friends or groups, [this feature is in the development waiting list](https://trello.com/c/hVawMbmt): feel welcome to [upvote](https://trello.com/c/hVawMbmt) it to increase it's priority rank.
 
@@ -21,6 +22,7 @@
   - soit, si c'est un groupe privé, en se rendant à l'[URL](https://fr.wikipedia.org/wiki/Uniform_Resource_Locator) que l'administrateur du groupe aura dû vous faire parvenir
 
 3 - Une fois sur la page du groupe, cliquez *demander à rejoindre le groupe*, et voilà ! Vous n'avez plus qu'à attendre que l'administrateur valide votre demande.
+![request_to_join_group_fr](https://user-images.githubusercontent.com/1596934/27707297-24553fdc-5d15-11e7-8bce-5c46d5abc696.png)
 
 4 - Pour rendre visible les livres que vous souhaitez échanger au sein de ce groupe, il vous suffit d'[[How to add a book to my inventory|ajouter des livres à votre inventaire]] et de sélectionner l'option de visibilité *amis et groupes*. Il n'est malheureusement pas encore possible de rendre visible un livre qu'à certains de vos amis ou groupes, [cette fonctionnalité est en attente de développement](https://trello.com/c/hVawMbmt) : si c'est un besoin critique pour vous, vous pouvez augmenter la priorité de ce développement en [votant sur la carte de cette fonctionnalité](https://trello.com/c/hVawMbmt).
 

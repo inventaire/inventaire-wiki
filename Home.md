@@ -4,7 +4,7 @@ Welcome to [inventaire.io](https://inventaire.io) [wiki](https://en.wikipedia.or
 
 ## Summary
 * [[About the project]]
-* [[FAQ]]
+* [[FAQ|Frequently Asked Questions]]
 * [[Wiki how-to]]
 
 ## Contribute to this wiki
@@ -22,7 +22,7 @@ It's a work in progress and you're welcome to contribute to it! If you have any 
 
 ## Summary
 * [[About the project]]
-* [[FAQ]]
+* [[FAQ|Foire Aux Questions]]
 * [[Wiki how-to]]
 
 ## Quick links

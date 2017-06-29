@@ -14,6 +14,7 @@ Work in progress: your help at documenting the following issues is welcome!
 ## Questions / Answers
 
 * [[inventory data|Are my inventory data also in the public database of books and authors?]]
+* [[When will magazines and DVD be part of the database?]]
 
 Couldn't find the help you need? You can ask anything by writting to [hello@inventaire.io](mailto:hello@inventaire.io)
 
@@ -33,5 +34,6 @@ Section en cours d'élaboration : votre aide pour étoffer la documentation sur 
 ## Questions / Réponses
 
 * [[inventory data|Les données de mon inventaire sont elles partagé publiquement comme la base de donnée des livres et auteurs ?]]
+* [[When will magazines and DVD be part of the database?|Quand pourra-t-on ajouter des magazines et des DVD à son inventaire ?]]
 
 Vous n'avez pas trouvé l'aide dont vous avez besoin ? Il est toujours possible de poser une question en écrivant à [hello@inventaire.io](mailto:hello@inventaire.io)

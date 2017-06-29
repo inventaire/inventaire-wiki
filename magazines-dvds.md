@@ -1,4 +1,4 @@
-<!-- LANG:EN, title="When will magazines and DVD be part of the database?"-->
+<!-- LANG:EN, title="When will magazines and DVDs be part of the database?"-->
 **Question**: *can we imagine a future where magazines and DVDs would be part of inventaire.io database?* (29/06/2017)
 **Answer**: In the medium to long term, absolutely, but that may take a while still, the idea being to keep focused on books as long as the tool didn't reach an advanced maturity level, which could be translated as:
 - all essential features have been developed, especially: [advanced inventory browsing](https://trello.com/c/wq1RCyuc), [book lists](https://trello.com/c/w1dxqgTb), [book reviews](https://trello.com/c/uwdkvGl1), [wishlist mode](https://trello.com/c/S5wGWC78)

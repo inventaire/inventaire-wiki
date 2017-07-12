@@ -46,10 +46,10 @@ This is how this graph of relations looks like:
 
 The user inventory is made of **items**, each item being an instance of an edition.
 
-![entities map](https://raw.githubusercontent.com/inventaire/entities-map/master/screenshots/entities-map.png)
+![entities map](https://raw.githubusercontent.com/inventaire/entities-map/master/screenshots/entities-map.png)]
 
 ## Data editor
-![contributive data](https://trello-attachments.s3.amazonaws.com/56e00fd7fbc3e6a2cc85aa56/803x625/2261e082efceca9a8a7598726a818b16/contributive_data.png)
+[![contributive data](https://trello-attachments.s3.amazonaws.com/56e00fd7fbc3e6a2cc85aa56/803x625/2261e082efceca9a8a7598726a818b16/contributive_data.png)](https://inventaire.io/entity/isbn:9782290349229/edit)
 
 ## See also
 * [[Data contribution guidelines]]
@@ -96,7 +96,7 @@ L'inventaire d'un utilisateur est lui constitué d'articles (en anglais : `item`
 ![entities map](https://raw.githubusercontent.com/inventaire/entities-map/master/screenshots/entities-map.png)
 
 ### Editeur de données
-![contributive data](https://trello-attachments.s3.amazonaws.com/56e00fd7fbc3e6a2cc85aa56/803x625/2261e082efceca9a8a7598726a818b16/contributive_data.png)
+[![contributive data](https://trello-attachments.s3.amazonaws.com/56e00fd7fbc3e6a2cc85aa56/803x625/2261e082efceca9a8a7598726a818b16/contributive_data.png)](https://inventaire.io/entity/isbn:9782290349229/edit)
 
 ## Voir aussi
 * [[Data contribution guidelines|Conventions de contribution aux données]]

@@ -35,7 +35,7 @@ Those data will are published under a [CC0 license](https://en.wikipedia.org/wik
 
 - [Sources des données](#sources-des-donn%C3%A9es)
   - [Wikidata](#wikidata)
-  - [Base de donnée interne](#base-de-donn%C3%A9e-interne)
+  - [Base de données interne](#base-de-donn%C3%A9e-interne)
   - [Amorces de données du web](#amorces-de-donn%C3%A9es-du-web)
 - [Lectures](#lectures)
 
@@ -46,7 +46,7 @@ Les données des livres viennent de 3 sources :
 ### [Wikidata](https://wikidata.org)
 ![wd](https://www.wikidata.org/static/images/project-logos/wikidatawiki.png)
 
-### Base de donnée interne
+### Base de données interne
 Wikidata ne visant pas à avoir une fiche pour chaque livre et ses éditions, mais seulement ceux remplissant certains critères de notoriété, nous ne pouvons nous reposer sur cette seule base de données, d'où l'introduction d'une **base de donnée interne à inventaire**, constituée par les contributions des utilisateurs, et liée à Wikidata.
 ![entities map](https://raw.githubusercontent.com/inventaire/entities-map/master/screenshots/entities-map.png)
 Ces données seront ensuite publiée sous une [license CC0 license](https://fr.wikipedia.org/wiki/CC0) afin que la communauté Wikidata puisse importer les entités pertinante pour le projet Wikidata selon leurs propres critères d'admissibilité.

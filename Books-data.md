@@ -44,7 +44,7 @@ This is how this graph of relations looks like:
 * A work can have several editions
 * Usually an edition is the edition of a unique work. In special cases, an edition can be the edition of several works (for instance, an edition that would gather the Harry Potter volumes 1 and 2): we call those composite or multi-work editions.
 
-The user inventory is made of **items**, eich item being an instance of an edition.
+The user inventory is made of **items**, each item being an instance of an edition.
 
 ![entities map](https://raw.githubusercontent.com/inventaire/entities-map/master/screenshots/entities-map.png)
 

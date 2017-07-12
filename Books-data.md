@@ -1,19 +1,33 @@
 <!-- LANG:EN, title="Books data"-->
 
+## Summary
+
+- [Data sources](#data-sources)
+  - [Wikidata](#wikidata)
+  - [Internal database](#internal-database)
+  - [Web data seeds](#web-data-seeds)
+- [Readings](#readings)
+
+## Data sources
+
 Books data come from 3 sources:
-* **[Wikidata](https://wikidata.org)**
+
+### [Wikidata](https://wikidata.org)
 ![wd](https://www.wikidata.org/static/images/project-logos/wikidatawiki.png)
 
-* As Wikidata doesn't aim to gather data on all books and their editions, but only those that match certain notoriety criteria, we can't only rely on it, thus the introduction of a **internal database**, made of users contributions, linked to Wikidata entities.
+### Internal database
+* As Wikidata doesn't aim to gather data on all books and their editions, but only those that match certain notoriety criteria, we can't only rely on it, thus the introduction of a **internal database**, made of users contributions, linked to Wikidata entities. See [[Data contribution guidelines]].
 ![entities map](https://raw.githubusercontent.com/inventaire/entities-map/master/screenshots/entities-map.png)
 
-Those data will then be published under a [CC0 license](https://en.wikipedia.org/wiki/CC0), so that the Wikidata community can import the entities that are relevant to Wikidata following their criteria.
+Those data will are published under a [CC0 license](https://en.wikipedia.org/wiki/CC0), so that the Wikidata community can import the entities that are relevant to Wikidata following their criteria.
 ![contributive data](https://trello-attachments.s3.amazonaws.com/56e00fd7fbc3e6a2cc85aa56/803x625/2261e082efceca9a8a7598726a818b16/contributive_data.png)
 
-* **Basic Facts on books editions extracted from the wide web, proceessed, and enriched** to bootstrap the data set of an edition missing to the database.
+### Web data seeds
+* **Basic Facts on books editions extracted from the wide web, proceessed, and enriched** to bootstrap the data set of an edition missing to the database. This is made in an attempt to automatize what user encountering missing data would have to do manually: go on the web, searching basic facts like a title, the author's name, a book cover. That's a hack, and it should be replaced as soon as possible by more reliable data sources, like raw publishers data.
 
-### Readings
+## Readings
 * [CC0 is the best open data license](https://pietercolpaert.be/open%20data/2017/02/23/cc0.html)
+
 
 <!-- LANG:FR, title="Données des livres"-->
 

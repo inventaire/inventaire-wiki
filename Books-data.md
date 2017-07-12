@@ -52,9 +52,9 @@ The user inventory is made of `items`, eich item being an instance of the specif
 - [Sources des données](#sources-des-donn%C3%A9es)
   - [Wikidata](#wikidata)
   - [Base de données interne](#base-de-donn%C3%A9e-interne)
-  - [Structure des données](#structure-des-donn%C3%A9e)
-  - [Editeur de données](#editeur-de-donn%C3%A9e)
   - [Amorces de données du web](#amorces-de-donn%C3%A9es-du-web)
+- [Structure des données](#structure-des-donn%C3%A9e)
+- [Editeur de données](#editeur-de-donn%C3%A9e)
 - [Voir aussi](#voir-aussi)
 
 ## Sources des données

@@ -32,9 +32,19 @@ Those data will are published under a [CC0 license](https://en.wikipedia.org/wik
 
 ## Data structure
 
-The term `entity` gathers all the concepts of works (books, comics, manga, etc.), editions of those works, their authors and series.
+The term **entity** gathers all the concepts of **works** (books, comics, manga, etc.), **editions** of those works, their **authors** and **series**. Largely following [Wikidata data model](https://www.mediawiki.org/wiki/Wikibase/DataModel), those entities are linked together by **properties**.
 
-The user inventory is made of `items`, eich item being an instance of the specific edition of a work.
+Examples of relations between entities:
+* [*I, Robot*](https://inventaire.io/entity/isbn:9780007532278), the book edition uniquely identified by its [ISBN](https://en.wikipedia.org/wiki/ISBN): 978-0-00-753227-8 → is an **edition of** (property [P629](https://wikidata.org/entity/P629) in Wikidata) → the [work *I, Robot*](inventaire.io/entity/wd:Q393018), uniquely identified in Wikidata as [Q393018](https://www.wikidata.org/wiki/Q393018)
+* the [work *I, Robot*](inventaire.io/entity/wd:Q393018) → has for **author** (property [P50](https://wikidata.org/entity/P50) in Wikidata) → [Isaac Asimov](https://inventaire.io/entity/wd:Q34981), uniquely identified in Wikidata as [Q34981](https://www.wikidata.org/wiki/Q34981)
+
+This is how this graph of relations looks like:
+* Series are made of several works
+* An author can be the author of several works
+* A work can have several editions
+* Usually an edition is the edition of a unique work. In special cases, an edition can be the edition of several works (for instance, an edition that would gather the Harry Potter volumes 1 and 2): we call those composite or multi-work editions.
+
+The user inventory is made of **items**, eich item being an instance of an edition.
 
 ![entities map](https://raw.githubusercontent.com/inventaire/entities-map/master/screenshots/entities-map.png)
 

@@ -13,7 +13,13 @@
 Books data come from 3 sources:
 
 ### [Wikidata](https://wikidata.org)
-![wd](https://www.wikidata.org/static/images/project-logos/wikidatawiki.png)
+[![wd](https://www.wikidata.org/static/images/project-logos/wikidatawiki.png)](https://wikidata.org)
+
+> Wikidata is a free, collaborative, multilingual, secondary database, collecting structured data to provide support for Wikipedia, Wikimedia Commons, the other wikis of the Wikimedia movement, and to anyone in the world.
+
+[Wikidata Introduction](https://www.wikidata.org/wiki/Wikidata:Introduction)
+
+The Wikidata community has a dedicated task force on books: [WikiProject Books](https://www.wikidata.org/wiki/Wikidata:WikiProject_Books)
 
 ### Internal database
 As Wikidata doesn't aim to gather data on all books and their editions, but only those that match certain notoriety criteria, we can't only rely on it, thus the introduction of a **internal database**, made of users contributions, linked to Wikidata entities. See [[Data contribution guidelines]].
@@ -44,7 +50,13 @@ Those data will are published under a [CC0 license](https://en.wikipedia.org/wik
 Les données des livres viennent de 3 sources :
 
 ### [Wikidata](https://wikidata.org)
-![wd](https://www.wikidata.org/static/images/project-logos/wikidatawiki.png)
+[![wd](https://www.wikidata.org/static/images/project-logos/wikidatawiki.png)](https://wikidata.org)
+
+> Wikidata est une base de données libre, collaborative, multilingue, et secondaire qui collecte des données structurées pour alimenter Wikipédia, Wikimedia Commons, les autres projets du mouvement Wikimédia et pour n'importe qui sur la planète.
+
+[Wikidata Introduction](https://www.wikidata.org/wiki/Wikidata:Introduction/fr)
+
+La communauté Wikidata a un groupe de travail dédié aux livres : [WikiProject Books](https://www.wikidata.org/wiki/Wikidata:WikiProject_Books/fr)
 
 ### Base de données interne
 Wikidata ne visant pas à avoir une fiche pour chaque livre et ses éditions, mais seulement ceux remplissant certains critères de notoriété, nous ne pouvons nous reposer sur cette seule base de données, d'où l'introduction d'une **base de donnée interne à inventaire**, constituée par les contributions des utilisateurs, et liée à Wikidata. Voir les [[Data contribution guidelines|conventions de contribution aux données]].

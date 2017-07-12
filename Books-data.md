@@ -36,7 +36,7 @@ Those data will are published under a [CC0 license](https://en.wikipedia.org/wik
 - [Sources des données](#sources-des-donn%C3%A9es)
   - [Wikidata](#wikidata)
   - [Base de donnée interne](#base-de-donn%C3%A9e-interne)
-  - [Graînes de données du web](#gra%C3%AEnes-de-donn%C3%A9es-du-web)
+  - [Amorces de données du web](#amorces-de-donn%C3%A9es-du-web)
 - [Lectures](#lectures)
 
 ## Sources des données
@@ -52,7 +52,7 @@ Wikidata ne visant pas à avoir une fiche pour chaque livre et ses éditions, ma
 Ces données seront ensuite publiée sous une [license CC0 license](https://fr.wikipedia.org/wiki/CC0) afin que la communauté Wikidata puisse importer les entités pertinante pour le projet Wikidata selon leurs propres critères d'admissibilité.
 ![contributive data](https://trello-attachments.s3.amazonaws.com/56e00fd7fbc3e6a2cc85aa56/803x625/2261e082efceca9a8a7598726a818b16/contributive_data.png)
 
-### Graînes de données du web
+### Amorces de données du web
 Des **faits de bases sur les éditions de livres extrait du web, traités et enrichis** pour amorcer la fiche d'une édition manquant à la base de donnée. Cela resulte d'une tentative de faciliter et quelque peu automatiser le travail qu'un utilisateur aurait à faire manuellement lorsqu'il fait face à des données manquantes pour une édition donnée. C'est une solution provisoire, en attendant de pouvoir la remplacer par des sources de données plus fiables, telles des données brutes et ouvertes des bibliothèques et éditeurs.
 
 ## Lectures

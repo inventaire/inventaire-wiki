@@ -2,13 +2,18 @@
 
 Welcome to [inventaire.io](https://inventaire.io) [wiki](https://en.wikipedia.org/wiki/Wiki)! **This should be the space where the community shares knowledge about the project** : how the project is run? How to use the tool? How to contribute? etc.
 
-## Summary
-* [[About the project]]
+## Summary
+* About the project
+  * [Presentation](https://inventaire.io/welcome)
+  * [[Economic model]]
+  * [[Organization model]]
+  * [[How to contribute]]
+  * [[Books data|Where do data on books come from?]]
 * [[FAQ|Frequently Asked Questions]]
 * [[News]]
 * [[Wiki how-to]]
 
-## Contribute to this wiki
+## Contribute to this wiki
 It's a work in progress and you're welcome to contribute to it! If you have any question, just start a discussion in [[Communication channels|your favorite discussion channel]]!
 
 ## Quick links
@@ -22,7 +27,12 @@ It's a work in progress and you're welcome to contribute to it! If you have any 
 ¡Bienvenida en el [wiki](https://es.wikipedia.org/wiki/Wiki) de [inventaire.io](https://inventaire.io)!
 
 ## Summary
-* [[About the project]]
+* About the project
+  * [Presentation](https://inventaire.io/welcome)
+  * [[Economic model]]
+  * [[Organization model]]
+  * [[How to contribute]]
+  * [[Books data|Where do data on books come from?]]
 * [[FAQ]]
 * [[News]]
 * [[Wiki how-to]]
@@ -38,7 +48,12 @@ It's a work in progress and you're welcome to contribute to it! If you have any 
 Bienvenue sur le [wiki](https://fr.wikipedia.org/wiki/Wiki) d'[inventaire.io](https://inventaire.io) ! Ce wiki est destiné à **centraliser le savoir sur le projet inventaire** : comment est organisé le projet ? Comment utiliser l'application web ? Comment contribuer ? etc.
 
 ## Sommaire
-* [[About the project|A propos du projet]]
+* A propos du projet
+  * [Présentation](https://inventaire.io/welcome)
+  * [[Economic model|Modèle économique]]
+  * [[Organization model|Organisation]]
+  * [[How to contribute|Comment contribuer]]
+  * [[Books data|D'où viennent les données sur les livres ?]]
 * [[FAQ|Foire Aux Questions]]
 * [[News|Actualités]]
 * [[Wiki how-to|Aide wiki]]

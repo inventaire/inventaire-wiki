@@ -14,7 +14,7 @@ For any question on any of those, feel welcome to ask in any of our **[[Communic
   * [write or translate tutorials on how to use the different features](https://wiki.inventaire.io/wiki/Tutorials)
   * [organize a user meeting in your city](https://trello.com/c/EexK1Uve/98-organize-a-user-meeting-in-your-city)
 
-* [**translate** inventaire in a new language](https://www.transifex.com/inventaire/inventaire/)
+* **translate** inventaire in a new language or help improving an existing translation: everything is done from our [Transifex page](https://www.transifex.com/inventaire/inventaire/). New translations are needed periodically, you are thus invited to [create a time capsule to re-open Transifex once a month](http://maxlath.eu/projects/time-capsule/) to keep your language translation up-to-date.
 
 * **spread the word**!
    * [invite friends to join by email](https://inventaire.io/network/friends)

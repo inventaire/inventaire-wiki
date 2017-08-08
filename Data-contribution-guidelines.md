@@ -4,6 +4,7 @@
 
 - [General rule](#general-rule)
 - [Special cases](#special-cases)
+- [Conflicts of interest](#conflict-of-interest)
 - [See also](#see-also)
 
 ## General rule
@@ -17,6 +18,13 @@ Furthermore, contrary to Wikidata where data edition is weakly constrained, Inve
 ## Special cases
 *to be documented*
 
+## Conflicts of interest
+
+Inventaire largely shares [Wikidata Conflict of Interest rules](https://www.wikidata.org/wiki/Wikidata:Requests_for_comment/Conflict_of_Interest), notably
+> If you are an authority on an item (or a set of item), e.g. acting as their agent, or a company looking for the Wikidata items about their products (movies, cars, songs, etc.), you are allowed and indeed encouraged to keep the data about this item up-to-date and the coverage complete (e.g. box office, awards, cast, official Website, etc.).
+
+Having publishers directly keep data about their productions in Wikidata and Inventaire up-to-date would be marvellous.
+
 ## See also
 * [Entities map](https://inventaire.github.io/entities-map/)
 * [[Books data]]
@@ -27,6 +35,7 @@ Furthermore, contrary to Wikidata where data edition is weakly constrained, Inve
 
 - [Règles générale](#r%C3%A8gles-g%C3%A9n%C3%A9rale)
 - [Cas particuliers](#cas-particuliers)
+- [Conflits d'intérêt](#conflits%20d%27int%C3%A9r%C3%AAt)
 - [Voir aussi](#voir-aussi)
 
 ## Règles générale
@@ -39,6 +48,9 @@ Par ailleurs, à la différence de Wikidata dont l'édition est faiblement contr
 
 ## Cas particuliers
 *à documenter*
+
+## Conflits d'intérêt
+Inventaire partage largement les [règles de Wikidata sur les conflits d'intérêt](https://www.wikidata.org/wiki/Wikidata:Requests_for_comment/Conflict_of_Interest), notamment pour ce qui est de l'édition de donnée concernant vos productions. Avoir les maisons d'éditions mettre à jour directement les données sur leurs productions dans Wikidata et Inventaire serait tout à fait merveilleux.
 
 ## Voir aussi
 * [Carte des entités](https://inventaire.github.io/entities-map/)

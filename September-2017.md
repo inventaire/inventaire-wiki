@@ -10,6 +10,14 @@ It is now also possible to find all sorts of entities using the title of one of 
 * [https://inventaire.io/entity/enwiki:Naomi_Klein](https://inventaire.io/entity/enwiki:Naomi_Klein)
 * [https://inventaire.io/entity/eswikiquote:J. K. Rowling](https://inventaire.io/entity/eswikiquote:J. K. Rowling)
 
+### Added even more alias URIs: VIAF, BNF, Open Library, Facebook
+* https://inventaire.io/entity/viaf:247820026
+* https://inventaire.io/entity/bnf:145422980
+* https://inventaire.io/entity/ol:OL36858W
+* https://inventaire.io/entity/openlibrary:OL36858W
+* https://inventaire.io/entity/fb:thomaspikettyofficiel
+* https://inventaire.io/entity/facebook:DalaiLama
+
 ### Increasing entity claims constraints
   The webapp was already only suggestion humans as possible authors, series as series, etc, but the server was still accepting claim values without checking the type. That's what was fixed by [bda91ba](https://github.com/inventaire/inventaire/commit/bda91ba5c3344ba1f8d0a1a0608685f7ec6759a6)
  

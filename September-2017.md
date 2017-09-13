@@ -23,7 +23,7 @@ It is now also possible to find all sorts of entities using the title of one of 
 **commit**: [aa10e1e@server](https://github.com/inventaire/inventaire/commit/aa10e1e)
 
 ### Increasing entity claims constraints
-  The webapp was already only suggestion humans as possible authors, series as series, etc, but the server was still accepting claim values without checking the type. That's what was fixed by [bda91ba](https://github.com/inventaire/inventaire/commit/bda91ba5c3344ba1f8d0a1a0608685f7ec6759a6)
+  The webapp was already only suggestion humans as possible authors, series as series, etc, but the server was still accepting claim values without checking the type. That's what was fixed by [4ab8cdb](https://github.com/inventaire/inventaire/commit/4ab8cdb)
  
 <hr>
 

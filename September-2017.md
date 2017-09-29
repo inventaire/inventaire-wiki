@@ -29,7 +29,12 @@ It is now also possible to find all sorts of entities using the title of one of 
 **commit**: [aa10e1e@server](https://github.com/inventaire/inventaire/commit/aa10e1e)
 
 ### Increasing entity claims constraints
-  The webapp was already only suggestion humans as possible authors, series as series, etc, but the server was still accepting claim values without checking the type. That's what was fixed by [4ab8cdb](https://github.com/inventaire/inventaire/commit/4ab8cdb)
+The webapp was already only suggestion humans as possible authors, series as series, etc, but the server was still accepting claim values without checking the type. That's what was fixed by [4ab8cdb](https://github.com/inventaire/inventaire/commit/4ab8cdb)
+  
+### Displaying different error messages on edition entity creation
+depending on if the concurrent entity is already listed on the current workUri or not. This reduces the amount of false positive duplicate works reports
+![edition already listed](https://user-images.githubusercontent.com/1596934/31005527-5b192250-a4f9-11e7-9c5f-8dd394a39671.png)
+**commits**: [365e726@server](https://github.com/inventaire/inventaire/commit/365e726), [082e6f5@client](https://github.com/inventaire/inventaire-client/commit/082e6f5)
  
 <hr>
 

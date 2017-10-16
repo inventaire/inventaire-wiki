@@ -4,7 +4,7 @@
 ### Search by subject
 It is now possible to use the live search bar to look up subjects
 commits: [435a813@client](https://github.com/inventaire/inventaire-client/commit/435a813), [edc2a2a@client](https://github.com/inventaire/inventaire-client/commit/edc2a2a)
-![Search by subject](https://user-images.githubusercontent.com/1596934/31637038-301ed040-b2cd-11e7-9773-83a38a2c072d.png)
+[![Search by subject](https://user-images.githubusercontent.com/1596934/31637038-301ed040-b2cd-11e7-9773-83a38a2c072d.png)](http://localhost:3006/search?q=gravitational%20waves)
 
 ### Improved the wiki editor
 - replaced CodeMirror by SimpleMDE: [c4459d0@jingo](https://github.com/inventaire/jingo/commit/c4459d0) and following commits

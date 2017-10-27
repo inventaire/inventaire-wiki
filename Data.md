@@ -9,11 +9,6 @@ This article aim to document this second aspect, by:
 * helping data **re-use**, especially, but not only, by importing data produced in Inventaire back to Wikidata
 
 ## Summary
-
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
-
 - [Data sources](#data-sources)
   - [Wikidata](#wikidata)
   - [Internal database](#internal-database)
@@ -29,8 +24,6 @@ This article aim to document this second aspect, by:
     - [JSON Dump](#json-dump)
     - [RDF Dump](#rdf-dump)
 - [See also](#see-also)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Data sources
 

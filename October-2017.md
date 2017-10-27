@@ -1,6 +1,11 @@
 <!-- LANG:EN, title="October 2017"-->
  
 ## Developments 
+### Inventory browser
+It's finally coming! You should soon be able to browse your inventory by author, genre, and subject!
+A preview of this feature is hidden here http://inventaire.io/inventory/browser until everything works as expected and we can make it easier to find.
+![inventory browser asimov](https://user-images.githubusercontent.com/1596934/32095401-56382a72-bb03-11e7-9907-4d211f9cb59e.png)
+
 ### Search by subject
 It is now possible to use the live search bar to look up subjects
 commits: [435a813@client](https://github.com/inventaire/inventaire-client/commit/435a813), [edc2a2a@client](https://github.com/inventaire/inventaire-client/commit/edc2a2a)

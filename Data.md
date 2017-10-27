@@ -42,7 +42,11 @@ Those data will are published under a [CC0 license](https://en.wikipedia.org/wik
 
 The term **entity** gathers all the concepts of **works** (books, comics, manga, etc.), **editions** of those works, their **authors** and **series**. Largely following [Wikidata data model](https://www.mediawiki.org/wiki/Wikibase/DataModel), those entities are linked together by **properties**.
 
-Examples of relations between entities:
+### Differences between Wikidata and Inventaire terminologies
+* In the [Wikidata terminology](https://www.wikidata.org/wiki/Wikidata:Glossary), *entities* gather both concepts of *items* (all the things with a Q-id) and *properties* (all things with a P-id)
+* In [[Glossary|Inventaire terminology]], the equivalent of Wikidata items are called *entities* ([example](https://inventaire.io/entity/inv:456535701900dddbcdb246e9f9249bed)), the term *items* being used to refer to what users inventories are made of ([example](https://inventaire.io/items/bd5f8d1a1fd834c651fc947c7d24f6a4)), each item being an instance of an entity.
+
+### Examples of relations between entities
 * [*I, Robot*](https://inventaire.io/entity/isbn:9780007532278), the book edition uniquely identified by its [ISBN](https://en.wikipedia.org/wiki/ISBN): 978-0-00-753227-8 → is an **edition of** (property [P629](https://wikidata.org/entity/P629) in Wikidata) → the [work *I, Robot*](inventaire.io/entity/wd:Q393018), uniquely identified in Wikidata as [Q393018](https://www.wikidata.org/wiki/Q393018)
 * the [work *I, Robot*](inventaire.io/entity/wd:Q393018) → has for **author** (property [P50](https://wikidata.org/entity/P50) in Wikidata) → [Isaac Asimov](https://inventaire.io/entity/wd:Q34981), uniquely identified in Wikidata as [Q34981](https://www.wikidata.org/wiki/Q34981)
 
@@ -57,6 +61,19 @@ The user inventory is made of **items**, each item being an instance of an editi
 ![entities map](https://raw.githubusercontent.com/inventaire/entities-map/master/screenshots/entities-map.png)
 
 ## Data editor
+To edit Inventaire entities, you first need to [create an Inventaire account](http://inventaire.io/signup).  In addition, to edit Wikidata entities from the Inventaire entity editor, you will be invited to connect your Wikidata account. But you can also simply click the "Edit on Wikidata" button.
+
+To find an entity's editor page:
+- from the entity's page ([example](https://inventaire.io/entity/wd:Q3366047)), click the pencil
+- from the URL bar, add `/edit`  at the end of the entity's page URL. Examples:
+  - https://inventaire.io/entity/wd:Q3366047 => https://inventaire.io/entity/wd:Q3366047/edit
+  - https://inventaire.io/items/af3b4551e35355f9ffbdcb06e3001403 => https://inventaire.io/items/af3b4551e35355f9ffbdcb06e3001403/edit
+
+The editor is largely inspired by Wikidata own editor so that the Wikidata community feels at home ;) But at the same time, it is designed to make the contribution of anyone - aware of Wikidata or not - easy and welcome. Inputs values are thus more constrained than in Wikidata, a few examples:
+* you won't be able to state that a book as a montaign for author
+* following the [WikiProject Books](https://www.wikidata.org/wiki/Wikidata:WikiProject_Books) recommandations to separate works and their editions (the [FRBR](https://en.wikipedia.org/wiki/Functional_Requirements_for_Bibliographic_Records)-ish way), you won't be allowed to set an ISBN on a work
+* additionnaly, you won't be allowed to set claims that belong to the work level on the edition, as we assume that editions inherit those from the works they are associated with, and that it would be unnecessary duplications
+
 [![contributive data](https://trello-attachments.s3.amazonaws.com/56e00fd7fbc3e6a2cc85aa56/803x625/2261e082efceca9a8a7598726a818b16/contributive_data.png)](https://inventaire.io/entity/isbn:9782290349229/edit)
 
 ## See also

@@ -100,8 +100,11 @@ The API should look somewhat familar to [Wikidata API](https://www.wikidata.org/
 *Coming soon*
 
 ### Dumps
+All dumps can be found at https://dumps.inventaire.io
+
 #### JSON Dump
-*Coming soon*
+JSON dumps are actually [NDJSON](https://en.wikipedia.org/wiki/JSON_Streaming#Line_delimited_JSON) dumps, that is that there is one entity per line, and no comma at the end of the line.
+
 #### RDF Dump
 *Coming soon*
 

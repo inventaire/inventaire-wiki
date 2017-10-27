@@ -10,13 +10,27 @@ This article aim to document this second aspect, by:
 
 ## Summary
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
 - [Data sources](#data-sources)
   - [Wikidata](#wikidata)
   - [Internal database](#internal-database)
   - [Web data seeds](#web-data-seeds)
 - [Data structure](#data-structure)
+  - [Differences between Wikidata and Inventaire terminologies](#differences-between-wikidata-and-inventaire-terminologies)
+  - [Examples of relations between entities](#examples-of-relations-between-entities)
 - [Data editor](#data-editor)
+- [Raw data](#raw-data)
+  - [API](#api)
+  - [SPARQL endpoint](#sparql-endpoint)
+  - [Dumps](#dumps)
+    - [JSON Dump](#json-dump)
+    - [RDF Dump](#rdf-dump)
 - [See also](#see-also)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Data sources
 

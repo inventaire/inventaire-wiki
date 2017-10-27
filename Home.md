@@ -8,7 +8,7 @@ Welcome to [inventaire.io](https://inventaire.io) [wiki](https://en.wikipedia.or
   * [[Economic model]]
   * [[Organization model]]
   * [[How to contribute]]
-  * [[Books data|Where do data on books come from?]]
+  * [[Data|Everything about Data]]
 * [[FAQ|Frequently Asked Questions]]
 * [[News]]
 * [[Wiki how-to]]

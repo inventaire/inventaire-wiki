@@ -76,6 +76,22 @@ The editor is largely inspired by Wikidata own editor so that the Wikidata commu
 
 [![contributive data](https://trello-attachments.s3.amazonaws.com/56e00fd7fbc3e6a2cc85aa56/803x625/2261e082efceca9a8a7598726a818b16/contributive_data.png)](https://inventaire.io/entity/isbn:9782290349229/edit)
 
+## Raw data
+### API
+*See [api.inventaire.io section on entities](https://api.inventaire.io/#/Entities)*
+The API should look somewhat familar to [Wikidata API](https://www.wikidata.org/w/api.php) users, with a few notable differences:
+- for convenience, the API returns both Wikidata and Inventaire entities
+- the Inventaire entities data model doesn't have *qualifiers* at the moment, so labels and claims from both Wikidata and Inventaire entities are returned [simplified](https://github.com/maxlath/wikidata-sdk/blob/master/docs/simplify_entities_data.md)
+
+### SPARQL endpoint
+*Coming soon*
+
+### Dumps
+#### JSON Dump
+*Coming soon*
+#### RDF Dump
+*Coming soon*
+
 ## See also
 * [[Data contribution guidelines]]
 * [CC0 is the best open data license](https://pietercolpaert.be/open%20data/2017/02/23/cc0.html)

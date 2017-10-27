@@ -89,6 +89,12 @@ The editor is largely inspired by Wikidata own editor so that the Wikidata commu
 The API should look somewhat familar to [Wikidata API](https://www.wikidata.org/w/api.php) users, with a few notable differences:
 - for convenience, the API returns both Wikidata and Inventaire entities
 - the Inventaire entities data model doesn't have *qualifiers* at the moment, so labels and claims from both Wikidata and Inventaire entities are returned [simplified](https://github.com/maxlath/wikidata-sdk/blob/master/docs/simplify_entities_data.md)
+- as Inventaire knows about both Wikidata and Inventaire entities, claims properties and entity values need to be prefixed:
+```sparql
+ PREFIX wd: <http://www.wikidata.org/entity/>
+ PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+ PREFIX inv: <https://inventaire.io/entity/>
+ ```
 
 ### SPARQL endpoint
 *Coming soon*

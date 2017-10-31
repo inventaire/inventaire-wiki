@@ -2,8 +2,10 @@
 ## Team
 * [Jums](http://www.dev4dev.eu/) started working on the project full-time: welcome!!
 
+## Developments
+### Code Contributor Guidelines
+With Jums arrival in the project, the full-time technical team doubled in size, requiring us to update the project development workflow: here are the updated [Code Contributor Guidelines](https://github.com/inventaire/inventaire/wiki/Code-Contributor-Guidelines)
 
-## Developments 
 ### Inventory browser
 It's finally coming! You should soon be able to browse your inventory by author, genre, and subject!
 A preview of this feature is hidden here http://inventaire.io/inventory/browser until everything works as expected and we can make it easier to find.

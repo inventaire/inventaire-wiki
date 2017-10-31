@@ -1,5 +1,8 @@
 <!-- LANG:EN, title="October 2017"-->
- 
+## Team
+* [Jums](http://www.dev4dev.eu/) started working on the project full-time: welcome!!
+
+
 ## Developments 
 ### Inventory browser
 It's finally coming! You should soon be able to browse your inventory by author, genre, and subject!

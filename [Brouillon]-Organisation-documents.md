@@ -2,11 +2,6 @@
  Cette page vise à écrire les documents d'organisation (statut, réglement intérieur) d'une association qui encadre le dévelopement des activités de la plateforme inventaire.io
  
  ## Statut
-  le titre de l'association, son objet, sa durée et son siège social ;
-les conditions d'admission et de radiation de ses membres ;
-les règles d'organisation et de fonctionnement de l'association et la détermination des pouvoirs attribués aux membres chargés de l'administrer ;
-les conditions de modification des statuts et les conditions de dissolution de l'association ;
-les règles suivant lesquelles les biens seront attribués en cas de dissolution volontaire, statutaire, prononcée en justice ou par décret.
 
 ### Titre
 Association régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre: Les Amis D'Inventaire.
@@ -34,5 +29,13 @@ via des moyens financiers issus
 L'Association se compose de:
     - membres actifs (équipe)
     - membres bienfaiteurs (contibuteurs)
+
+>  [recommandations](https://www.service-public.fr/associations/vosdroits/F1120) de contenu
+  le titre de l'association, son objet, sa durée et son siège social ;
+les conditions d'admission et de radiation de ses membres ;
+les règles d'organisation et de fonctionnement de l'association et la détermination des pouvoirs attribués aux membres chargés de l'administrer ;
+les conditions de modification des statuts et les conditions de dissolution de l'association ;
+les règles suivant lesquelles les biens seront attribués en cas de dissolution volontaire, statutaire, prononcée en justice ou par décret.
+
 
  ## Règlement intérieur

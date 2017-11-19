@@ -30,12 +30,13 @@ L'Association se compose de:
     - membres actifs (équipe)
     - membres bienfaiteurs (contibuteurs)
 
->  [recommandations](https://www.service-public.fr/associations/vosdroits/F1120) de contenu
-  le titre de l'association, son objet, sa durée et son siège social ;
-les conditions d'admission et de radiation de ses membres ;
-les règles d'organisation et de fonctionnement de l'association et la détermination des pouvoirs attribués aux membres chargés de l'administrer ;
-les conditions de modification des statuts et les conditions de dissolution de l'association ;
-les règles suivant lesquelles les biens seront attribués en cas de dissolution volontaire, statutaire, prononcée en justice ou par décret.
+>  #### [recommandations](https://www.service-public.fr/associations/vosdroits/F1120) de contenu de statut d'association
+
+- le titre de l'association, son objet, sa durée et son siège social ;
+- les conditions d'admission et de radiation de ses membres ;
+- les règles d'organisation et de fonctionnement de l'association et la détermination des pouvoirs attribués aux membres chargés de l'administrer ;
+- les conditions de modification des statuts et les conditions de dissolution de l'association ;
+- les règles suivant lesquelles les biens seront attribués en cas de dissolution volontaire, statutaire, prononcée en justice ou par décret.
 
 
  ## Règlement intérieur

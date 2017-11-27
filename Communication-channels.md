@@ -20,7 +20,11 @@ Both general and technical discussions are welcome in those chatrooms
 hello@inventaire.io
 
 ## Translation
-As much as possible, use the [Transifex project](https://www.transifex.com/inventaire/inventaire/) to improve a translation or report translation issues. But if you don't have a Transifex account and don't feel like creating one, you may use any other channel to inform others of an issue.
+As much as possible, use the [Transifex project](https://www.transifex.com/inventaire/inventaire/) to improve a translation or report translation issues. 
+
+/!\ Be careful: every update on transifex will affect translation without any filter
+
+But if you don't have a Transifex account and don't feel like creating one, you may use any other channel to inform others of an issue.
 
 ## Technical discussions
 
@@ -55,7 +59,11 @@ Les discussions générales ou techniques sont toutes bienvenues dans ces chatro
 hello@inventaire.io
 
 ## Traduction
-Autant que possible, utilisez le [project Transifex](https://www.transifex.com/inventaire/inventaire/) pour améliorer une traduction ou signaler un problème de traduction. Si vous n'avez pas de compte Transifex et ne souhaitez pas en créer un, vous pouvez utiliser n'importe quel autre canal de communication pour signaler un problème.
+Autant que possible, utilisez le [project Transifex](https://www.transifex.com/inventaire/inventaire/) pour améliorer une traduction ou signaler un problème de traduction. 
+
+/!\ Attention: les changement opéré sur transifex affecte directement les traductions sans filtre ni admin. 
+
+Si vous n'avez pas de compte Transifex et ne souhaitez pas en créer un, vous pouvez utiliser n'importe quel autre canal de communication pour signaler un problème.
 
 ## Discussions techniques
 

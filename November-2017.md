@@ -1,7 +1,7 @@
 <!-- LANG:EN, title="November 2017"-->
 
 ## Discussions
-	* we are activelly discussion the [setup of tools to clean entities in a more systematic fashion](https://github.com/inventaire/inventaire/issues/129)
+* we are activelly discussion the [setup of tools to clean entities in a more systematic fashion](https://github.com/inventaire/inventaire/issues/129)
 * [on improving scientific papers support](https://twitter.com/andrawaag/status/936027866101420032), and more generally, on the project direction as a discovery/recommendation tool
 
 ## Data

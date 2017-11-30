@@ -2,6 +2,9 @@
 ## Team
 * [Jums](http://www.dev4dev.eu/) started working on the project full-time: welcome!!
 
+## Data
+* we now have [[Data|data]] **dumps** at  [dumps.inventaire.io](http://dumps.inventaire.io)
+
 ## Developments
 ### Code Contributor Guidelines
 With Jums arrival in the project, the full-time technical team doubled in size, requiring us to update the project development workflow: here are the updated [Code Contributor Guidelines](https://github.com/inventaire/inventaire/wiki/Code-Contributor-Guidelines)

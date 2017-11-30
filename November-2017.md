@@ -1,5 +1,7 @@
 <!-- LANG:EN, title="November 2017"-->
 
+## Discussions
+* [on improving scientific papers support](https://twitter.com/andrawaag/status/936027866101420032), and more generally, on the project direction as a discovery/recommendation tool
 ## Data
 ### New properties
 Commits: server [e134590](http://github.com/inventaire/inventaire/commit/e134590), [05b48cc](http://github.com/inventaire/inventaire/commit/05b48cc) / client [73433bc](http://github.com/inventaire/inventaire-client/commit/73433bc), [d912093](http://github.com/inventaire/inventaire-client/commit/d912093)

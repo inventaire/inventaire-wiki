@@ -27,7 +27,7 @@ Following pandark issues ([#121](https://github.com/inventaire/inventaire/issues
 - [improved API documentation](https://api.inventaire.io/#/Groups)
 
 ## Deployment
- * inventaire.io joins wiki.inventaire.io in automating its SSL/TLS setup using [LetsEncrypt](https://letsencrypt.org)
+ * inventaire.io joins wiki.inventaire.io in automating its SSL/TLS setup using [LetsEncrypt](https://letsencrypt.org). Commit: [2e43036@deploy](https://github.com/inventaire/inventaire-deploy/commit/2e43036)
  
 <hr>
 

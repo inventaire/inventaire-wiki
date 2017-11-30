@@ -25,6 +25,9 @@ Following pandark issues ([#121](https://github.com/inventaire/inventaire/issues
   - a sub-menu was added to allow inviting to the group by email
   - sub-menus are now wrapped by default for more clarity
 - [improved API documentation](https://api.inventaire.io/#/Groups)
+
+## Deployment
+ * inventaire.io joins wiki.inventaire.io in automating its SSL/TLS setup using [LetsEncrypt](https://letsencrypt.org)
  
 <hr>
 

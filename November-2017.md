@@ -1,8 +1,18 @@
 <!-- LANG:EN, title="November 2017"-->
 
 ## Discussions
-* ongoing discussion on the [setup of tools to clean entities in a more systematic fashion](https://github.com/inventaire/inventaire/issues/129)
-* [on improving scientific papers support](https://twitter.com/andrawaag/status/936027866101420032), and more generally, on the project direction as a discovery/recommendation tool
+* ongoing discussion on the [setup of tools to **clean entities** in a more systematic fashion](https://github.com/inventaire/inventaire/issues/129)
+* [on improving **scientific papers** support](https://twitter.com/andrawaag/status/936027866101420032), and more generally, **on the project direction as a discovery/recommendation tool**
+
+## Documentation
+- the [**Code Contributor Guidelines**](https://github.com/inventaire/inventaire/wiki/Code-Contributor-Guidelines) got updated
+- **New User Tips**:
+  - [Search Inventaire from your browser address bar](https://wiki.inventaire.io/wiki/Search-Inventaire-from-your-browser-address-bar)
+- **New Developer Tips**:
+  - [How to use the debugger](https://github.com/inventaire/inventaire/wiki/Use-the-debugger#server-side)
+
+## Presentation
+- the WikidataCon presentation *"Inventaire: Tale of a Wikidata-centered linked open contributive database on resources"* is online: [video](https://www.youtube.com/watch?v=nlxWy8ombEM&t=5m50s), [slides](https://hackmd.io/p/SJGdXy-RZ)
 
 ## Data
 ### New properties
@@ -27,7 +37,10 @@ Following pandark issues ([#121](https://github.com/inventaire/inventaire/issues
 - [improved API documentation](https://api.inventaire.io/#/Groups)
 
 ## Deployment
- * inventaire.io joins wiki.inventaire.io in automating its SSL/TLS setup using [LetsEncrypt](https://letsencrypt.org). Commit: [2e43036@deploy](https://github.com/inventaire/inventaire-deploy/commit/2e43036)
+ * inventaire.io joins wiki.inventaire.io in automating its SSL/TLS setup using [**LetsEncrypt**](https://letsencrypt.org). Commit: [2e43036@deploy](https://github.com/inventaire/inventaire-deploy/commit/2e43036)
+
+## Other Noteworthy Stuff
+*  **Barcode Scanner/Firefox**: Firefox for Android 57 seems to have fixed the issue with autofocus while using the scanner
  
 <hr>
 

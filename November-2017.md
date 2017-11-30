@@ -29,6 +29,9 @@ Commits: server [e134590](http://github.com/inventaire/inventaire/commit/e134590
 - number of volumes ([wdt:P2635](https://www.wikidata.org/wiki/Property:P2635))
 
 ## Developments
+### Welcome page
+- the section [*some of the last books listed*](http://inventaire.io/welcome) is now generated from the [`/api/items?action=recent-public` endpoint](https://github.com/inventaire/inventaire/blob/bbc70f2/server/controllers/items/recent_public.coffee), which takes care to return items from different users and in the user language. (issues: [#102](https://github.com/inventaire/inventaire/issues/102) and [#127](https://github.com/inventaire/inventaire/issues/127))
+
 ### Groups
 Following pandark issues ([#121](https://github.com/inventaire/inventaire/issues/121), [#122](https://github.com/inventaire/inventaire/issues/122)), groups got a major update:
 - [**Group board**](https://inventaire.io/network/groups/settings): 

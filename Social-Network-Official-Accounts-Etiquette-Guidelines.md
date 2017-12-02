@@ -1,4 +1,4 @@
-<!-- LANG:EN, title="Social Network Etiquette Guidelines"-->
+<!-- LANG:EN, title="Social Network Official Accounts Etiquette Guidelines "-->
 You got granted the right to post on social networks in the name of Inventaire: congratulations!
 Here are some **do's and don'ts to keep it sane**:
 - do help to keep those accounts alive and help to promote our projects by any mean that seems to fit, in line with the project's mission, and the tone used so far

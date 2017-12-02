@@ -4,7 +4,12 @@ Start a discussion in your favorite communication channel!
 
 ## General discussions on the project
 ### Social networks
-* **twitter**: mention [@inventaire_io](http://twitter.com/inventaire_io) or use the hashtag [#inventaireio](https://twitter.com/search?q=%23inventaireio)
+* **mastodon**:
+  * mention [@inventaire@mamot.fr](https://mamot.fr/@inventaire)
+  * hashtag: #inventaireio
+* **twitter**:
+  * mention [@inventaire_io](http://twitter.com/inventaire_io)
+  * hashtag [#inventaireio](https://twitter.com/search?q=%23inventaireio)
 * **[facebook](http://facebook.com/inventaire.io/)**
 
 ### Tools

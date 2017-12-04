@@ -1,7 +1,7 @@
 <!-- LANG:EN, title="December 2017"-->
 
 ## Event
-* Worshop at [La Fabrique des Communs de Lyon](https://www.facebook.com/inventaire.io/posts/1901103113489055)
+* Worshop at [[Fabrique Lyonnaise des Communs 2017]]
  
 <hr>
 

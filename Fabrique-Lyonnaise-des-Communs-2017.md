@@ -1,3 +1,6 @@
+<!-- LANG:EN, title="Fabrique Lyonnaise des Communs 2017"-->
+[page only available in French](https://wiki.inventaire.io/pages/Fabrique-Lyonnaise-des-Communs-2017)
+
 <!-- LANG:FR, title="Fabrique Lyonnaise des Communs 2017"-->
 
 ![bannière](http://lyonencommuns.org/wp-content/uploads/2017/11/cropped-BANDEAU-WEB.jpg)

@@ -18,3 +18,7 @@ Au programme:
 Si vous pouvez **venir avec un ordinateur portable**, c'est mieux (ça vous permettra d'être complètement autonome une fois de retour chez vous), mais si ce n'est pas possible, venez quand même, on se débrouillera  :)
 
 [post facebook](https://www.facebook.com/inventaire.io/posts/1901103113489055)
+
+## Photos
+![workshop](https://pbs.twimg.com/media/DQrr_j5X0AAnuSe.jpg:small)
+[*Apprends à alimenter #wikidata avec l'exemple de petit ours brun grâce à @inventaire_io #fabriquedescommuns* — @laMYNE_](https://twitter.com/laMYNE_/status/939822961120481280)

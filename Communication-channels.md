@@ -13,7 +13,7 @@ Start a discussion in your favorite communication channel!
 * **[facebook](http://facebook.com/inventaire.io/)**
 
 ### Tools
-* to discuss and vote the next features and evolution of the project, use the **[roadmap board](https://trello.com/b/0lKcsZDj/inventaire-roadmap)**
+* to discuss and vote the next features and evolution of the project, use the **[roadmap board](http://roadmap.inventaire.io)**
 * use this wiki to centralize all the knowledge about the project
 
 ### Chats
@@ -55,7 +55,7 @@ Commencez une discussion dans votre canal de communication préféré !
 * **[facebook](http://facebook.com/inventaire.io/)**
 
 ### Outils
-* pour discuter fonctionnalités et évolution du projet, utilisez la **[roadmap](https://trello.com/b/0lKcsZDj/inventaire-roadmap)**
+* pour discuter fonctionnalités et évolution du projet, utilisez la **[roadmap](http://roadmap.inventaire.io)**
 * utilisez ce wiki pour centraliser la savoir autour du projet
 
 ### Chats

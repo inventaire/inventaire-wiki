@@ -1,4 +1,8 @@
 <!-- LANG:EN, title="Mars 2018"-->
+
+## Event
+* 24-25th: [Journée du Logiciel Libre](http://www.jdll.org/)
+
 ## Development
 * boost popular entities in live search results: [issue](https://github.com/inventaire/inventaire/issues/101), [PR](https://github.com/inventaire/inventaire/pull/158)
 

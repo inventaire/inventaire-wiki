@@ -1,4 +1,7 @@
 <!-- LANG:EN, title="Mars 2018"-->
+## Development
+* boost popular entities in live search results: [issue](https://github.com/inventaire/inventaire/issues/101), [PR](https://github.com/inventaire/inventaire/pull/158)
+
 ## Misc
 * Wikipedia in English now recommends inventaire.io as a source to find a copy of a book! 
    Ex: [9782330056315](https://en.wikipedia.org/wiki/Special:BookSources/9782330056315#Book-swapping_websites)

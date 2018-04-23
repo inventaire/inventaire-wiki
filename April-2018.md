@@ -5,6 +5,8 @@
 
 ## Developments
 * published the [ISBN importer](http://inventaire.io/add/import) and the [multi-ISBN scanner](http://inventaire.io/add/scan): [PR](https://github.com/inventaire/inventaire-client/pull/140)
+* fixed work images to allow both displaying the work page or zooming on the cover: [issue](https://github.com/inventaire/inventaire-client/issues/144), [PR](https://github.com/inventaire/inventaire-client/pull/145)
+* improved date claims formats to accept month precision: [server PR](https://github.com/inventaire/inventaire/pull/143), [client PR](https://github.com/inventaire/inventaire-client/pull/143)
 
 ### internal
 *  implemented zero downtime restart: [issue](https://github.com/inventaire/inventaire/issues/100), [commit](https://github.com/inventaire/inventaire-deploy/commit/8b55857)

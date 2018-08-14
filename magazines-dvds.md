@@ -14,8 +14,8 @@ I don't see those two conditions being met before one or two years : there is st
 
 **Réponse**:
 C'est tout à fait possible à moyen/long terme, mais cela risque de prendre encore un moment, l'idée étant de rester concentré sur les livres tant que l'outil n'a pas atteint un niveau avancé de maturité, ce qui peut être traduit par :
-- toutes les fonctionnalités essentiels ont été développées, notamment : [navigation d'inventaire avancée](https://trello.com/c/wq1RCyuc), [liste de livres](https://trello.com/c/w1dxqgTb), [publication de critiques](https://trello.com/c/uwdkvGl1), [mode "wishlist"](https://trello.com/c/S5wGWC78)
-- la communauté a les outils et le niveau d'activité nécessaire à traiter la quantité de donnée que représente l'ensemble des livres/BD/manga et de leurs éditions
+- toutes les fonctionnalités essentielles ont été développées, notamment : [navigation d'inventaire avancée](https://trello.com/c/wq1RCyuc), [liste de livres](https://trello.com/c/w1dxqgTb), [publication de critiques](https://trello.com/c/uwdkvGl1), [mode "wishlist"](https://trello.com/c/S5wGWC78)
+- la communauté a les outils et le niveau d'activité nécessaires à traiter la quantité de données que représente l'ensemble des livres/BD/manga et de leurs éditions
 
 J'imagine difficilement ces deux conditions être satisfaites avant un ou deux ans : cela représente encore un sacré bout de chemin :)
 

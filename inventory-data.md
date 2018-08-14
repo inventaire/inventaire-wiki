@@ -18,16 +18,16 @@ So, to answer the question:
 
 [[FAQ|Back to Q&A list]]
  
-<!-- LANG:FR, title="Les données de mon inventaire sont elles partagé publiquement comme la base de donnée des livres et auteurs ?"-->
+<!-- LANG:FR, title="Les données de mon inventaire sont-elles partagées publiquement comme la base de donnée des livres et auteurs ?"-->
  
-**Question**: *Les données de mon inventaire sont elles partagé publiquement comme la base de donnée des livres et auteurs ?*
+**Question**: *Les données de mon inventaire sont elles partagées publiquement comme la base de donnée des livres et auteurs ?*
  
 **Réponse**: 
 Un peu de contexte :
 
 * Inventaire est pour le moment focalisé sur les échanges de livres/BD papier, et pour y arriver, s'appuie sur les données issues de [Wikidata](https://wikidata.org), complété d'une [[Books data|base de donnée interne]] pour les livres et auteurs qui ne seraient pas encore dans Wikidata.
 
-* Comme pour Wikidata, chaque oeuvre (livre, BD) ou auteur a une page unique pour toutes les langues, complété d'une page unique par édition de ces oeuvres. Ces données sont d'intéret public et plutôt stable, et sont donc publié sous une license CC0 pour pouvoir, entre autre, être reversé dans Wikidata si la communauté Wikidata le souhaite.
+* Comme pour Wikidata, chaque oeuvre (livre, BD) ou auteur a une page unique pour toutes les langues, complété d'une page unique par édition de ces oeuvres. Ces données sont d'intéret public et plutôt stable, et sont donc publiées sous une license CC0 pour pouvoir, entre autres, être reversées dans Wikidata si la communauté Wikidata le souhaite.
 
 Donc, pour répondre à la question :
 
@@ -35,7 +35,7 @@ Donc, pour répondre à la question :
 
 [![entities-map](https://raw.githubusercontent.com/inventaire/entities-map/master/screenshots/entities-map.png)](http://github.com/inventaire/entities-map)
 
-* Dans un future plus ou moins proche, il pourrait être possible d'[héberger son inventaire dans sa propre base de donnée](https://trello.com/c/S5Jllefi) et de simplement informer inventaire.io d'où demander ces données, afin de décentraliser cette base de donnée d'inventaires, mais cela va demander encore un peu de temps.
+* Dans un futur plus ou moins proche, il pourrait être possible d'[héberger son inventaire dans sa propre base de donnée](https://trello.com/c/S5Jllefi) et de simplement informer inventaire.io d'où demander ces données, afin de décentraliser cette base de donnée d'inventaires, mais cela va demander encore un peu de temps.
 
 
 [[FAQ|Retourner à la liste des questions/réponses]]

@@ -21,3 +21,17 @@ Here are listed all the news reports on the project developments: documenting al
 * [[October 2018|October]]
 * [[November 2018|November]]
 * [[December 2018|December]]
+
+## 2019
+* [[January 2019|January]]
+* [[February 2019|February]]
+* [[March 2019|March]]
+* [[April 2019|April]]
+* [[May 2019|May]]
+* [[June 2019|June]]
+* [[July 2019|July]]
+* [[August 2019|August]]
+* [[September 2019|September]]
+* [[October 2019|October]]
+* [[November 2019|November]]
+* [[December 2019|December]]

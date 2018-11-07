@@ -2,4 +2,4 @@
 
 <hr>
 
-[[Feburary 2019|← Feburary]] - [[News|All News]] - [[April 2019|April →]]
+[[Februrary 2019|← Februrary]] - [[News|All News]] - [[April 2019|April →]]

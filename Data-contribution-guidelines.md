@@ -27,7 +27,7 @@ Having publishers directly keep data about their productions in Wikidata and Inv
 
 ## See also
 * [Entities map](https://inventaire.github.io/entities-map/)
-* [[Books data]]
+* [[Data|Books data]]
 
 <!-- LANG:FR, title="Conventions de contribution aux données"-->
 
@@ -54,4 +54,4 @@ Inventaire partage largement les [règles de Wikidata sur les conflits d'intér�
 
 ## Voir aussi
 * [Carte des entités](https://inventaire.github.io/entities-map/)
-* [[Books data|Données des livres]]
+* [[Data|Données des livres]]

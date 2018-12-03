@@ -1,5 +1,10 @@
 <!-- LANG:EN, title="Presentations"-->
- 
+
+## 2018
+### Wikicite
+- [Video](https://www.youtube.com/watch?v=4CZDJ2uHrTk&t=3864)
+- [Slides](https://inventaire.github.io/wikicite-2018)
+
 ## 2017
 ### Wikicite
 - [Video](https://www.youtube.com/watch?v=1pMHSghEM7A&t=8h42m52s)

@@ -19,6 +19,7 @@ Start a discussion in your favorite communication channel!
 ### Chats
 Both general and technical discussions are welcome in those chatrooms
 * irc: #inventaire @freenode.net (accessible from [Matrix/riot.im](https://riot.im/app/#/room/#freenode_#inventaire:matrix.org))
+* Telegram: https://t.me/joinchat/BQaERg78pzm9lt9lIeVWEQ
 
 ### Email
 hello@inventaire.io
@@ -61,6 +62,7 @@ Commencez une discussion dans votre canal de communication préféré !
 ### Chats
 Les discussions générales ou techniques sont toutes bienvenues dans ces chatrooms
 * irc: #inventaire @freenode.net (accessible depuis [Matrix/riot.im](https://riot.im/app/#/room/#freenode_#inventaire:matrix.org))
+* Telegram: https://t.me/joinchat/BQaERg78pzm9lt9lIeVWEQ
 
 ### Email
 hello@inventaire.io

@@ -2,7 +2,7 @@
 
 ## 2018
 ### Wikicite 2018
-* Pioneering Wikidata-federated open bibliographic data: [Video](https://www.youtube.com/watch?v=4CZDJ2uHrTk&t=3864) - [Slides](https://inventaire.github.io/wikicite-2018)
+* inventaire.io: Pioneering Wikidata-federated open bibliographic data: [Video](https://www.youtube.com/watch?v=4CZDJ2uHrTk&t=3864) - [Slides](https://inventaire.github.io/wikicite-2018)
 
 ## 2017
 ### Wikicite 2017

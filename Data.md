@@ -67,6 +67,8 @@ The user inventory is made of **items**, each item being an instance of an editi
 
 ![entities map](https://raw.githubusercontent.com/inventaire/entities-map/master/screenshots/entities-map.png)
 
+
+
 ## Data editor
 To edit Inventaire entities, you first need to [create an Inventaire account](http://inventaire.io/signup).  In addition, to edit Wikidata entities from the Inventaire entity editor, you will be invited to connect your Wikidata account. But you can also simply click the "Edit on Wikidata" button.
 

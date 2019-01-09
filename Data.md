@@ -17,13 +17,12 @@ This article aims to document this second aspect, by:
   - [Differences between Wikidata and Inventaire terminologies](#differences-between-wikidata-and-inventaire-terminologies)
   - [Examples of relations between entities](#examples-of-relations-between-entities)
 - [Data editor](#data-editor)
+- [Data contribution](#data-contribution)
 - [Raw data](#raw-data)
   - [API](#api)
   - [SPARQL endpoint](#sparql-endpoint)
   - [Dumps](#dumps)
-    - [JSON Dump](#json-dump)
-    - [RDF Dump](#rdf-dump)
-- [See also](#see-also)
+ - [See also](#see-also)
 
 ## Data sources
 
@@ -67,8 +66,6 @@ The user inventory is made of **items**, each item being an instance of an editi
 
 ![entities map](https://raw.githubusercontent.com/inventaire/entities-map/master/screenshots/entities-map.png)
 
-
-
 ## Data editor
 To edit Inventaire entities, you first need to [create an Inventaire account](http://inventaire.io/signup).  In addition, to edit Wikidata entities from the Inventaire entity editor, you will be invited to connect your Wikidata account. But you can also simply click the "Edit on Wikidata" button.
 
@@ -84,6 +81,16 @@ The editor is largely inspired by Wikidata own editor so that the Wikidata commu
 * additionnaly, you won't be allowed to set claims that belong to the work level on the edition, as we assume that editions inherit those from the works they are associated with, and that it would be unnecessary duplications
 
 [![contributive data](https://trello-attachments.s3.amazonaws.com/56e00fd7fbc3e6a2cc85aa56/803x625/2261e082efceca9a8a7598726a818b16/contributive_data.png)](https://inventaire.io/entity/isbn:9782290349229/edit)
+
+## Data contribution
+
+For anyone willing to enrich Inventaire CC0 data from their own dumps, here is the properties inventaire can understand.
+
+The [Inventaire client interface](https://github.com/inventaire/inventaire-client/) can read and interprete triples from Wikidata and Inventaire stores. In order to not be able to read every triples of Wikidata, Inventaire client reads only a limited set of **[whitelist properties](https://github.com/inventaire/inventaire/blob/master/server/lib/wikidata/whitelisted_properties.coffee)** that mimic [Wikidata](https://www.wikidata.org/wiki/Wikidata:List_of_properties) properties. The distribution of claims per properties is accessible through [this sparql query](https://query.inventaire.io/#%23Count%20the%20number%20of%20claims%20per%20property%0ASELECT%20%3Fproperty%20%28COUNT%28%3Fitem%29%20AS%20%3Fcount%29%20WHERE%20%7B%0A%20%20%3Fitem%20%3Fproperty%20%3Fvalue%20.%0A%7D%0AGROUP%20BY%20%3Fproperty%0AORDER%20BY%20DESC%28%3Fcount%29)
+
+The [Inventaire server](https://github.com/inventaire/inventaire) can read and write data only after typing every entity according to Inventaire own **[type model](https://github.com/inventaire/inventaire/blob/master/server/controllers/entities/lib/properties/properties_per_type.coffee)** which map types to properties.
+
+Those two lists of properties  ([client whitelist](https://github.com/inventaire/inventaire/blob/master/server/lib/wikidata/whitelisted_properties.coffee) and [server type model](https://github.com/inventaire/inventaire/blob/master/server/controllers/entities/lib/properties/properties_per_type.coffee)) represent what inventaire can read and write. Anyone willing to enrich Inventaire CC0 data can [contact Inventaire team](hello@inventaire.io) with dumps that match those properties or discuss it with us !
 
 ## Raw data
 ### API
@@ -119,6 +126,8 @@ Available formats JSON,  [NDJSON](https://en.wikipedia.org/wiki/JSON_Streaming#L
   - [Amorces de données du web](#amorces-de-donn%C3%A9es-du-web)
 - [Structure des données](#structure-des-donn%C3%A9e)
 - [Editeur de données](#editeur-de-donn%C3%A9e)
+- [Contribuer a la donnée](#contribuer-a-la-donn%C3%A9e)
+- [Données brutes](#donn%C3%A9e-brutes)
 - [Voir aussi](#voir-aussi)
 
 ## Sources des données
@@ -151,6 +160,37 @@ L'inventaire d'un utilisateur est lui constitué d'articles (en anglais : `item`
 
 ### Editeur de données
 [![contributive data](https://trello-attachments.s3.amazonaws.com/56e00fd7fbc3e6a2cc85aa56/803x625/2261e082efceca9a8a7598726a818b16/contributive_data.png)](https://inventaire.io/entity/isbn:9782290349229/edit)
+
+## Contribuer à la donnée
+
+Pour celles et ceux qui souhaite enrichir les données CC0 d'inventaire et wikidata au dela de l'éditeur de données, voici un descriptif des propriétés utilisées par Inventaire.
+
+Coté [interface client](https://github.com/inventaire/inventaire-client/), Inventaire peut lire de la données issues de Wikidata ET du stockage interne Inventaire. Pour ne pas demander l'intégralité des valeurs liées propriétés Wikidata, le client restreint les propriétées à celles inscrites sur **[cette liste blanche](https://github.com/inventaire/inventaire/blob/master/server/lib/wikidata/whitelisted_properties.coffee)**. Ces propriétés imitent celles employées par [Wikidata](https://www.wikidata.org/wiki/Wikidata:List_of_properties). On peut trouver l'intégralité des propriétés inscrites dans inventaire via cette [requête SPARQL](https://query.inventaire.io/#%23Count%20the%20number%20of%20claims%20per%20property%0ASELECT%20%3Fproperty%20%28COUNT%28%3Fitem%29%20AS%20%3Fcount%29%20WHERE%20%7B%0A%20%20%3Fitem%20%3Fproperty%20%3Fvalue%20.%0A%7D%0AGROUP%20BY%20%3Fproperty%0AORDER%20BY%20DESC%28%3Fcount%29)
+
+Coté [serveur](https://github.com/inventaire/inventaire), Inventaire peut lire et écrire des données sur sa base de données. Lors de la lecture ou de l'écriture d'une donnée un typage est effectué en fonction des propriétés,  suivant **[ce modèle](https://github.com/inventaire/inventaire/blob/master/server/controllers/entities/lib/properties/properties_per_type.coffee)** .
+
+Ces deux listes  réprésentent ce qu'inventaire peut traiter aujourd'hui. Tout dépot qui détient de l'information en lien avec ces propriétés sont bienvenus. [Contactez-nous](hello@inventaire.io) si vous souhaiter en discuter.
+
+## Données brutes
+### API
+*Voir [api.inventaire.io section sur les entities](https://api.inventaire.io/#/Entities)*
+L'API se veut proche de l'[API Wikidata](https://www.wikidata.org/w/api.php) avec quelques différences notables :
+-pour un confort d'utilisation, l'API retourne à la fois des entités Inventaire et Wikidata
+-  les modèle de données des entités inventaire n'ont pas de *qualifiers*  pour l'instant, donc les *labels* et les *claims*  qui viennent à la fois de Wikidata et d'Inventaire sont retournées [simplifiées](https://github.com/maxlath/wikidata-sdk/blob/master/docs/simplify_entities_data.md)
+- comme Inventaire reconnait à la fois les données issues Wikidata et d'Inventaire, les propriétés sur *claims*  et les valeurs des entitiés doivent être prefixé:
+```sparql
+ PREFIX wd: <http://www.wikidata.org/entity/>
+ PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+ PREFIX inv: <https://inventaire.io/entity/>
+ ```
+
+### Point d'entrée SPARQL 
+Un service de requête SPARQL est disponible sur https://query.inventaire.io/
+
+### Dumps
+All dumps can be found at https://dumps.inventaire.io
+Available formats JSON,  [NDJSON](https://en.wikipedia.org/wiki/JSON_Streaming#Line_delimited_JSON), TTL (turtle)
+
 
 ## Voir aussi
 * [[Data contribution guidelines|Conventions de contribution aux données]]

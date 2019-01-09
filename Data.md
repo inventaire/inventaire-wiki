@@ -97,16 +97,11 @@ The API should look somewhat familar to [Wikidata API](https://www.wikidata.org/
  ```
 
 ### SPARQL endpoint
-*Coming soon*
+A query service is available at https://query.inventaire.io/
 
 ### Dumps
 All dumps can be found at https://dumps.inventaire.io
-
-#### JSON Dump
-JSON dumps are actually [NDJSON](https://en.wikipedia.org/wiki/JSON_Streaming#Line_delimited_JSON) dumps, that is that there is one entity per line, and no comma at the end of the line.
-
-#### RDF Dump
-*Coming soon*
+Available formats JSON,  [NDJSON](https://en.wikipedia.org/wiki/JSON_Streaming#Line_delimited_JSON), TTL (turtle)
 
 ## See also
 * [[Data contribution guidelines]]

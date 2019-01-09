@@ -169,7 +169,7 @@ Coté [interface client](https://github.com/inventaire/inventaire-client/), Inve
 
 Coté [serveur](https://github.com/inventaire/inventaire), Inventaire peut lire et écrire des données sur sa base de données. Lors de la lecture ou de l'écriture d'une donnée un typage est effectué en fonction des propriétés,  suivant **[ce modèle](https://github.com/inventaire/inventaire/blob/master/server/controllers/entities/lib/properties/properties_per_type.coffee)** .
 
-Ces deux listes  réprésentent ce qu'inventaire peut traiter aujourd'hui. Tout dépot qui détient de l'information en lien avec ces propriétés sont bienvenus. [Contactez-nous](hello@inventaire.io) si vous souhaiter en discuter.
+Ces deux listes  réprésentent ce qu'inventaire peut traiter aujourd'hui. Tout dépot qui respect les [[Data contribution guidelines|conventions de contribution aux données]] et détient de l'information en lien avec ces propriétés listés ci-dessus sont bienvenus. [Contactez-nous](hello@inventaire.io) si vous souhaiter en discuter.
 
 ## Données brutes
 ### API

@@ -3,11 +3,10 @@
 Since 13th April 2019, Inventaire is registered as a French non-profit association ([association loi 1901](https://en.wikipedia.org/wiki/Nonprofit_organization#France))
 
 ## Address
-<p style=" line-height: 1.4em; margin: 1em;">Association Inventaire - Maison de l'Économie Circulaire
+Association Inventaire - Maison de l'Économie Circulaire
 Jardin des Chartreux, 36 cours Général Giraud
 69001 Lyon
 France
-</p>
 
 ## Bylaw
 *translation from the [French text](https://wiki.inventaire.io/wiki/Association?lang=fr) coming soon*
@@ -17,11 +16,10 @@ France
 Depuis le 13 avril 2019, Inventaire est officiellement une [association loi 1901](https://fr.wikipedia.org/wiki/Association_loi_de_1901).
 
 ## Adresse
-<p style=" line-height: 1.4em; margin: 1em;">Association Inventaire - Maison de l'Économie Circulaire
+Association Inventaire - Maison de l'Économie Circulaire
 Jardin des Chartreux, 36 cours Général Giraud
 69001 Lyon
 France
-</p>
 
 ## Statuts
 ### Article 1er – Dénomination

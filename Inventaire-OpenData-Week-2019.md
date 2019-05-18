@@ -19,7 +19,7 @@
 | name |plan to be present from-to|interested in learning about/contributing to | comment|
 |---|---|---|---|
 | [maxlath](https://maxlath.eu) | 18-25| data, code, design, and communication | |
-|   |   |   |   |
+| jums | 18-25| data, code, design, libraries & book catalogues | |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |

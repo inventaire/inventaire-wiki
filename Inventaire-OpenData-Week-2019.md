@@ -2,7 +2,7 @@
 
 ![cover](https://matrix.org/_matrix/media/v1/download/matrix.allmende.io/zSNFZbIrmKscTZliJTldOhKp)
 
-**From the 18th to the 25th July**, we are invited by our friends at [Kanthaus](https://kanthaus.online/en/) to have an **Inventaire & OpenData Week** ! Anyone who is interested in contributing to Inventaire - be it on data, code, design, or communication - is invited for **a week of learning, sharing, and contributing!** But if you don't have the time to contribute to Inventaire because you are already working on some other project involving libre software, open data and books, or if you just want to meet the awesome crowd that will be there, you are also welcome!
+**From the 18th to the 25th July**, we are invited by our friends at [Kanthaus](https://kanthaus.online/en/) to have an **Inventaire & OpenData Week** ! Anyone using or interested in contributing to Inventaire - be it on data, code, design, or communication - is invited for **a week of learning, sharing, and contributing!** But if you don't have the time to contribute to Inventaire because you are already working on some other project involving libre software, open data and books, or if you just want to meet the awesome crowd that will be there, you are also welcome!
 
 <p style="text-align: center; color: green; font-size: 1.2em; border: 1px solid">If you plan to come, please add yourself to the list of participants hereafter</p>
 

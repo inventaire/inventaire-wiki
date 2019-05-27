@@ -27,10 +27,13 @@ see [hitchwiki.org](https://hitchwiki.org)
 There is plenty of space to park in Wurzen
 
 ## Accomodation
-The house has several common sleeping rooms and a few private rooms that we will share with the residents that aren't in Summer festivals at that time. Staying in Leipzig is also an option: there are S4 trains connecting Leipzig to Wurzen (around 2 per hour during the day), and Kanthaus is very close to the train station... but you would be missing out on the wonders of the life in Kanthaus!
+### In the house
+The house has several common sleeping rooms and a few private rooms that we will share with the residents that aren't in Summer festivals at that time.
+### In Leipzig
+Staying in Leipzig is also an option: there are trains connecting Leipzig to Wurzen - line **S4**, around 2 per hour during the day -, and Kanthaus is very close to the train station... but you would be missing out on the wonders of the life in Kanthaus!
 
 ## Food
-Kanthaus has plenty of food thank to the residents many food saving/sharing skills! If you have special needs, you may also bring your
+Kanthaus has plenty of food thank to the residents many food saving/sharing skills! Let us know if you have special needs on the day you arrive, so that we can try to accomodate everyone.
 
 ## Participants
 | name |plan to be present from-to|interested in learning about/contributing to | comment|

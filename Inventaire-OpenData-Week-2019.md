@@ -10,7 +10,11 @@
 <p>
 
 ## Inventaire
-[inventaire.io](https://inventaire.io) is the libre book sharing webapp powered by [Wikidata](http://wikidata.org), run by a non-profit organization, the [[Association|Inventaire Association]]
+[inventaire.io](https://inventaire.io) is the libre book sharing webapp powered by [Wikidata](https://wikidata.org), run by a non-profit organization, the [[Association|Inventaire Association]]
+
+* see the [roadmap](https://trello.com/b/0lKcsZDj/inventaire-roadmap) to get an idea of the features that got interest from the community, and feel welcome to create new tickets
+* see [server issues](http://github.com/inventaire/inventaire/issues) and [client issues](http://github.com/inventaire/inventaire-client/issues) for more technical problems that we could try to tackle during this week
+* read more about [[Data|data in Inventaire]] to start learning more about cross-contributing data between Inventaire and Wikidata
 
 ## Venue: Kanthaus
 [Kanthaus](https://kanthaus.online/en/) is [a house in Wurzen, near Leipzig, Germany](https://www.openstreetmap.org/way/99897633), **"*A house for sustainable projects*"**
@@ -28,7 +32,7 @@ There is plenty of space to park in Wurzen
 
 ## Accomodation
 ### In the house
-The house has several common sleeping rooms and a few private rooms that we will share with the residents that aren't in Summer festivals at that time.
+The house has several **common sleeping rooms** and a few private rooms that we will share with the residents that aren't in Summer festivals at that time.
 ### In Leipzig
 Staying in Leipzig is also an option: there are trains connecting Leipzig to Wurzen - line **S4**, around 2 per hour during the day -, and Kanthaus is very close to the train station... but you would be missing out on the wonders of the life in Kanthaus!
 

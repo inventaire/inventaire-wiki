@@ -49,11 +49,11 @@ Kanthaus has plenty of food thank to the residents many food saving/sharing skil
 ## Participants
 | name |plan to be present from-to|interested in learning about/contributing to | comment|
 |---|---|---|---|
-| [maxlath](https://maxlath.eu) | 18-25| data, code, design, and communication | |
-| jums | 18-25| data, code, design, libraries & book catalogues | |
+| [maxlath](https://maxlath.eu) | 18-25| data, code, design, and communication |  |
+| jums | 18-25| data, code, design, libraries & book catalogues |  |
 |   |   |   |   |
 |   |   |   |   |
-|   |   |   |   |
+
 
 ## Questions
 If this page is incorrect or incomplete, feel welcome to fix it (it's a wiki!) or to use the [[Communication channels|communication channel]] that fits you best to make us aware of it.

@@ -2,7 +2,13 @@
 
 ![cover](https://matrix.org/_matrix/media/v1/download/matrix.allmende.io/zSNFZbIrmKscTZliJTldOhKp)
 
-**From the 18th to the 25th July**, we are invited by our friends at [Kanthaus](https://kanthaus.online/en/) to have an **Inventaire & OpenData Week** ! Anyone using or interested in contributing to Inventaire - be it on data, code, design, or communication - is invited for **a week of learning, sharing, and contributing!** But if you don't have the time to contribute to Inventaire because you are already working on some other project involving libre software, open data and books, or if you just want to meet the awesome crowd that will be there, you are also welcome!
+**From the 18th to the 25th July**, we are invited by our friends at [Kanthaus](https://kanthaus.online/en/) to have an **Inventaire & OpenData Week** !
+
+Anyone using or interested in contributing to Inventaire - be it on data, code, design, or communication - is invited for **a week of learning, sharing, and contributing!**
+
+But if you don't have the time to contribute to Inventaire because you are already working on some other project involving libre software, open data and books, or if you just want to meet the awesome crowd that will be there, you are also welcome!
+
+This is a [participant-driven event](https://en.wikipedia.org/wiki/Unconference#Format): no predefined discussions, just what is of interest to the people who will be there!
 
 <p style="text-align: center; color: green; font-size: 1.2em; border: 1px solid">If you plan to come, please add yourself to the list of participants hereafter</p>
 
@@ -10,14 +16,15 @@
 <p>
 
 ## Inventaire
-[inventaire.io](https://inventaire.io) is the libre book sharing webapp powered by [Wikidata](https://wikidata.org), run by a non-profit organization, the [[Association|Inventaire Association]]
+[inventaire.io](https://inventaire.io) is the libre book sharing webapp powered by [Wikidata](https://wikidata.org), run by a non-profit organization, the [[Association|Inventaire Association]].
 
+### Prepare for this week of contribution
 * see the [roadmap](https://trello.com/b/0lKcsZDj/inventaire-roadmap) to get an idea of the features that got interest from the community, and feel welcome to create new tickets
 * see [server issues](http://github.com/inventaire/inventaire/issues) and [client issues](http://github.com/inventaire/inventaire-client/issues) for more technical problems that we could try to tackle during this week
 * read more about [[Data|data in Inventaire]] to start learning more about cross-contributing data between Inventaire and Wikidata
 
-## Venue: Kanthaus
-[Kanthaus](https://kanthaus.online/en/) is [a house in Wurzen, near Leipzig, Germany](https://www.openstreetmap.org/way/99897633), **"*A house for sustainable projects*"**
+## Venue
+**[Kanthaus](https://kanthaus.online/en/)** is [a house in Wurzen, near Leipzig, Germany](https://www.openstreetmap.org/way/99897633), **"*A house for sustainable projects*"**
 
 ### Address
 [Kantstraße 20 & 22, Wurzen](https://www.openstreetmap.org/way/99897633)
@@ -31,7 +38,7 @@ see [hitchwiki.org](https://hitchwiki.org)
 There is plenty of space to park in Wurzen
 
 ## Accomodation
-### In the house
+### In Kanthaus
 The house has several **common sleeping rooms** and a few private rooms that we will share with the residents that aren't in Summer festivals at that time.
 ### In Leipzig
 Staying in Leipzig is also an option: there are trains connecting Leipzig to Wurzen - line **S4**, around 2 per hour during the day -, and Kanthaus is very close to the train station... but you would be missing out on the wonders of the life in Kanthaus!
@@ -47,3 +54,6 @@ Kanthaus has plenty of food thank to the residents many food saving/sharing skil
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
+
+## Questions
+If this page is incorrect or incomplete, feel welcome to fix it (it's a wiki!) or to use the [[Communication channels|communication channel]] that fits you best to make us aware of it.

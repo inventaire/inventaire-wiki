@@ -1,6 +1,6 @@
 <!-- LANG:EN, title="Inventaire & OpenData Week 2019"-->
 
-![cover](https://matrix.org/_matrix/media/v1/download/matrix.allmende.io/zSNFZbIrmKscTZliJTldOhKp)
+![Inventaire & OpenData Week 2019](https://user-images.githubusercontent.com/1596934/58413268-ad186a00-8078-11e9-9b96-bc22c8c6026c.png)
 
 **From the 18th to the 25th July**, we are invited by our friends at [Kanthaus](https://kanthaus.online/en/) to have an **Inventaire & OpenData Week** !
 

@@ -4,7 +4,7 @@ For any question on any of those, feel welcome to ask in any of our **[[Communic
 
 ## For everyone
 
-* help to improve **[[Books data|books data]]** (no technical skills required), both:
+* help to improve **[[Data|books data]]** (no technical skills required), both:
   * in Inventaire: on any book's page, click the pencil (should be somewhere on the top right) to display the data editor
   * in Wikidata:
       * find the missing data for [books without author](http://tools.wmflabs.org/wikidata-game/#mode=no_author)

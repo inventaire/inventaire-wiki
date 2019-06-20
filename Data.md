@@ -10,19 +10,19 @@ This article aims to document this second aspect, by:
 
 ## Summary
 - [Data sources](#data-sources)
-- [Wikidata](#wikidata)
-- [Internal database](#internal-database)
-- [Web data seeds](#web-data-seeds)
+  - [Wikidata](#wikidata)
+  - [Internal database](#internal-database)
+  - [Web data seeds](#web-data-seeds)
 - [Data structure](#data-structure)
-- [Differences between Wikidata and Inventaire terminologies](#differences-between-wikidata-and-inventaire-terminologies)
-- [Examples of relations between entities](#examples-of-relations-between-entities)
+  - [Differences between Wikidata and Inventaire terminologies](#differences-between-wikidata-and-inventaire-terminologies)
+  - [Examples of relations between entities](#examples-of-relations-between-entities)
 - [Data editor](#data-editor)
 - [Data contribution](#data-contribution)
 - [Raw data](#raw-data)
-- [API](#api)
-- [SPARQL endpoint](#sparql-endpoint)
-- [Dumps](#dumps)
-- [See also](#see-also)
+  - [API](#api)
+  - [SPARQL endpoint](#sparql-endpoint)
+  - [Dumps](#dumps)
+  - [See also](#see-also)
 
 ## Data sources
 
@@ -121,9 +121,9 @@ Available formats JSON, [NDJSON](https://en.wikipedia.org/wiki/JSON_Streaming#Li
 ## Sommaire
 
 - [Sources des données](#sources-des-donn%C3%A9es)
-- [Wikidata](#wikidata)
-- [Base de données interne](#base-de-donn%C3%A9e-interne)
-- [Amorces de données du web](#amorces-de-donn%C3%A9es-du-web)
+  - [Wikidata](#wikidata)
+  - [Base de données interne](#base-de-donn%C3%A9e-interne)
+  - [Amorces de données du web](#amorces-de-donn%C3%A9es-du-web)
 - [Structure des données](#structure-des-donn%C3%A9e)
 - [Editeur de données](#editeur-de-donn%C3%A9e)
 - [Contribuer a la donnée](#contribuer-a-la-donn%C3%A9e)

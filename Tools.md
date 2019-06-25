@@ -14,10 +14,11 @@ Those tools are largely experimental and often require to be able to perform act
 * description: anyone can edit the properties of an entity. All pencil buttons on entities pages lead you to the entity editor  (ex: [on the top right of this page](https://inventaire.io/entity/isbn:9791020906427)) .
 * categories: <span class="square lime"></span>
 
-### Graph cleanup
-* location: `/entity/[uri]/edit` ([example](https://inventaire.io/entity/isbn:9791020906427/edit))
+### Cleanup
+* location: `/entity/[uri]/cleanup` ([example](https://inventaire.io/entity/wd:Q26971382/cleanup))
+* description: this is an interface to help cleanup many related entities at the same time. For instance, from the cleanup page of a serie, you could easily move editions from one part of the serie to another.
+* limitation: only ready for series at the moment
 * categories: <span class="square purple"></span>  <span class="square yellow"></span>
-
 
 ### Merge
 * location: on entities editor pages

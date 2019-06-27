@@ -8,6 +8,8 @@ Anyone using or interested in contributing to Inventaire - be it on data, code, 
 
 But if you don't have the time to contribute to Inventaire because you are already working on some other project involving libre software, open data and books, or if you just want to meet the awesome crowd that will be there, you are also welcome!
 
+There will be people there during the whole week, but **if you can be with us just for a few hours or days, that's totally ok!**
+
 This is a [participant-driven event](https://en.wikipedia.org/wiki/Unconference#Format): no predefined discussions, just what is of interest to the people who will be there!
 
 <p style="text-align: center; color: green; font-size: 1.2em; border: 1px solid">If you plan to come, please add yourself to the list of participants hereafter</p>

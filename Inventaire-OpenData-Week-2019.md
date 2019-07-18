@@ -58,6 +58,8 @@ Kanthaus has plenty of food thank to the residents many food saving/sharing skil
 |   |   |   |   |
 |   |   |   |   |
 
+## Discussions
+*See [Inventaire Open Week pad](https://hack.allmende.io/inventaire-open-week-2019)*
 
 ## Questions
 If this page is incorrect or incomplete, feel welcome to fix it (it's a wiki!) or to use the [[Communication channels|communication channel]] that fits you best to make us aware of it.

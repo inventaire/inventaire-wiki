@@ -69,7 +69,7 @@ Bienvenue sur le [wiki](https://fr.wikipedia.org/wiki/Wiki) d'[inventaire.io](ht
 Ce wiki se jardine régulièrement, votre contribution est la bienvenue ! Pour n'importe quelle question, choississez votre [[Communication channels|mode de communication préféré]] pour commencer une discussion !
 
 ## Liens essentiels
-* [[Canaux de communication]]
+* [[Communication channels|Canaux de communication]]
 * [Roadmap](http://roadmap.inventaire.io/)
 * [documentation de l'API](http://api.inventaire.io/)
 * [Code](http://git.inventaire.io/)

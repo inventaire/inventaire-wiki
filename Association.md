@@ -2,14 +2,119 @@
 
 Since 13th April 2019, Inventaire is registered as a French non-profit association ([association loi 1901](https://en.wikipedia.org/wiki/Nonprofit_organization#France))
 
-## Address
-Association Inventaire - Maison de l'Économie Circulaire
-Jardin des Chartreux, 36 cours Général Giraud
-69001 Lyon
-France
+### Article 1: Name
+It is founded, by the present members, statuses of a non-profit association with economic activities, under the French law of the 1st of July 1901, called Inventaire.
 
-## Bylaw
-*translation from the [French text](https://wiki.inventaire.io/wiki/Association?lang=fr) coming soon*
+### Article 2: Object
+The usage and spreading of free software and open data upon physical and digital resources, with the aim of informing on exchange possibilities of those resources.
+
+### Article 3: Timeframe
+The timeframe of the association is unlimited.
+
+### Article 4: Headquarter
+Association headquarter is in Lyon, France. It can be transfered under the decision of the Conseil Collégial, and after approval of a General Assembly.
+
+### Article 5: Members
+Members of the association can be either Core Members or other categories of members defined in the Charter.
+
+Members of the association can also be employees or freelancers of the association.
+
+### Article 5.1: Core Members
+Core Members are members of the General Assembly with deliberative vote.
+
+Core Members decide unanimously about the inclusion of new Core Members.
+
+Core Members decide unanimously minus one Core Member about the exclusion of a Core Member, with a minimum of two Core Members. This decision shall be motivated.
+
+Every decision related to the creation, modification or deletion of a member category shall be discussed during a General Assembly.
+
+### Article 5.2: Other Memebrs
+The Charter describes the updated list of other categories of member as well as the entry and exit conditions and the rights and duties of each member categories.
+
+### Article 6: General Assemblies
+### Article 6.1: Ordinary General Assembly
+An ordinary General Assembly decides the orientation, the general policy and the entry of new Core Members of the association.
+
+General Assembly is held once a year.
+
+All members of the association can participate to the General Assembly.
+
+Decisions are taken at a qualified majority by the members with a deliberative vote. The qualification of the majority is defined within the Charter.
+
+A notification to hold a General Assembly shall be sent by the Conseil Collégial to all members of the association at least fifteen days before the assembly, under the conditions defined in the Charter. The agenda shall be written on the notification.
+
+General Aseembly decisions shall apply to all members, including when absent or represented.
+
+The Conseil Collégial designated by consensus one of the member to lead the General Assembly and expose the moral situation and the activities of the association.
+
+All the topics on the agenda shall be discussed.
+
+The General Assembly can decide to update or create new statuses.
+
+The General Assembly can update the yearly contribution fee.
+
+The General Assembly designates the members of the Conseil Collegial from Core Members.
+
+The Conseil Collegial have the possibility of organizing a General Assembly remotely, under the modalities of the Charter.
+
+### Article 6.2: Extraordinary General Assembly
+Every Core Member can request to the Conseil Collegial the organisation of an extraordinary General Assembly.
+
+This request shall be motivated and shall lead to the organisation, by the Conseil Collegial, of a extraordinary General Assembly.
+
+This request is added to agenda of the assembly.
+
+The extraordinary General Assembly shall take place under the same modalities as the General Assembly.
+
+### Article 7: Administration
+
+### Article 7.1: Conseil Collégial
+The association is administrated by a Conseil Collagial nomminated for one year during the General Assembly.
+
+Members of the Conseil Collégial can be paid within the frame of the administrative management of the association.
+
+When a member of the Conseil Collégial is also employed by the association, administratives and disciplinary decisions in regard of this member as an employee shall be taken at the unanimity of the Conseil Collégial minus this member.
+
+### Article 7.2: Legal representative
+When renewing the Conseil Collégial, it designates and mandates unanimously some legal representants within the members of the Conseil Collegial.
+
+### Article 7.3: Delegation of power
+When necessary, the Conseil Collegial can delegate partially its power to one of its members.
+
+### Article 7.4: Decisions of the Conseil Collégial
+Every decisions are taken unanimously by the members of the Conseil Collegial. Members can be present physically or represented. If not, the decision has to be reported to the next meeting of the Conseil Collégial. When a decision is blocked, the Conseil Collegial can invoque a extraordinary General Assembly.
+
+The Conseil Collegial decisions can be taken remotely.
+
+In case of vacancy, the Conseil Collegial decides, if necessary, to the definitive replacement at the next General Assembly.
+
+### Article 7.4 Meeting of the Conseil Collegial
+The Conseil Collegial is having a meeting every time a notification has been sent (on paper or electronically) on demand from at least half of its members, and every time the interests of the association demand it.
+
+If a member of the Conseil Collegial has not answered the notification within two weeks, and, without any mandate given, the Conseil Collegial will still deliberate on urgent decisions, at unanimity of its members present and represented.
+
+### Article 8: Income
+Association income may include:
+
+- the product of its economic activity
+- the contribution fees, amount being set by the Charter
+- public subsidies
+- donations from physical or moral persons
+- every income autorised by French law, at the exception of selling personal data and advertisement income
+
+The economic activity of the association includes:
+- Information systems assistance
+- Information systems development
+- Information systems consultance and contracting
+- Training and formation
+
+General accounting is published yearly including the association income statement and balance sheet.
+
+The Conseil Collegial is collectivly responsible of the general accounting. The association can contract accountant services.
+
+### Article 9: Dissolution
+
+Dissolution is prononced at the unanimity of its Core Members. According to the French law, assets will be devoted to an association with similar goals.
 
 <!-- LANG:FR, title="Association"-->
 

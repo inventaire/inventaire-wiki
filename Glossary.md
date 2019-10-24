@@ -32,6 +32,3 @@ While the edition is likely to not have any duplicate given it has an ISBN, the 
 
 ### Property
 Equivalent to [Wikidata Property](https://www.wikidata.org/wiki/Wikidata:Glossary#Property)
-
-
-<!-- LANG:FR, title="Glossaire"-->

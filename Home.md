@@ -12,7 +12,7 @@ Welcome to [inventaire.io](https://inventaire.io) [wiki](https://en.wikipedia.or
   * [[Presentations Slides]]
 * [[FAQ|Frequently Asked Questions]]
 * [[News]]
-* [[Wiki how-to]]
+* [[inventaire wiki - How-to]]
 
 ## Contribute to this wiki
 It's a work in progress and you're welcome to contribute to it! If you have any question, just start a discussion in [[Communication channels|your favorite discussion channel]]!

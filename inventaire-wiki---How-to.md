@@ -1,4 +1,4 @@
-<!-- LANG:EN, title="Wiki how-to"-->
+<!-- LANG:EN, title="inventaire wiki - How-to"-->
  
 ## Language markups
 

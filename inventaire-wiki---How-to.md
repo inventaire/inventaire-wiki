@@ -17,6 +17,8 @@ salut
 
 As a convention, when editing, language sections should be ordered following the alphabetical order of their two letters code: DA, DE, EN, ES, FR, IT, JA, NO, PL, PT, SV...
 
+You are welcome to use the [[Sandbox]] page to test how this all works.
+
 <!-- LANG:FR, title="Aide Wiki" -->
 
 ## Balises de language
@@ -36,3 +38,5 @@ etc
 ```
 
 Par convention, lors de l'édition, les sections par langue doivent être ordonnées en suivant l'ordre alphabetique de leur code à deux lettre : DA, DE, EN, ES, FR, IT, JA, NO, PL, PT, SV...
+
+La page [[Sandbox|Bac à Sable]] peut être utilisé pour tester tout ça.

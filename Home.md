@@ -63,7 +63,7 @@ Bienvenue sur le [wiki](https://fr.wikipedia.org/wiki/Wiki) d'[inventaire.io](ht
   * [[Presentations Slides]]
 * [[FAQ|Foire Aux Questions]]
 * [[News|Actualités]]
-* [[Wiki how-to|Aide wiki]]
+* [[inventaire wiki - How-to|Aide wiki]]
 
 ## Contribuer à ce wiki
 Ce wiki se jardine régulièrement, votre contribution est la bienvenue ! Pour n'importe quelle question, choississez votre [[Communication channels|mode de communication préféré]] pour commencer une discussion !

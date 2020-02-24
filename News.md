@@ -33,4 +33,4 @@ Here are listed all the news reports on the project developments: documenting al
 * [[August 2019|August]]
 
 ## 2020
-* [[February 2020]February]]
+* [[February 2020|February]]

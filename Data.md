@@ -8,6 +8,8 @@ This article aims to document this second aspect, by:
 * making the **context of open data production in Inventaire** understandible by people who might be more interested in the structured data produced by the application than by its book sharing aspect
 * helping **data re-use**, especially, but not only, by importing data produced in Inventaire back to Wikidata
 
+See also [data.inventaire.io](https://data.inventaire.io), the home page to send to everyone who could be intested in the data aspect of Inventaire, but not necessarly in the web app itself.
+
 ## Summary
 - [Data sources](#data-sources)
   - [Wikidata](#wikidata)

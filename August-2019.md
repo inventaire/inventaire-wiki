@@ -5,4 +5,4 @@
 
 <hr>
 
-[[June 2019|← June]] - [[News|All News]] - [[September 2019|September →]]
+[[July 2019|← July]] - [[News|All News]] - [[September 2019|September →]]

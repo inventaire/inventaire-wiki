@@ -2,4 +2,4 @@
 
 <hr>
 
-[[Mars 2020|← Mars]] - [[News|All News]]
+[[Mars 2020|← Mars]] - [[News|All News]] - [[May 2020|May →]]

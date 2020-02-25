@@ -31,7 +31,7 @@ This is a [participant-driven event](https://en.wikipedia.org/wiki/Unconference#
 
 ## Getting there
 #### By train
-Coming from outside Germany to Wurzen by train can be affordable thank to Deutsch Bahn *Super Sparpreis Europa* tickets (ex: [Lyon-Wurzen](https://www.trainline.eu/search/lyon/wurzen/2019-07-17-06:00)).
+Coming from outside Germany to Wurzen by train can be affordable thank to Deutsch Bahn *Super Sparpreis Europa* tickets (ex: [Lyon-Wurzen](https://www.trainline.eu/search/lyon/wurzen/2020-05-12-06:00)).
 #### By hitchhicking
 see [hitchwiki.org](https://hitchwiki.org)
 #### By car
@@ -49,10 +49,8 @@ Kanthaus has plenty of food thank to the residents many food saving/sharing skil
 ## Participants
 | name |plan to be present from-to|interested in learning about/contributing to | comment|
 |---|---|---|---|
-| [maxlath](https://maxlath.eu) | 18-25| data, code, design, and communication |  |
-| jums | 18-25| data, code, design, libraries & book catalogues |  |
-| [dougwebb](https://dougwebb.site/) | 18-25 | governance, usability, degrowth  |   |
-|   |   |   |   |
+| [maxlath](https://maxlath.eu) | 12-18 | data, code, design, and communication |  |
+| jums | 12-18 | wikidata, code, design, book catalogues |  |
 |   |   |   |   |
 |   |   |   |   |
 

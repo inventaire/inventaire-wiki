@@ -44,7 +44,7 @@ As Wikidata doesn't aim to gather data on all books and their editions, but only
 Those data will are published under a [CC0 license](https://en.wikipedia.org/wiki/CC0), so that the Wikidata community can import the entities that are relevant to Wikidata following their criteria.
 
 ### Web data seeds
-**Basic Facts on books editions extracted from the wide web, proceessed, and enriched** to bootstrap the data set of an edition missing to the database. This is made in an attempt to ease and somewhat automatize what a user encountering missing data would have to do manually: go on the web, searching basic facts like a title, the author's name, a book cover. That's a temporary solution, waiting to be replaced by more reliable data sources, like raw libraries and publishers open data.
+**Basic Facts on books editions extracted from the wide web, proceessed, and enriched** to bootstrap the data set of an edition missing to the database. This is made in an attempt to ease and somewhat automatize what a user encountering missing data would have to do manually: go on the web, searching basic facts like a title, the author's name, a book cover. This data collection is done by a closed source external service nicknamed [dataseed](https://github.com/inventaire/inventaire/blob/master/server/data/dataseed/dataseed.js). That's a temporary solution, waiting to be replaced by more reliable data sources, like raw libraries and publishers open data.
 
 ## Data structure
 
@@ -150,7 +150,7 @@ Wikidata ne visant pas à avoir une fiche pour chaque livre et ses éditions, ma
 Ces données seront ensuite publiée sous une [license CC0 license](https://fr.wikipedia.org/wiki/CC0) afin que la communauté Wikidata puisse importer les entités pertinante pour le projet Wikidata selon leurs propres critères d'admissibilité.
 
 ### Amorces de données du web
-Des **faits de bases sur les éditions de livres extrait du web, traités et enrichis** pour amorcer la fiche d'une édition manquant à la base de donnée. Cela resulte d'une tentative de faciliter et quelque peu automatiser le travail qu'un utilisateur aurait à faire manuellement lorsqu'il fait face à des données manquantes pour une édition donnée. C'est une solution provisoire, en attendant de pouvoir la remplacer par des sources de données plus fiables, telles des données brutes et ouvertes des bibliothèques et éditeurs.
+Des **faits de bases sur les éditions de livres extrait du web, traités et enrichis** pour amorcer la fiche d'une édition manquant à la base de donnée. Cela resulte d'une tentative de faciliter et quelque peu automatiser le travail qu'un utilisateur aurait à faire manuellement lorsqu'il fait face à des données manquantes pour une édition donnée : trouver un titre, un nom d'auteur, une image de couverture. Cette récolte de données est faite par un service externe au code fermé surnommé [dataseed](https://github.com/inventaire/inventaire/blob/master/server/data/dataseed/dataseed.js). C'est une solution provisoire, en attendant de pouvoir la remplacer par des sources de données plus fiables, telles des données brutes et ouvertes des bibliothèques et éditeurs.
 
 ### Structure des données
 

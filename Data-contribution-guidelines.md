@@ -1,5 +1,13 @@
 <!-- LANG:EN, title="Data contribution guidelines"-->
 
+In general, data edition conventions in Inventaire are mirroring conventions of the Wikidata Books project ([project page](https://www.wikidata.org/wiki/Wikidata:WikiProject_Books), [discussions](https://www.wikidata.org/wiki/Wikidata_talk:WikiProject_Books)). This proximity should allow to easily import data from Inventaire to Wikidata.
+
+That said, many of those discussions aren't settled yet or followed by effects. That's for instance the case of discussions around the distinction between works and editions (more or less following the [FRBR](https://en.wikipedia.org/wiki/FRBR) model), and the need to have one entity for each of those and specific properties for those different levels.
+
+Furthermore, contrary to Wikidata where data edition is weakly constrained, Inventaire data edition interface aim to make everyones contribution easy by constraining it as much as possible to avoid errors. For instance, the interface only allows to add humans as author of works, instead of allowing any kind of entity. Another example : you can't add an author to an edition (this can only be done at the work level), or an ISBN to a work (this can only be done at the edition level) (See the [entities map](https://inventaire.github.io/entities-map/))
+
+**The following article gives a summary of the rules applied within Inventaire**. It's a work in progress, feel welcome to contribute or to [[Communication channels|request]] a rule to be explicited.
+
 ## Summary
 
 - [General rule](#general-rule)
@@ -7,16 +15,26 @@
 - [Conflicts of interest](#conflict-of-interest)
 - [See also](#see-also)
 
-## General rule
+## Editions
+### Title and subtitle
+Title (P1476) and subtitle (P1680) properties are available on editions. The use of a subtitle is especially recommended when [the title would be extremly long](https://inventaire.io/entity/inv:14c867eb4418af89860d7199c708a3e3/edit).
 
-In general, data edition conventions in Inventaire are mirroring conventions of the Wikidata Books project ([project page](https://www.wikidata.org/wiki/Wikidata:WikiProject_Books), [discussions](https://www.wikidata.org/wiki/Wikidata_talk:WikiProject_Books)). This proximity should allow to easily import data from Inventaire to Wikidata.
+### Multi-work editions
+Some editions are editions of several works. Example, ["Une saison en Enfer suivi de Les Illuminations"](https://inventaire.io/entity/isbn:9782253159049) is an edition gathering both the work [A Season in Hell](https://inventaire.io/entity/wd:Q301342) and the work [Illuminations](https://inventaire.io/entity/wd:Q2255881). To match this case, [both works where added in the "edition of" (P629) property](https://inventaire.io/entity/isbn:9782253159049/edit).
 
-That said, many of those discussions aren't settled yet or followed by effects. That's for instance the case of discussions around the distinction between works and editions (more or less following the [FRBR](https://en.wikipedia.org/wiki/FRBR) model), and the need to have one entity for each of those and specific properties for those different levels.
+Sometimes it seems like the problem comes from the work level: when an edition is an edition of a whole serie (example: [Harry Potter: The Complete Collection](https://inventaire.io/entity/isbn:9781408856772)), it could make sense to make it just be an "edition of " the whole serie, instead of all of its part: that's not currently possible in Inventaire (it will be rejected as "wrong entity type").
 
-Furthermore, contrary to Wikidata where data edition is weakly constrained, Inventaire data edition interface aim to make everyones contribution easy by constraining it as much as possible to avoid errors. For instance, the interface only allows to add humans as author of works, instead of allowing any kind of entity. Another example : you can't add an author to an edition (this can only be done at the work level), or an ISBN to a work (this can only be done at the edition level) (See the [entities map](https://inventaire.github.io/entities-map/))
+## Works
+### Title and subtitle
+The status of  title (P1476) and subtitle (P1680) properties on works [not being very clear](https://www.wikidata.org/wiki/Property_talk:P1476#Original_title_(originally_asked_in_Wikidata:Project_chat)), those properties can't be set on works in Inventaire. Titles and subtitles are instead stored as labels, one per language. This might create case where different edition of a work had different titles within a same language: the work should have the label corresponding to the original or the most widespread title.
 
-## Special cases
-*to be documented*
+## Authors
+### Author labels
+* Author labels are made of the author name in the form **"FirstName LastName"**
+* **The first name should not be abbreviated**
+  *  Exception: when the author is known with this abbreviated name. Example: [J. K. Rowling](https://inventaire.io/entity/wd:Q34660)
+
+## Publishers
 
 ## Conflicts of interest
 

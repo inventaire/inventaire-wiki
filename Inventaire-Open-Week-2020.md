@@ -1,5 +1,7 @@
 <!-- LANG:EN, title="Inventaire & OpenData Week 2019"-->
 
+<p style="text-align: center; color: red; font-size: 1.2em; border: 1px solid">As you might have guessed, this gathering has been cancelled due to COVID-19, but we might do something online, will let you know:  join our [[Communication channels]] to get the info!</p>
+
 **From the 12th to the 18th May 2020**, we are inviting you to join us for a new Inventaire Open Week in [Kanthaus](https://kanthaus.online/en/)!
 
 Anyone using or interested in contributing to Inventaire - be it on data, code, design, or communication - is invited for **a week of learning, sharing, and contributing!**

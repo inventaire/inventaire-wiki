@@ -9,10 +9,11 @@ Furthermore, contrary to Wikidata where data edition is weakly constrained, Inve
 **The following article gives a summary of the rules applied within Inventaire**. It's a work in progress, feel welcome to contribute or to [[Communication channels|request]] a rule to be explicited.
 
 ## Summary
-
-- [General rule](#general-rule)
-- [Special cases](#special-cases)
-- [Conflicts of interest](#conflict-of-interest)
+- [Editions](#editions)
+- [Works](#works)
+- [Authors](#authors)
+- [Publishers](#publishers)
+- [Conflicts of interest](#conflicts-of-interest)
 - [See also](#see-also)
 
 ## Editions
@@ -49,23 +50,27 @@ Having publishers directly keep data about their productions in Wikidata and Inv
 
 <!-- LANG:FR, title="Conventions de contribution aux données"-->
 
-## Sommaire 
-
-- [Règles générale](#r%C3%A8gles-g%C3%A9n%C3%A9rale)
-- [Cas particuliers](#cas-particuliers)
-- [Conflits d'intérêt](#conflits%20d%27int%C3%A9r%C3%AAt)
-- [Voir aussi](#voir-aussi)
-
-## Règles générale
-
 De manière générale, les conventions d'édition des données dans Inventaire sont, sauf cas particuliers ci-dessous, calquées sur les conventions établie par le groupe de travail sur les livres de la communauté Wikidata ([page du projet](https://www.wikidata.org/wiki/Wikidata:WikiProject_Books), [discussions](https://www.wikidata.org/wiki/Wikidata_talk:WikiProject_Books)). Cette proximité doit permettre d'importer facilement des données d'Inventaire vers Wikidata.
 
 Cela dit, de nombreux débats n'y sont pas encore tranchés ou suivi d'effets dans les données. C'est par exemple le cas des discussions autour de la distinction entre oeuvres et éditions (suivant de plus ou moins prêt le modèle [FRBR](https://fr.wikipedia.org/wiki/FRBR)), et la nécessité d'avoir une entité pour chacune d'elle et des propriétés spécifiques à ces différents niveau.
 
 Par ailleurs, à la différence de Wikidata dont l'édition est faiblement contrainte, l'interface d'édition de donnée d'Inventaire vise à faciliter l'édition par tout un chacun, en contraignant l'édition autant que possible pour éviter les erreurs. Par exemple, l'interface ne permet d'ajouter que des humains comme auteur d'une oeuvre, et non n'importe quelle entité. Ou encore, il n'est pas possible d'ajouter un auteur à une édition (seulement possible au niveau d'une oeuvre) ou un ISBN à une oeuvre (seulement possible au niveau d'une édition)
 
-## Cas particuliers
-*à documenter*
+**Les règles suivantes sont un résumé des règles qui s'appliquent sur Inventaire**. C'est encore très incomplet : vos contributions sont les bienvenues, n'hésitez pas à [[Communication channels|venir en discuter avec la communauté]].
+
+## Sommaire 
+
+- [Éditions](#editions)
+- [Œuvre](#œuvre)
+- [Auteurs](#auteurs)
+- [Éditeurs](#éditeurs)
+- [Conflits d'intérêt](#conflits%20d%27int%C3%A9r%C3%AAt)
+- [Voir aussi](#voir-aussi)
+
+## Éditions
+## Œuvre
+## Auteurs
+## Éditeurs
 
 ## Conflits d'intérêt
 Inventaire partage largement les [règles de Wikidata sur les conflits d'intérêt](https://www.wikidata.org/wiki/Wikidata:Requests_for_comment/Conflict_of_Interest), notamment pour ce qui est de l'édition de donnée concernant vos productions. Avoir les maisons d'éditions mettre à jour directement les données sur leurs productions dans Wikidata et Inventaire serait tout à fait merveilleux.

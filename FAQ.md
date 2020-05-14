@@ -12,6 +12,7 @@ Work in progress: your help at documenting the following issues is welcome!
 * [[How to change my book transaction mode]]
 * [[How to make a request for a book]]
 * [[How to edit books data]]
+* [[How to distinct editions from works]]
 
 ## Tips
 
@@ -38,6 +39,7 @@ Section en cours d'élaboration : votre aide pour étoffer la documentation sur 
 * [[How to change my book transaction mode|Comment changer le mode de transaction d'un livre]]
 * [[How to make a request for a book|Comment faire une demande pour un livre]]
 * [[How to edit books data|Comment éditer les données de livres]]
+* [[How to distinct editions from works|Comment faire la distinction entre des oeuvres et des éditions]]
 
 ## Astuces
 

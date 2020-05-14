@@ -11,6 +11,7 @@ Work in progress: your help at documenting the following issues is welcome!
 * [[How to change who can see my book]]
 * [[How to change my book transaction mode]]
 * [[How to make a request for a book]]
+* [[How to edit books data]]
 
 ## Tips
 

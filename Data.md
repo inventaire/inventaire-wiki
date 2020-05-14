@@ -128,7 +128,7 @@ Available formats JSON, [NDJSON](https://en.wikipedia.org/wiki/JSON_Streaming#Li
   - [Amorces de données du web](#amorces-de-donn%C3%A9es-du-web)
 - [Structure des données](#structure-des-donn%C3%A9e)
 - [Editeur de données](#editeur-de-donn%C3%A9e)
-- [Contribuer a la donnée](#contribuer-a-la-donn%C3%A9e)
+- [Contribuer à la donnée](#contribuer-a-la-donn%C3%A9e)
 - [Données brutes](#donn%C3%A9e-brutes)
 - [Voir aussi](#voir-aussi)
 

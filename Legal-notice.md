@@ -76,4 +76,6 @@ France
 
 ### Informations collectées
 
-En France, les données personnelles sont notamment protégées par la [loi n° 78-17 du 6 janvier 1978](https://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000886460), la loi n° 2004-801 du 6 août 2004, l’article L. 226-13 du Code pénal et la Directive Européenne du 24  octobre 1995.
+Conformément à la [loi n° 78-17 du 6 janvier 1978](https://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000886460) et au Règlement général pour la protection des données, vous disposez d’un droit d’accès, de modification, de rectification, de portabilité et de suppression des données vous concernant.
+
+Pour exercer ce droit, adressez-vous à : Inventaire - Maison de l'Économie Circulaire, 36 cours Général Giraud, 69001 Lyon, hello@inventaire.io

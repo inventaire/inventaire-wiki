@@ -12,6 +12,9 @@ France
 
 ## Members of the Conseil Collégial
 
+Vincent Jumeaux
+Maxime Lathuilière
+
 ## Hosts
 
 #### Hetzner Online AG
@@ -47,7 +50,8 @@ Jardin des Chartreux, 36 cours Général Giraud
 France
 
 ## Membres du Conseil Collégial
-Vincent Jumeaux, Maxime Lathuilière
+Vincent Jumeaux
+Maxime Lathuilière
 
 ## Hébergeurs
 

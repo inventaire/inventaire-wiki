@@ -73,5 +73,3 @@ France
 ### Informations collectées
 
 En France, les données personnelles sont notamment protégées par la [loi n° 78-17 du 6 janvier 1978](https://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000886460), la loi n° 2004-801 du 6 août 2004, l’article L. 226-13 du Code pénal et la Directive Européenne du 24  octobre 1995.
-
-En tout état de cause Inventaire ne collecte des informations personnelles relatives à l’utilisateur (nom, adresse électronique, coordonnées téléphoniques) que pour le besoin des services proposés par le site inventaire.io, notamment pour des traitements statistiques. L’utilisateur fournit ces informations en toute connaissance de cause, notamment lorsqu’il procède par lui-même à leur saisie.

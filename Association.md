@@ -1,10 +1,19 @@
 <!-- LANG:EN, title="Association"-->
 
-- [Association statuses](https://wiki.inventaire.io/wiki/Statuts?lang=en)
+- [Statuses](https://wiki.inventaire.io/wiki/Statuts?lang=en)
 - [Legal notice](https://wiki.inventaire.io/wiki/Legal-notice?lang=en)
 
+### General Assemblies
+
+- [Constitutive General Assembly](https://wiki.inventaire.io/wiki/Assemblee-Constitutive?lang=fr) (fr)
+- [AG du xx mai 2020]() (fr)
 
 <!-- LANG:FR, title="Association"-->
 
-- [Statuts de l'association](https://wiki.inventaire.io/wiki/Statuts?lang=fr)
+- [Statuts](https://wiki.inventaire.io/wiki/Statuts?lang=fr)
 - [Mentions légales](https://wiki.inventaire.io/wiki/Legal-notice?lang=fr)
+
+### Assemblées Générales
+
+- [AG constitutive](https://wiki.inventaire.io/wiki/Assemblee-Constitutive?lang=fr)
+- [AG du xx mai 2020]()

@@ -1,6 +1,6 @@
 <!-- LANG:EN, title="Legal notice"-->
 
-Since 13th April 2019, Inventaire is registered as a French non-profit association ([association loi 1901](https://en.wikipedia.org/wiki/Nonprofit_organization#France))
+Inventaire is registered as a French non-profit association ([association loi 1901](https://en.wikipedia.org/wiki/Nonprofit_organization#France)) since the association declaration on April 3 2019, published on the [JOAFE](https://tools.wmflabs.org/hub/Q3186966) on April 13 2019
 
 SIRET number : 85213810600012
 
@@ -43,7 +43,7 @@ France
 
 <!-- LANG:FR, title="Mentions légales"-->
  
-Depuis le 13 avril 2019, Inventaire est officiellement une [association loi 1901](https://fr.wikipedia.org/wiki/Association_loi_de_1901).
+Inventaire est une [association loi 1901](https://fr.wikipedia.org/wiki/Association_loi_de_1901) déclaré le 3 avril 2019. L'annonce de création est paru au [JOAFE](https://tools.wmflabs.org/hub/Q3186966) le 13 avril 2019.
 
 Numéro de SIRET: 85213810600012
 

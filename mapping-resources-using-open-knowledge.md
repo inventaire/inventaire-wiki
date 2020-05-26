@@ -1,6 +1,5 @@
 <!-- LANG:EN, title="Mapping resources using open knowledge: starting with books!"-->
 
-
 yeah! it took a bit of time but I finally got a working prototype \o/ : [**inventaire.io**](https://inventaire.io/)
 
 some background:
@@ -32,5 +31,6 @@ Catch it! Make it yours!
 Finally, if you meet someone contributing to free softwares or open knowledge, say thank you from me, give her a kiss or pay her a beer: the world is fucked up but they walk a path of hope :)
 
 Maxime Lathuilière
+09 Feb. 2015
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).  Article cross-posted on [maxlath.eu](https://maxlath.eu/articles/mapping-resources-using-open-knowledge/).

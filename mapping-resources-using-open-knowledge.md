@@ -1,5 +1,7 @@
 <!-- LANG:EN, title="Mapping resources using open knowledge: starting with books!"-->
 
+![inventaire-brittanystevens-13947832357-CC-BY](https://maxlath.eu/assets/img/inventaire-brittanystevens-13947832357-CC-BY.jpg)
+
 yeah! it took a bit of time but I finally got a working prototype \o/ : [**inventaire.io**](https://inventaire.io/)
 
 some background:

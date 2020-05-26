@@ -10,10 +10,14 @@ Jardin des Chartreux, 36 cours Général Giraud
 69001 Lyon
 France
 
-## Members of the Conseil Collégial
+## Members
+### Core Members
+Core members are defined at [Article 5.3 of our statuses](https://wiki.inventaire.io/wiki/Statuts?lang=en#article-51-core-members)
 
-Vincent Jumeaux
-Maxime Lathuilière
+|  Name                                    | Roles                                                                                                        |
+|----------------------------|---------------------------------------------------------------|
+|  Vincent Jumeaux          | Conseil Collégial member, Co-legal representative |
+|  Maxime Lathuilière    | Conseil Collégial member, Co-legal representative  |
 
 ## Hosts
 
@@ -49,9 +53,14 @@ Jardin des Chartreux, 36 cours Général Giraud
 69001 Lyon
 France
 
-## Membres du Conseil Collégial
-Vincent Jumeaux
-Maxime Lathuilière
+## Membres
+### Members Noyaux
+Les membres noyaux sont définis à l'[Article 5.3 de nos statuts](https://wiki.inventaire.io/wiki/Statuts?lang=fr#51---membres-noyaux)
+
+|  Nom                                      | Rôles                                                                                                            |
+|----------------------------|-----------------------------------------------------------------|
+|  Vincent Jumeaux          | Membre du Conseil Collégial, Co-représentant légal |
+|  Maxime Lathuilière    | Membre du Conseil Collégial, Co-représentant légal |
 
 ## Hébergeurs
 

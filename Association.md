@@ -1,21 +1,21 @@
 <!-- LANG:EN, title="Association"-->
 
-- [Statuses](https://wiki.inventaire.io/wiki/Statuts?lang=en)
-- [Charter](https://wiki.inventaire.io/wiki/Charte?lang=fr) (fr)
-- [Legal notice](https://wiki.inventaire.io/wiki/Legal-notice?lang=en)
+- [[Statuts|Statuses]]
+- [[Charte|Charter]]
+- [[Legal-notice|Legal notice]]
 
 ### General Assemblies
 
-- [Constitutive General Assembly](https://wiki.inventaire.io/wiki/Assemblee-Constitutive?lang=fr) (fr)
-- [AG du xx mai 2020]() (fr)
+- [[Assemblee-Constitutive|Constitutive General Assembly]]
+- [[Assemblee-2020|AG du 27 mai 2020]]
 
 <!-- LANG:FR, title="Association"-->
 
-- [Statuts](https://wiki.inventaire.io/wiki/Statuts?lang=fr)
-- [Charte](https://wiki.inventaire.io/wiki/Charte?lang=fr)
-- [Mentions légales](https://wiki.inventaire.io/wiki/Legal-notice?lang=fr)
+- [[Statuts|Statuts]]
+- [[Charte|Charte]]
+- [[Legal-notice|Mentions légales]]
 
 ### Assemblées Générales
 
-- [AG constitutive](https://wiki.inventaire.io/wiki/Assemblee-Constitutive?lang=fr)
-- [AG du 27 mai 2020](https://wiki.inventaire.io/wiki/Assemblee-2020?lang=fr)
+- [[Assemblee-Constitutive|AG constitutive]]
+- [[Assemblee-2020|AG du 27 mai 2020]]

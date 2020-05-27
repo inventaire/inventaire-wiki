@@ -18,4 +18,4 @@
 ### Assemblées Générales
 
 - [AG constitutive](https://wiki.inventaire.io/wiki/Assemblee-Constitutive?lang=fr)
-- [AG du xx mai 2020]()
+- [AG du 27 mai 2020](https://wiki.inventaire.io/wiki/Assemblee-2020?lang=fr)

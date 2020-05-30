@@ -19,7 +19,7 @@
 
 ## 2016
 * **Interview [fr]**: [Discussion autour d’inventaire.io avec Xavier Coadic](https://videos.lescommuns.org/videos/watch/b37919b3-46b8-4ba2-a643-06643bbb6e92) [SummerCamp Kerbors 2016](https://movilab.org/index.php?title=IndieCamp_Kerbors_2016)), Kerbors 2016-08
-* **Interview [fr]**: [Bibliobsession: Entretien avec Maxime Lathuilière, fondateur d’Inventaire.io](http://www.bibliobsession.net/2016/01/27/entretien-maxime-lathuiliere-fondateur-dinventaire-io/ ([Spanish translation](https://diarium.usal.es/experimentrado/pasarelas/en-espanol/bibliobsession/entrevista-con-maxime-lathuiliere-fundador-de-inventaire-io/))), 2016-01-27
+* **Interview [fr]**: [Bibliobsession: Entretien avec Maxime Lathuilière, fondateur d’Inventaire.io](http://www.bibliobsession.net/2016/01/27/entretien-maxime-lathuiliere-fondateur-dinventaire-io/) ([Spanish translation](https://diarium.usal.es/experimentrado/pasarelas/en-espanol/bibliobsession/entrevista-con-maxime-lathuiliere-fundador-de-inventaire-io/)), 2016-01-27
 
 ## 2015
 * **Presentation [fr]**: [Présentation d'inventaire.io](https://vimeo.com/156065434), [Hackadon 2015](https://hackadon.org/)), Paris 2015-12-11

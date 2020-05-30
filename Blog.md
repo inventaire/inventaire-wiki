@@ -18,11 +18,11 @@
 * **Interview [fr]**: [Sylvia Fredriksson: Entretien avec Maxime Lathuilière](https://soundcloud.com/sylviafredriksson/sets/maxime-lathuiliere), Saint-Étienne 2017-03-17
 
 ## 2016
-* **Interview [fr]**: [Discussion autour d’inventaire.io avec Xavier Coadic](https://videos.lescommuns.org/videos/watch/b37919b3-46b8-4ba2-a643-06643bbb6e92) [SummerCamp Kerbors 2016](https://movilab.org/index.php?title=IndieCamp_Kerbors_2016)), Kerbors 2016-08
+* **Interview [fr]**: [Discussion autour d’inventaire.io avec Xavier Coadic](https://videos.lescommuns.org/videos/watch/b37919b3-46b8-4ba2-a643-06643bbb6e92) [SummerCamp Kerbors 2016](https://movilab.org/index.php?title=IndieCamp_Kerbors_2016), Kerbors 2016-08
 * **Interview [fr]**: [Bibliobsession: Entretien avec Maxime Lathuilière, fondateur d’Inventaire.io](http://www.bibliobsession.net/2016/01/27/entretien-maxime-lathuiliere-fondateur-dinventaire-io/) ([Spanish translation](https://diarium.usal.es/experimentrado/pasarelas/en-espanol/bibliobsession/entrevista-con-maxime-lathuiliere-fundador-de-inventaire-io/)), 2016-01-27
 
 ## 2015
 * **Presentation [fr]**: [Présentation d'inventaire.io](https://vimeo.com/156065434), [Hackadon 2015](https://hackadon.org/)), Paris 2015-12-11
-* **Presentation [en]**: [Walking toward an economy empowering citizens with open knowledge](https://www.youtube.com/watch?v=LZgWXEShJoY), [OuiShare Labs Camp #3](https://web.archive.org/web/20151125031400/http://camp.ouisharelabs.net/2015/)), Paris 2015-05-19
+* **Presentation [en]**: [Walking toward an economy empowering citizens with open knowledge](https://www.youtube.com/watch?v=LZgWXEShJoY), [OuiShare Labs Camp #3](https://web.archive.org/web/20151125031400/http://camp.ouisharelabs.net/2015/), Paris 2015-05-19
 * **Presentation [fr]**: [La génèse d'Inventaire.io - apprentissage vs flexibilité vs utopie numérique](https://www.youtube.com/watch?v=PGmWI2ra_Hg), Backbone Meetup Paris, Paris 2015-02-17
 * **Article [en]**: [[mapping-resources-using-open-knowledge|Mapping resources using open knowledge: starting with books!]], 2015-02-09

@@ -14,10 +14,6 @@ Welcome to [inventaire.io](https://inventaire.io) [wiki](https://en.wikipedia.or
 * [[News]]
 * [[inventaire wiki - How-to]]
 
-## Incoming Events
-
-* **[[Inventaire Open Week 2020]]**, 12th - 18th May 2020 in Kanthaus (Wurzen, Germany) => postponed due to covid
-
 ## Contribute to this wiki
 It's a work in progress and you're welcome to contribute to it! If you have any question, just start a discussion in [[Communication channels|your favorite discussion channel]]!
 

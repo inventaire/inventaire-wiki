@@ -23,4 +23,6 @@ That's the vision, but there is a long way to go and potentially many changes ah
 - it might be grants from large institutions, foundations or non-profits
 - it might be taking a commission on sold items
 
+Those ideas and principles are now hard-coded in the association legal statuses: [Article 8: Incomes](https://wiki.inventaire.io/wiki/Statuts?lang=en#article-8-incomes)
+
 Core Members of Inventaire

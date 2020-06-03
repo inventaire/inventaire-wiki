@@ -10,7 +10,6 @@ Start a discussion in your favorite communication channel!
 * **twitter**:
   * mention [@inventaire_io](http://twitter.com/inventaire_io)
   * hashtag [#inventaireio](https://twitter.com/search?q=%23inventaireio)
-* **[facebook](http://facebook.com/inventaire.io/)**
 
 ### Tools
 * to discuss and vote the next features and evolution of the project, use the **[roadmap board](http://roadmap.inventaire.io)**
@@ -51,7 +50,6 @@ Commencez une discussion dans votre canal de communication préféré !
 * **twitter**:
   * mention [@inventaire_io](http://twitter.com/inventaire_io)
   * hashtag [#inventaireio](https://twitter.com/search?q=%23inventaireio)
-* **[facebook](http://facebook.com/inventaire.io/)**
 
 ### Outils
 * pour discuter fonctionnalités et évolution du projet, utilisez la **[roadmap](http://roadmap.inventaire.io)**

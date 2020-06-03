@@ -95,14 +95,14 @@ The Conseil Collegial is having a meeting every time a notification has been sen
 
 If a member of the Conseil Collegial has not answered the notification within two weeks, and, without any mandate given, the Conseil Collegial will still deliberate on urgent decisions, at unanimity of its members present and represented.
 
-### Article 8: Income
-Association income may include:
+### Article 8: Incomes
+Association incomes may include:
 
 - the product of its economic activity
 - the contribution fees, amount being set by the Charter
 - public subsidies
 - donations from physical or moral persons
-- every income autorised by French law, at the exception of selling personal data and advertisement income
+- every incomes autorised by French law, at the exception of selling personal data and advertisement incomes
 
 The economic activity of the association includes:
 - Information systems assistance
@@ -110,7 +110,7 @@ The economic activity of the association includes:
 - Information systems consultance and contracting
 - Training and formation
 
-General accounting is published yearly including the association income statement and balance sheet.
+General accounting is published yearly including the association incomes statement and balance sheet.
 
 The Conseil Collegial is collectivly responsible of the general accounting. The association can contract accountant services.
 

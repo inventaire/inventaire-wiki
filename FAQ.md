@@ -14,7 +14,6 @@ Work in progress: your help at documenting the following issues is welcome!
 * [[How to edit books data]]
 * [[How to distinct editions from works]]
 
-
 ## Tips
 
 * [[Add Inventaire to your browser search engines]]
@@ -24,7 +23,7 @@ Work in progress: your help at documenting the following issues is welcome!
 * [[inventory data|Are my inventory data also in the public database of books and authors?]]
 * [[magazines-dvds|When will magazines and DVDs be part of the database?]]
 
-Couldn't find the help you need? You can ask anything by writting to [hello@inventaire.io](mailto:hello@inventaire.io)
+**Couldn't find the help you need? You can ask anything by writting to [hello@inventaire.io](mailto:hello@inventaire.io) or by asking on [[Communication-channels|social networks]].**
 
 <!-- LANG:FR, title="Foire Aux Questions"-->
 Section en cours d'élaboration : votre aide pour étoffer la documentation sur les questions ci-dessous est la bienvenue !
@@ -52,4 +51,4 @@ Section en cours d'élaboration : votre aide pour étoffer la documentation sur 
 * [[inventory data|Les données de mon inventaire sont elles partagé publiquement comme la base de donnée des livres et auteurs ?]]
 * [[magazines-dvds|Quand pourra-t-on ajouter des magazines et des DVD à son inventaire ?]]
 
-Vous n'avez pas trouvé l'aide dont vous avez besoin ? Il est toujours possible de poser une question en écrivant à [hello@inventaire.io](mailto:hello@inventaire.io)
+**Vous n'avez pas trouvé l'aide dont vous avez besoin ? Il est toujours possible de poser une question en écrivant à [hello@inventaire.io](mailto:hello@inventaire.io) ou sur les [[Communication-channels|réseaux sociaux]].**

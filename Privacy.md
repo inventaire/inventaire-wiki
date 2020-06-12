@@ -67,3 +67,5 @@ Nous utilisons [Matomo](https://matomo.org) (ex-Piwik) qui récupère des inform
 Dans les grandes lignes, nous étions prêt pour la [RGPD](https://fr.wikipedia.org/wiki/R%C3%A8glement_g%C3%A9n%C3%A9ral_sur_la_protection_des_donn%C3%A9es) avant même son existance, en donnant accès aux utilisateurs à leurs données, et en ne partagant pas celles-ci. Cette politique n'est pas limité aux seuls utilisateurs de l'Union Européenne.
 
 Nos serveurs sont situés dans l'Union européenne, et ne sont, a priori, pas affecté par les lois états-uniennes tel le Patriot Act.
+
+### Cookies

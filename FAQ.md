@@ -22,6 +22,7 @@ Work in progress: your help at documenting the following issues is welcome!
 
 * [[inventory data|Are my inventory data also in the public database of books and authors?]]
 * [[magazines-dvds|When will magazines and DVDs be part of the database?]]
+* [[why is there no app|Why can't I install an app on my smartphone?]]
 
 **Couldn't find the help you need? You can ask anything by writting to [hello@inventaire.io](mailto:hello@inventaire.io) or by asking on [[Communication-channels|social networks]].**
 

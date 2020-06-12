@@ -9,6 +9,7 @@ Pros:
 Cons:
 * The web app does feel less "native"
 
+[[FAQ|Back to Q&A list]]
 
 <!-- LANG:FR, title="Pourquoi n'y a-t-il pas d'app ?"-->
 
@@ -20,3 +21,5 @@ Avantages :
 
 Invconvenients :
 * La web app propose effectivement une experience utilisateur moins "native"
+
+[[FAQ|Retourner à la liste des questions/réponses]]

@@ -42,6 +42,7 @@ Section en cours d'élaboration : votre aide pour étoffer la documentation sur 
 * [[How to edit books data|Comment éditer les données de livres]]
 * [[How to distinct editions from works|Comment faire la distinction entre des oeuvres et des éditions]]
 * [[How to add genres and sujects |Comment faire pour ajouter des "genres" et des "sujets"]]
+* [[why is there no app|Pourquoi n'y a-t-il pas d'app ?]]
 
 ## Astuces
 

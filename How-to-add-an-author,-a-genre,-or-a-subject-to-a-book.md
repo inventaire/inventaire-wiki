@@ -1,6 +1,6 @@
 <!-- LANG:EN, title="How to add an author, a genre, or a subject to a book"-->
 
-The authors, genres, or subjects of a book [can all three](https://github.com/) be edited on the work's page. Here is how to get there:
+The authors, genres, or subjects of a book can all three be edited on the work's page. Here is how to get there:
 
 1. From your book's page, click on the work
 [![From your book's page, click on the work](https://user-images.githubusercontent.com/1596934/92142447-22deba00-ee14-11ea-90fd-38b38b2ada9a.jpg)](https://user-images.githubusercontent.com/1596934/92142447-22deba00-ee14-11ea-90fd-38b38b2ada9a.jpg)

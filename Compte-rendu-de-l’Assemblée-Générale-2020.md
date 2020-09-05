@@ -1,4 +1,4 @@
-<!-- LANG:FR, title="Assemblee 2020"-->	
+<!-- LANG:FR, title="Compte rendu de l’Assemblée Générale 2020"-->	
 
 Association Inventaire - Maison de l'Économie Circulaire
 Jardin des Chartreux, 36 cours Général Giraud

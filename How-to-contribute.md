@@ -25,6 +25,10 @@ For any question on any of those, feel welcome to ask in any of our **[[Communic
 
 * help **designing inventaire** by upvoting feature cards on this board, commenting or creating new ones: don't be afraid, you can't break anything (well, unless you aim for it, don't take it as a challenge ;) )
 
+## Data admin
+
+[[Roles-and-access-levels|Data admins]] are special users who can contribute to Inventaire's bibliographical data by have the ability to perform more actions (ie. merging entities) than an authentified user. If you would like to become a data admin, please contact us at hello@inventaire.io 
+
 ## Technical tasks
 
 * [help with **code on Inventaire**](https://github.com/inventaire/inventaire/wiki#new-contributors)

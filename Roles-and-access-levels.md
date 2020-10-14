@@ -1,20 +1,37 @@
 <!-- LANG:EN, title="Roles and access levels"-->
- 
+
 This page describes, in a non-exhaustive manner, who can do what on Inventaire. Different category of information can be displayed:
- 
- **Entities**: information about resources (aka editions, authors, etc.)
- **Users**: information about humans (aka username, contributions, etc.)
- **Availability**: information about how to share (aka visibility, transactions, etc)
- 
+
+**Users**: information about humans (aka username, contributions, etc.) and their items (aka their inventory)
+**Entities**: metadata about those belongings (aka [authors, works, editions, etc](https://inventaire.github.io/entities-map/))
+
 Different roles are attributed to anyone visiting inventaire.io :
- 
+
 **Public**: Any request from the wild web (users or not, bots or humans).
- **Authentified**: Users who registered and authentified on inventaire.
- **Data admin**: Users who can perform advanced tasks about resources data (entities).
- **Admin**: Users who have access to every tools available in the application.
- 
+**Authentified**: Users who registered and authentified on inventaire.
+**Data admin**: Users who can perform advanced tasks about resources data (entities).
+**Admin**: Users who have access to every tools available in the application.
+
+### Who can do what about users
+
+| Action \ Access Level      |Admin |Data admin|Authentified | Public |
+| ----------- | ----------- |----------- | ----------- | ----------- |
+| View username | x|x|x|x
+| View presentation (aka bio) | x|x|x|x
+| View items |(1)|(1)|(1)|(1)
+| View shelves |(1)|(1)|(1)|(1)
+| View contributions to entities (2) | x
+| Request item |(3)|(3)|(3)
+| View items and shelves count |(4)|(4)|(4)|(4)
+
+**(1)**: depends on item/shelf visibily setting and users relations
+
+**(2)**: Unlike other wikis such as Wikipedia or Wikidata, inventaire doesn't make contribution history public (accessible only by admins). This decision comes from the fact that some users might make the inventory of their books and edit data about those without having any knowledge that they are contributing to a wiki. There is therefore a privacy concern that people might share more private information than they realize about their interests.
+**(3)**: it depends on the item's visibily setting  and on transaction mode (you can only request an item available for giving, lending, or selling)
+**(4)**: the count displayed to a certain user will be the count of items or shelves that user is allowed to see
+
 ### Who can do what about entities
- 
+
 | Action \ Access Level      |Admin |Data admin|Authentified | Public |
 | ----------- | ----------- |----------- | ----------- | ----------- |
 | View entity | x|x|x|x
@@ -31,13 +48,5 @@ Different roles are attributed to anyone visiting inventaire.io :
 | View users contributions |x
 
 Most of those access levels per action can be seen in the [entities controller](https://git.inventaire.io/inventaire/tree/master/server/controllers/entities/entities.js)
-
-### Who can do what about users
-
-Unlike other CC0 wikis, inventaire carefully display contributions information (except for admins). This decision comes from the fact that some users might make the inventory of their books and edit data about those without having any knowledge to contribute to a CC0 based wiki. Therefore there is a privacy concern that contributions shall not be infered to deduce personal information about a user.
-
-### Who can do what about availability
-
-Visibility: private, public, network
 
 [More to be written]

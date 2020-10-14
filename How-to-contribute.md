@@ -27,7 +27,7 @@ For any question on any of those, feel welcome to ask in any of our **[[Communic
 
 ## For Data lovers
 
-[[Roles-and-access-levels|Data admins]] are special users who would like to contribute to Inventaire's bibliographical data. They have the ability to perform more actions (ie. merging entities) than other authentified user. If you would like to become a data admin, please contact us at hello@inventaire.io 
+[[Roles-and-access-levels|Data admins]] are special users who can contribute to Inventaire's bibliographical data in depth. They have the ability to perform more actions (ie. merging entities) than other authentified users. If you would like to become a data admin, please contact us at hello@inventaire.io 
 
 ## Technical tasks
 

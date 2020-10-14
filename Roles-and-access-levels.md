@@ -23,10 +23,10 @@ Different roles are attributed to anyone visiting inventaire.io :
 | Create, update or remove entity |x|x|x
 | Revert edit entity |x|x|x
 | Move entity to Wikidata |x|x|x
-| Delete entity |x|x|x
+| Delete isolated entities |x|x|x
 | [View duplicate entity](https://inventaire.io/entity/deduplicate?uris=wd:Q156268) |x|x
 | Merge entities |x|x
-| Revert merge entities |x|x
+| Revert entities merge |x|x
 | View non-anonymized entity history |x
 | View users contributions |x
 

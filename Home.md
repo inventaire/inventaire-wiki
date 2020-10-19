@@ -1,4 +1,4 @@
-<!-- LANG:EN -->
+<!-- LANG:EN, title="Home" -->
 
 Welcome to [inventaire.io](https://inventaire.io) [wiki](https://en.wikipedia.org/wiki/Wiki). **This is the space where the community shares knowledge about inventaire** : how it is run? How to use the tool? How to contribute? and more !
 
@@ -21,7 +21,7 @@ Welcome to [inventaire.io](https://inventaire.io) [wiki](https://en.wikipedia.or
 * [Translate](http://translate.inventaire.io)
 
 ## Contribute to this wiki
-It's a work in progress and you're welcome to contribute to it! See the [[inventaire wiki - How-to|Wiki How To]] for a basic introduction of how it works. If you have further questions, just start a discussion in [[Communication channels|your favorite discussion channel]]! 
+It's a work in progress and you're welcome to contribute to it! See the [[inventaire wiki - How-to|Wiki How To]] for a basic introduction of how it works. If you have further questions, just start a discussion in [[Communication channels|your favorite discussion channel]]!
 
 <!-- LANG:ES, title="Inicio" -->
 

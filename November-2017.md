@@ -7,7 +7,7 @@
 ## Documentation
 - the [**Code Contributor Guidelines**](https://github.com/inventaire/inventaire/wiki/Code-Contributor-Guidelines) got updated
 - **New User Tips**:
-  - [Search Inventaire from your browser address bar](https://wiki.inventaire.io/wiki/Search-Inventaire-from-your-browser-address-bar)
+  - [Search Inventaire from your browser address bar](https://wiki.inventaire.io/wiki/Add-Inventaire-to-your-browser-search-engines)
 - **New Developer Tips**:
   - [How to use the debugger](https://github.com/inventaire/inventaire/wiki/Use-the-debugger#server-side)
 
@@ -34,7 +34,7 @@ Commits: server [e134590](http://github.com/inventaire/inventaire/commit/e134590
 
 ### Groups
 Following pandark issues ([#121](https://github.com/inventaire/inventaire/issues/121), [#122](https://github.com/inventaire/inventaire/issues/122)), groups got a major update:
-- [**Group board**](https://inventaire.io/network/groups/settings): 
+- [**Group board**](https://inventaire.io/network/groups/settings):
   - a sub-menu was added to allow inviting to the group by email
   - sub-menus are now wrapped by default for more clarity
 - [improved API documentation](https://api.inventaire.io/#/Groups)
@@ -44,7 +44,7 @@ Following pandark issues ([#121](https://github.com/inventaire/inventaire/issues
 
 ## Other Noteworthy Stuff
 *  **Barcode Scanner/Firefox**: Firefox for Android 57 seems to have fixed the issue with autofocus while using the scanner
- 
+
 <hr>
 
 [[October 2017|← October 2017]] - [[News|All News]] - [[December 2017|December 2017 →]]

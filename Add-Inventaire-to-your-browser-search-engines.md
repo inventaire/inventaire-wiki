@@ -1,4 +1,4 @@
-<!-- LANG:EN, title="Add Inventaire to your browser search engines-->
+<!-- LANG:EN, title="Add Inventaire to your browser search engines"-->
 
 ## Firefox
 - Follow this tutorial to add Inventaire to your search engines list: [Add a search engine](https://support.mozilla.org/en-US/kb/add-or-remove-search-engine-firefox#w_add-a-search-engine)

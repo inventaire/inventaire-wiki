@@ -1,4 +1,4 @@
-<!-- LANG:EN -->
+<!-- LANG:EN, title="Sandbox" -->
 Welcome on the Sandbox page!
 You can use it to try how this wiki works, without risking to break anything! It will be periodically reset.
 

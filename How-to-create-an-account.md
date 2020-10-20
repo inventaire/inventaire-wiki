@@ -1,5 +1,5 @@
 <!-- LANG:EN, title="How to create an account"-->
- 
+
 * Go to the **[Signup page](https://inventaire.io/signup)**
 [![signup_en](https://user-images.githubusercontent.com/1596934/27707991-946dcfa8-5d17-11e7-90af-844d4486ed2c.png)](https://inventaire.io/signup)
 * **Enter a username**: ideally, a name that helps your friends identify you.
@@ -11,10 +11,10 @@
 * Click the **Sign up** button, and you're done! Now, you should be offered to get a tour of the application to learn the basics
 
 
-[[FAQ|Back to FAQ]]
+[[Frequently_Asked_Questions|Back to FAQ]]
 
 <!-- LANG:FR, title="Comment se créer un compte"-->
- 
+
 * Allez sur la **[page d'inscription](https://inventaire.io/signup?lang=fr)**
 [![signup_fr](https://user-images.githubusercontent.com/1596934/27707918-58b9e820-5d17-11e7-91a2-170d3c373386.png)](https://inventaire.io/signup?lang=fr)
 * **Entrez un nom d'utilisateur** : idéalement, un nom permettant à vos amis de vous identifier.
@@ -26,4 +26,4 @@
 * Cliquez sur le bouton **Inscription**, et c'est tout bon ! Vous pouvez maintenant cliquer sur **Commencer la visite** pour en apprendre plus sur ce qu'offre le site.
 
 
-[[FAQ|Retour aux FAQ]]
+[[Frequently_Asked_Questions|Retour aux FAQ]]

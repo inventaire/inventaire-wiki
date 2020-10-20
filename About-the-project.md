@@ -1,5 +1,5 @@
 <!-- LANG:EN, title="About the project"-->
-See [[Home]] summary
+See [[Main_Page]] summary
 
 <!-- LANG:FR, title="À propos du projet"-->
-Voir le sommaire de l' [[Home|Accueil]]
+Voir le sommaire de l' [[Main_Page|Accueil]]

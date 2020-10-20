@@ -9,7 +9,7 @@ Welcome to [inventaire.io](https://inventaire.io) [wiki](https://en.wikipedia.or
 * [[Privacy]]
 * [[Communication channels]]
 * [[Presentations Slides]]
-* [[FAQ|Frequently Asked Questions]]
+* [[Frequently Asked Questions]]
 * [[News]]
 
 ## External resources
@@ -33,7 +33,7 @@ It's a work in progress and you're welcome to contribute to it! See the [[invent
 * [[Data|Everything about Data]]
 * [[Communication channels]]
 * [[Presentations Slides]]
-* [[FAQ|Frequently Asked Questions]]
+* [[Frequently Asked Questions]]
 * [[News]]
 
 ## External resources
@@ -55,7 +55,7 @@ Bienvenue sur le [wiki](https://fr.wikipedia.org/wiki/Wiki) d'[inventaire.io](ht
 * [[Data|Tout sur les données]]
 * [[Communication channels|Canaux de communication]]
 * [[Presentations Slides]]
-* [[FAQ|Foire Aux Questions]]
+* [[Foire Aux Questions]]
 * [[News|Actualités]]
 
 ## Ressources externes

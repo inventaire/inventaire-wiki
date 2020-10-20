@@ -1,25 +1,25 @@
 <!-- LANG:EN, title="Association"-->
 
-- [[Statuts|Statuses]]
+- [[Statuses]]
 - [[Charte|Charter]]
-- [[Legal-notice|Legal notice]]
+- [[Legal notice]]
 - [[Déclaration de conflit d'intérêts|Conflict of interest]]
 
 ### General Assemblies
 
-- [[Assemblee-Constitutive|Constitutive General Assembly]]
-- [[Assemblee-2020|AG du 27 mai 2020]]
+- [[Assemblée_Constitutive|Constitutive General Assembly]]
+- [[Assemblee_2020|AG du 27 mai 2020]]
 
 <!-- LANG:FR, title="Association"-->
 
-- [[Statuts|Statuts]]
+- [[Statuts|Statuses]]
 - [[Charte|Charte]]
 - [[Legal-notice|Mentions légales]]
 
 ### Comptes Rendus des Assemblées Générales
 
-- [[Assemblee-Constitutive|AG constitutive]]
-- [[Assemblee-2020|AG du 27 mai 2020]]
+- [[Assemblée_Constitutive|AG constitutive]]
+- [[Assemblee_2020|AG du 27 mai 2020]]
 
 ### Comptes Rendus des réunions du Conseil Collégial
 

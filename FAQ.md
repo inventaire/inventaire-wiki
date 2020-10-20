@@ -21,10 +21,10 @@ Work in progress: your help at documenting the following issues is welcome!
 ## Questions / Answers
 
 * [[inventory data|Are my inventory data also in the public database of books and authors?]]
-* [[magazines-dvds|When will magazines and DVDs be part of the database?]]
+* [[magazines dvds|When will magazines and DVDs be part of the database?]]
 * [[why is there no app|Why can't I install an app on my smartphone?]]
 
-**Couldn't find the help you need? You can ask anything by writting to [hello@inventaire.io](mailto:hello@inventaire.io) or by asking on [[Communication-channels|social networks]].**
+**Couldn't find the help you need? You can ask anything by writting to [hello@inventaire.io](mailto:hello@inventaire.io) or by asking on [[Communication_channels|social networks]].**
 
 <!-- LANG:FR, title="Foire Aux Questions"-->
 Section en cours d'élaboration : votre aide pour étoffer la documentation sur les questions ci-dessous est la bienvenue !
@@ -51,6 +51,6 @@ Section en cours d'élaboration : votre aide pour étoffer la documentation sur 
 ## Questions / Réponses
 
 * [[inventory data|Les données de mon inventaire sont elles partagé publiquement comme la base de donnée des livres et auteurs ?]]
-* [[magazines-dvds|Quand pourra-t-on ajouter des magazines et des DVD à son inventaire ?]]
+* [[magazines dvds|Quand pourra-t-on ajouter des magazines et des DVD à son inventaire ?]]
 
-**Vous n'avez pas trouvé l'aide dont vous avez besoin ? Il est toujours possible de poser une question en écrivant à [hello@inventaire.io](mailto:hello@inventaire.io) ou sur les [[Communication-channels|réseaux sociaux]].**
+**Vous n'avez pas trouvé l'aide dont vous avez besoin ? Il est toujours possible de poser une question en écrivant à [hello@inventaire.io](mailto:hello@inventaire.io) ou sur les [[Communication_channels|réseaux sociaux]].**

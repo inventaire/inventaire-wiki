@@ -1,6 +1,6 @@
 <!-- LANG:EN, title="Privacy"-->
 
-This article tries to make clear and understandable how Inventaire gather information about you and what is done with it. Because here like everywhere on the web, you've got to ask yourself one question : 
+This article tries to make clear and understandable how Inventaire gather information about you and what is done with it. Because here like everywhere on the web, you've got to ask yourself one question :
 
 ## Who owns my data ?
 
@@ -8,7 +8,7 @@ This article tries to make clear and understandable how Inventaire gather inform
 you
 
 ### Longer answer
-Inventaire is a tool that helps you to build data about yourself (user profile), the books you own (inventory), your social network (friends & groups). That's a lot of personal data, but the tool could not work without it. While we generate and host those data, you remain the only owner of those: 
+Inventaire is a tool that helps you to build data about yourself (user profile), the books you own (inventory), your social network (friends & groups). That's a lot of personal data, but the tool could not work without it. While we generate and host those data, you remain the only owner of those:
 * You have the right to access all your data (See [data exports](https://inventaire.io/settings/data) and the [API](https://api.inventaire.io))
 * You have the right to delete your data, without any delay
 * No private data will be shared with any third-party
@@ -16,7 +16,7 @@ Inventaire is a tool that helps you to build data about yourself (user profile),
 Exceptions to the points above:
 * After your deleted your account, Inventaire keeps the bare minimum required for transactions with other users to still make sense, and to keep the history of edits on bibliographic data (entity patches). This bare minimum is a user id associated with a username.
 
-We will never sell your data to anyone. Like you, we are readers and we know how your books can precisely describe yourself. We even integrated this non data selling policy into our [[Statuts|association statuses]].
+We will never sell your data to anyone. Like you, we are readers and we know how your books can precisely describe yourself. We even integrated this non data selling policy into our [[Statuses|association statuses]].
 
 ## Information about you
 When you use the application, Inventaire might collect :

@@ -1,5 +1,4 @@
-<!-- LANG:EN, title="Home" -->
-
+<!-- LANG:EN, title="Main_Page"-->
 Welcome to [inventaire.io](https://inventaire.io) [wiki](https://en.wikipedia.org/wiki/Wiki). **This is the space where the community shares knowledge about inventaire** : how it is run? How to use the tool? How to contribute? and more !
 
 ## Summary
@@ -23,7 +22,7 @@ Welcome to [inventaire.io](https://inventaire.io) [wiki](https://en.wikipedia.or
 ## Contribute to this wiki
 It's a work in progress and you're welcome to contribute to it! See the [[inventaire wiki - How-to|Wiki How To]] for a basic introduction of how it works. If you have further questions, just start a discussion in [[Communication channels|your favorite discussion channel]]!
 
-<!-- LANG:ES, title="Inicio" -->
+<!-- LANG:ES, title="Inicio"-->
 
 ¡Bienvenida en el [wiki](https://es.wikipedia.org/wiki/Wiki) de [inventaire.io](https://inventaire.io)!
 
@@ -44,7 +43,7 @@ It's a work in progress and you're welcome to contribute to it! See the [[invent
 * [Code](http://git.inventaire.io)
 * [Translate](http://translate.inventaire.io)
 
-<!-- LANG:FR, title="Accueil" -->
+<!-- LANG:FR, title="Accueil"-->
 
 Bienvenue sur le [wiki](https://fr.wikipedia.org/wiki/Wiki) d'[inventaire.io](https://inventaire.io) ! Ce wiki est destiné à **centraliser le savoir sur inventaire** : comment est organisé le projet ? Comment utiliser l'application web ? Comment contribuer ? etc.
 

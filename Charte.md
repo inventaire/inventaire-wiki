@@ -1,4 +1,4 @@
-<!-- LANG:EN, title="Charte"-->
+<!-- LANG:FR, title="Charte"-->
 
 L’association « Inventaire » a été déclarée à la Préfecture du Rhône le 3 avril 2019 (Journal Officiel du 13 avril 2019).
 

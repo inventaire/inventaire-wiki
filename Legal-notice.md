@@ -12,7 +12,7 @@ France
 
 ## Members
 ### Core Members
-Core members are defined at [Article 5.3 of our statuses](https://wiki.inventaire.io/wiki/Statuts?lang=en#article-51-core-members)
+Core members are defined at [[Statuses#Article_5.1:_Core_Members|Article 5.1]]
 
 |  Name                                    | Roles                                                                                                        |
 |----------------------------|---------------------------------------------------------------|
@@ -33,7 +33,7 @@ Phone: +49  9831 610061
 75008 Paris
 France
 
-Phone : +33 (0)1 84 13 00 00 
+Phone : +33 (0)1 84 13 00 00
 
 #### Gandi
 63-65 boulevard Masséna,
@@ -42,7 +42,7 @@ France
 
 
 <!-- LANG:FR, title="Mentions légales"-->
- 
+
 Inventaire est une [association loi 1901](https://fr.wikipedia.org/wiki/Association_loi_de_1901) déclaré le 3 avril 2019. L'annonce de création est paru au [JOAFE](https://tools.wmflabs.org/hub/Q3186966) le 13 avril 2019.
 
 Numéro de SIRET: 85213810600012
@@ -55,7 +55,7 @@ France
 
 ## Membres
 ### Members Noyaux
-Les membres noyaux sont définis à l'[Article 5.3 de nos statuts](https://wiki.inventaire.io/wiki/Statuts?lang=fr#51---membres-noyaux)
+Les membres noyaux sont définis à l'[[Statuses#Article_5.1:_Core_Members|Article 5.1]] de nos statuts
 
 |  Nom                                      | Rôles                                                                                                            |
 |----------------------------|-----------------------------------------------------------------|
@@ -76,7 +76,7 @@ Tél.: +49  9831 610061
 75008 Paris
 France
 
-Tél.: +33 (0)1 84 13 00 00 
+Tél.: +33 (0)1 84 13 00 00
 
 #### Gandi
 63-65 boulevard Masséna,

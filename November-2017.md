@@ -7,7 +7,7 @@
 ## Documentation
 - the [**Code Contributor Guidelines**](https://github.com/inventaire/inventaire/wiki/Code-Contributor-Guidelines) got updated
 - **New User Tips**:
-  - [Search Inventaire from your browser address bar](https://wiki.inventaire.io/wiki/Add-Inventaire-to-your-browser-search-engines)
+  - [[Add-Inventaire-to-your-browser-search-engines|Search Inventaire from your browser address bar]]
 - **New Developer Tips**:
   - [How to use the debugger](https://github.com/inventaire/inventaire/wiki/Use-the-debugger#server-side)
 

@@ -1,10 +1,10 @@
 <!-- LANG:EN, title="Fabrique Lyonnaise des Communs 2017"-->
-[page only available in French](https://wiki.inventaire.io/pages/Fabrique-Lyonnaise-des-Communs-2017)
+[[Fabrique-Lyonnaise-des-Communs-2017|page only available in French]]
 
 <!-- LANG:FR, title="Fabrique Lyonnaise des Communs 2017"-->
 
 ![bannière](http://lyonencommuns.org/wp-content/uploads/2017/11/cropped-BANDEAU-WEB.jpg)
- 
+
  On sera du coté de la [Fabrique Lyonnaise des Communs 2017](http://lyonencommuns.org/2017/09/28/fabrique-tes-communs-la-fabrique-lyonnaise-des-communs-2017/) tout le weekend, et notamment **dimanche 10 décembre** de **11h à 13h** pour un atelier :
 
 **« Partager sa bibliothèque tout en améliorant Wikipédia, avec le projet Inventaire »**

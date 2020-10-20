@@ -1,8 +1,8 @@
 <!-- LANG:EN, title="Economic model"-->
- 
+
 ## Context
 
-The web application has now an organized structure registered under the french law (see [association](https://wiki.inventaire.io/wiki/Association)), the statuses of the association describes it as a non-profit with economic activity. We are also two core members working full time (Core Members) on the plateform and would like to continue to do so.  This result in two organizational axes:
+The web application has now an organized structure registered under the french law (see [[Association|association]]), the statuses of the association describes it as a non-profit with economic activity. We are also two core members working full time (Core Members) on the plateform and would like to continue to do so.  This result in two organizational axes:
 - a public interest mission
 - an obligation of economic viability
 
@@ -23,6 +23,6 @@ That's the vision, but there is a long way to go and potentially many changes ah
 - it might be grants from large institutions, foundations or non-profits
 - it might be taking a commission on sold items
 
-Those ideas and principles are now hard-coded in the association legal statuses: [Article 8: Incomes](https://wiki.inventaire.io/wiki/Statuts?lang=en#article-8-incomes)
+Those ideas and principles are now hard-coded in the association legal statuses: [[Statuses#Article_8:_Incomes|Article 8: Incomes]]
 
 Core Members of Inventaire

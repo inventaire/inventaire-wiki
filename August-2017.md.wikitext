@@ -1,0 +1,15 @@
+<!-- LANG:EN, title="August 2017"-->
+
+== Developments ==
+
+=== Working on making entities deduplication easier ===
+
+follow progresses:
+
+* [https://github.com/inventaire/inventaire/tree/deduplicateEntities server#deduplicateEntities]
+* [https://github.com/inventaire/inventaire-client/tree/deduplicateEntities client#deduplicateEntities]
+
+<hr>
+
+[[July 2017|← July 2017]] - [[News|All News]] - [[September 2017|September 2017 →]]
+

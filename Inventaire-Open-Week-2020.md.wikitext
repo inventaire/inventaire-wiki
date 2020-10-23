@@ -1,0 +1,88 @@
+<!-- LANG:EN, title="Inventaire & OpenData Week 2019"-->
+
+<p style="text-align: center; color: red; font-size: 1.2em; border: 1px solid">As you might have guessed, this gathering has been cancelled due to COVID-19, but we might do something online, will let you know:  join our [[Communication channels]] to get the info!</p>
+
+'''From the 12th to the 18th May 2020''', we are inviting you to join us for a new Inventaire Open Week in [https://kanthaus.online/en/ Kanthaus]!
+
+Anyone using or interested in contributing to Inventaire - be it on data, code, design, or communication - is invited for '''a week of learning, sharing, and contributing!'''
+
+But if you don't have the time to contribute to Inventaire because you are already working on some other project involving libre software, open data and books, or if you just want to meet the awesome crowd that will be there, you are also welcome!
+
+There will be people there during the whole week, but '''if you can be with us just for a few hours or days, that's totally ok!'''
+
+This is a [https://en.wikipedia.org/wiki/Unconference#Format participant-driven event]: no predefined discussions, just what is of interest to the people who will be there.
+
+<p style="text-align: center; color: green; font-size: 1.2em; border: 1px solid">If you plan to come, please add yourself to the list of participants hereafter</p>
+
+<p style="text-align: center; color: green; font-size: 1.2em; border: 1px solid">For any question use your favorite [[Communication channels|communication channel]]
+
+<p>
+
+== Inventaire ==
+
+[https://inventaire.io inventaire.io] is the libre book sharing webapp powered by [https://wikidata.org Wikidata], run by a non-profit organization, the [[Association|Inventaire Association]].
+
+=== Prepare for this week of contribution ===
+
+* see the [https://trello.com/b/0lKcsZDj/inventaire-roadmap roadmap] to get an idea of the features that got interest from the community, and feel welcome to create new tickets
+* see [http://github.com/inventaire/inventaire/issues server issues] and [http://github.com/inventaire/inventaire-client/issues client issues] for more technical problems that we could try to tackle during this week
+* read more about [[Data|data in Inventaire]] to start learning more about cross-contributing data between Inventaire and Wikidata
+
+== Venue ==
+
+'''[https://kanthaus.online/en/ Kanthaus]''' is [https://www.openstreetmap.org/way/99897633 a house in Wurzen, near Leipzig, Germany], '''&quot;''A house for sustainable projects''&quot;'''
+
+=== Address ===
+
+[https://www.openstreetmap.org/way/99897633 Kantstraße 20 &amp; 22, Wurzen]
+
+== Getting there ==
+
+==== By train ====
+
+Coming from outside Germany to Wurzen by train can be affordable thank to Deutsch Bahn ''Super Sparpreis Europa'' tickets (ex: [https://www.trainline.eu/search/lyon/wurzen/2020-05-12-06:00 Lyon-Wurzen]).
+
+==== By hitchhicking ====
+
+see [https://hitchwiki.org hitchwiki.org]
+
+==== By car ====
+
+There is plenty of space to park in Wurzen
+
+== Accomodation ==
+
+=== In Kanthaus ===
+
+The house has several '''common sleeping rooms''' and a few private rooms that we will share with the residents that aren't in Summer festivals at that time.
+
+=== In Leipzig ===
+
+Staying in Leipzig is also an option: there are trains connecting Leipzig to Wurzen - line '''S4''', around 2 per hour during the day -, and Kanthaus is very close to the train station... but you would be missing out on the wonders of the life in Kanthaus!
+
+== Food ==
+
+Kanthaus has plenty of food thank to the residents many food saving/sharing skills! Let us know if you have special needs on the day you arrive, so that we can try to accomodate everyone.
+
+== Participants ==
+
+| name |plan to be present from-to|interested in learning about/contributing to | comment|
+
+|---|---|---|---|
+
+| [https://maxlath.eu maxlath] | 12-18 | data, code, design, and communication | |
+
+| jums | 12-18 | wikidata, code, design, book catalogues | |
+
+| | | | |
+
+| | | | |
+
+== Discussions ==
+
+''See [https://hack.allmende.io/inventaire-open-week-2020 Inventaire Open Week pad]''
+
+== Questions ==
+
+If this page is incorrect or incomplete, feel welcome to fix it (it's a wiki!) or to use the [[Communication channels|communication channel]] that fits you best to make us aware of it.
+

@@ -1,0 +1,46 @@
+<!-- LANG:EN, title="How to add an author, a genre, or a subject to a book"-->
+
+The authors, genres, or subjects of a book can all three be edited on the work's page. Here is how to get there:
+
+# From your book's page, click on the work
+
+[https://user-images.githubusercontent.com/1596934/92142447-22deba00-ee14-11ea-90fd-38b38b2ada9a.jpg [[File:https://user-images.githubusercontent.com/1596934/92142447-22deba00-ee14-11ea-90fd-38b38b2ada9a.jpg|From your book's page, click on the work]]]
+
+<ol start="2">
+<li>Once on the work's page, click on the pencil to go to the work's data editor</li></ol>
+
+[https://user-images.githubusercontent.com/1596934/92142441-207c6000-ee14-11ea-8837-07954ecd43ce.jpg [[File:https://user-images.githubusercontent.com/1596934/92142441-207c6000-ee14-11ea-8837-07954ecd43ce.jpg|Once on the work's page, click on the pencil to go to the work's data editor]]]
+
+<ol start="3">
+<li>The work's data editor lets you edit every data points common to all the work editions: the authors, genres, and subjects are part of those data in common. To add a genre, click on the &quot;add&quot; button</li></ol>
+
+[https://user-images.githubusercontent.com/1596934/92142444-21ad8d00-ee14-11ea-9193-73f4e2100d3b.jpg [[File:https://user-images.githubusercontent.com/1596934/92142444-21ad8d00-ee14-11ea-9193-73f4e2100d3b.jpg|The work's data editor lets you edit every data points common to all the work editions: the authors, genres, and subjects are part of those data in common. To add a genre, click on the &quot;add&quot; button]]]
+
+<ol start="4">
+<li>After having clicked on the &quot;add&quot; button, a text field lets you search for a genre among the possible values. Those values are those existing on [[Data#data-sources|Wikidata]], and it's not possible to create new ones on Inventaire itself at the moment.</li></ol>
+
+[https://user-images.githubusercontent.com/1596934/92142453-240fe700-ee14-11ea-9f7c-9ccba3131e22.jpg [[File:https://user-images.githubusercontent.com/1596934/92142453-240fe700-ee14-11ea-9f7c-9ccba3131e22.jpg|After having clicked on the &quot;add&quot; button, a text field lets you search for a genre among the possible values. Those values are those existing on Wikidata, and it's not possible to create new ones on Inventaire itself at the moment.]]]
+
+<!-- LANG:FR, title="Comment ajouter un auteur, un genre, ou un sujet à un livre"-->
+
+Les auteur.e.s, les genres, ou les sujets d'un livre peuvent tout trois être modifié depuis la page de l'œuvre. Voici comment s'y rendre :
+
+# Depuis la page de votre livre, cliquez sur l'œuvre
+
+[https://user-images.githubusercontent.com/1596934/92142445-22462380-ee14-11ea-95fd-b859484a6a3e.jpg [[File:https://user-images.githubusercontent.com/1596934/92142445-22462380-ee14-11ea-95fd-b859484a6a3e.jpg|Depuis la page de votre livre, cliquez sur l'œuvre]]]
+
+<ol start="2">
+<li>Une fois sur la page de l'œuvre, cliquez sur le crayon pour vour rendre sur la page d'édition des données de l'œuvre</li></ol>
+
+[https://user-images.githubusercontent.com/1596934/92142437-1f4b3300-ee14-11ea-8c5c-b85c2d974144.jpg [[File:https://user-images.githubusercontent.com/1596934/92142437-1f4b3300-ee14-11ea-8c5c-b85c2d974144.jpg|Une fois sur la page de l'œuvre, cliquez sur le crayon pour vour rendre sur la page d'édition des données de l'œuvre]]]
+
+<ol start="3">
+<li>La page d'édition des données de l'œuvre vous permet de modifier toutes les données communes à toutes les différentes éditions d'une œuvre : les auteur.e.s, genres, et sujets font parti de ces données en communs. Pour ajouter un genre, par exemple, cliquer sur le bouton &quot;ajouter&quot;</li></ol>
+
+[https://user-images.githubusercontent.com/1596934/92142442-2114f680-ee14-11ea-9020-11cf8c6240be.jpg [[File:https://user-images.githubusercontent.com/1596934/92142442-2114f680-ee14-11ea-9020-11cf8c6240be.jpg|Pour ajouter un genre, par exemple, cliquer sur le bouton &quot;ajouter&quot;]]]
+
+<ol start="4">
+<li>Après avoir cliqué sur le bouton &quot;ajouter&quot;, un champ de texte vous permet de faire une recherche parmi les valeurs possibles pour la propriété &quot;Genre&quot;. Ces valeurs sont celles présentes dans [[Data#sources-des-données|Wikidata]], et il n'est pour le moment pas possible d'en créer d'autres sur Inventaire même.</li></ol>
+
+[https://user-images.githubusercontent.com/1596934/92142450-23775080-ee14-11ea-9ff9-bf27688173f9.jpg [[File:https://user-images.githubusercontent.com/1596934/92142450-23775080-ee14-11ea-9ff9-bf27688173f9.jpg|Après avoir cliqué sur le bouton &quot;ajouter&quot;, un champ de texte vous permet de faire une recherche parmi les valeurs possibles pour la propriété &quot;Genre&quot;. Ces valeurs sont celles présentes dans Wikidata, et il n'est pour le moment pas possible d'en créer d'autres.]]]
+

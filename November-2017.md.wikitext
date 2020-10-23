@@ -1,0 +1,65 @@
+<!-- LANG:EN, title="November 2017"-->
+
+== Discussions ==
+
+* ongoing discussion on the [https://github.com/inventaire/inventaire/issues/129 setup of tools to '''clean entities''' in a more systematic fashion]
+* [https://twitter.com/andrawaag/status/936027866101420032 on improving '''scientific papers''' support], and more generally, '''on the project direction as a discovery/recommendation tool'''
+
+== Documentation ==
+
+* the [https://github.com/inventaire/inventaire/wiki/Code-Contributor-Guidelines '''Code Contributor Guidelines'''] got updated
+* '''New User Tips''':
+** [[Add-Inventaire-to-your-browser-search-engines|Search Inventaire from your browser address bar]]
+* '''New Developer Tips''':
+** [https://github.com/inventaire/inventaire/wiki/Use-the-debugger#server-side How to use the debugger]
+
+== Presentation ==
+
+* the WikidataCon presentation ''&quot;Inventaire: Tale of a Wikidata-centered linked open contributive database on resources&quot;'' is online: [https://www.youtube.com/watch?v=nlxWy8ombEM&t=5m50s video], [https://hackmd.io/p/SJGdXy-RZ slides]
+
+== Data ==
+
+=== New properties ===
+
+Commits: server [http://github.com/inventaire/inventaire/commit/e134590 e134590], [http://github.com/inventaire/inventaire/commit/05b48cc 05b48cc] / client [http://github.com/inventaire/inventaire-client/commit/73433bc 73433bc], [http://github.com/inventaire/inventaire-client/commit/d912093 d912093]
+
+'''Authors''':
+
+* Mastodon address ([https://www.wikidata.org/wiki/Property:P4033 wdt:P4033])
+
+'''Works''':
+
+* based on ([https://www.wikidata.org/wiki/Property:P144 wdt:P144])
+* inspired by ([https://www.wikidata.org/wiki/Property:P941 wdt:P941])
+
+'''Editions''':
+
+* number of volumes ([https://www.wikidata.org/wiki/Property:P2635 wdt:P2635])
+
+== Developments ==
+
+=== Welcome page ===
+
+* the section [http://inventaire.io/welcome ''some of the last books listed''] is now generated from the [https://github.com/inventaire/inventaire/blob/bbc70f2/server/controllers/items/recent_public.coffee <code>/api/items?action=recent-public</code> endpoint], which takes care to return items from different users and in the user language. (issues: [https://github.com/inventaire/inventaire/issues/102 #102] and [https://github.com/inventaire/inventaire/issues/127 #127])
+
+=== Groups ===
+
+Following pandark issues ([https://github.com/inventaire/inventaire/issues/121 #121], [https://github.com/inventaire/inventaire/issues/122 #122]), groups got a major update:
+
+* [https://inventaire.io/network/groups/settings '''Group board''']:
+** a sub-menu was added to allow inviting to the group by email
+** sub-menus are now wrapped by default for more clarity
+* [https://api.inventaire.io/#/Groups improved API documentation]
+
+== Deployment ==
+
+* inventaire.io joins wiki.inventaire.io in automating its SSL/TLS setup using [https://letsencrypt.org '''LetsEncrypt''']. Commit: [https://github.com/inventaire/inventaire-deploy/commit/2e43036 2e43036@deploy]
+
+== Other Noteworthy Stuff ==
+
+* '''Barcode Scanner/Firefox''': Firefox for Android 57 seems to have fixed the issue with autofocus while using the scanner
+
+<hr>
+
+[[October 2017|← October 2017]] - [[News|All News]] - [[December 2017|December 2017 →]]
+

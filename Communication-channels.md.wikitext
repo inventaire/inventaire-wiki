@@ -1,0 +1,98 @@
+<!-- LANG:EN, title="Communication channels"-->
+
+Start a discussion in your favorite communication channel!
+
+== General discussions on the project ==
+
+=== Social networks ===
+
+* '''mastodon''':
+** mention [https://mamot.fr/@inventaire @inventaire@mamot.fr]
+** hashtag: [https://mamot.fr/tags/inventaireio #inventaireio]
+* '''twitter''':
+** mention [http://twitter.com/inventaire_io @inventaire_io]
+** hashtag [https://twitter.com/search?q=%23inventaireio #inventaireio]
+
+=== Tools ===
+
+* to discuss and vote the next features and evolution of the project, use the '''[http://roadmap.inventaire.io roadmap board]'''
+* use this wiki to centralize all the knowledge about the project
+
+=== Chats ===
+
+Both general and technical discussions are welcome in those chatrooms
+
+* '''Matrix''': [[https://app.element.io/#/room/#freenode_#inventaire:matrix.org|#freenode_#inventaire:matrix.org]]
+* '''IRC''': #[mailto:inventaire@freenode.net inventaire@freenode.net]
+* [https://t.me/joinchat/BQaERg78pzm9lt9lIeVWEQ '''Telegram''']
+
+=== Email ===
+
+[mailto:hello@inventaire.io hello@inventaire.io]
+
+== Translation ==
+
+As much as possible, use the [https://www.transifex.com/inventaire/inventaire/ Transifex project] to improve a translation or report translation issues.
+
+But if you don't have a Transifex account and don't feel like creating one, you may use any other channel to inform others of an issue.
+
+== Technical discussions ==
+
+=== Tools ===
+
+* ask question by [https://github.com/inventaire/inventaire/issues opening issues on github]
+* document in the [https://github.com/inventaire/inventaire/wiki technical wiki]
+
+=== Social networks ===
+
+* '''twitter''': [http://twitter.com/inventaire_dev @inventaire_dev]
+
+<!-- LANG:FR, title="Canaux de communication"-->
+
+Commencez une discussion dans votre canal de communication préféré !
+
+== Discussions générales sur le projet ==
+
+=== Réseaux sociaux ===
+
+* '''mastodon''':
+** mention [https://mamot.fr/@inventaire @inventaire@mamot.fr]
+** hashtag: [https://mamot.fr/tags/inventaireio #inventaireio]
+* '''twitter''':
+** mention [http://twitter.com/inventaire_io @inventaire_io]
+** hashtag [https://twitter.com/search?q=%23inventaireio #inventaireio]
+
+=== Outils ===
+
+* pour discuter fonctionnalités et évolution du projet, utilisez la '''[http://roadmap.inventaire.io roadmap]'''
+* utilisez ce wiki pour centraliser la savoir autour du projet
+
+=== Chats ===
+
+Les discussions générales ou techniques sont toutes bienvenues dans ces chatrooms
+
+* '''Matrix''': [[https://app.element.io/#/room/#freenode_#inventaire:matrix.org|#freenode_#inventaire:matrix.org]]
+* '''IRC''': #[mailto:inventaire@freenode.net inventaire@freenode.net]
+* [https://t.me/joinchat/BQaERg78pzm9lt9lIeVWEQ '''Telegram''']
+
+=== Email ===
+
+[mailto:hello@inventaire.io hello@inventaire.io]
+
+== Traduction ==
+
+Autant que possible, utilisez le [https://www.transifex.com/inventaire/inventaire/ project Transifex] pour améliorer une traduction ou signaler un problème de traduction.
+
+Si vous n'avez pas de compte Transifex et ne souhaitez pas en créer un, vous pouvez utiliser n'importe quel autre canal de communication pour signaler un problème.
+
+== Discussions techniques ==
+
+=== Outils ===
+
+* posez vos questions [https://github.com/inventaire/inventaire/issues en ouvrant des issues sur github]
+* documentez dans le [https://github.com/inventaire/inventaire/wiki wiki technique]
+
+=== Réseaux sociaux ===
+
+* '''twitter''': [http://twitter.com/inventaire_dev @inventaire_dev]
+

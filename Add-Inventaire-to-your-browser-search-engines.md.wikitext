@@ -1,0 +1,28 @@
+<!-- LANG:EN, title="Add Inventaire to your browser search engines"-->
+
+== Firefox ==
+
+* Follow this tutorial to add Inventaire to your search engines list: [https://support.mozilla.org/en-US/kb/add-or-remove-search-engine-firefox#w_add-a-search-engine Add a search engine]
+* In about:preferences#search, on the Inventaire search engine line:
+** double click the '''keyword''' column to edit it
+** enter <code>inv</code>
+* Try it:
+** go to your browser address bar (shortcut: <code>Ctrl+L</code>)
+** type <code>inv The Chalk Circle Man</code>, that should bring you to https://inventaire.io/search?q=The+Chalk+Circle+Man
+
+== Chrome ==
+
+* go to chrome://settings/searchEngines
+* in the '''Other search engines''' section, click '''Add''', and fill as follow:
+** '''Search Engine''': Inventaire
+** '''Keyword''': inv
+** '''URL with %s instead of the request''': [[https://inventaire.io/search?q=%s|https://inventaire.io/search?q=%s]]
+* Try it:
+** go to your browser address bar (shortcut: <code>Ctrl+L</code>)
+** type <code>inv</code>, press <code>Tab</code>: the address bar should now display <code>Search on Inventaire</code>
+** you can now type your query, and press <code>Enter</code>
+
+== DuckDuckGo ==
+
+Alternatively, if you use [http://duckduckgo.com DuckDuckGo], you can access Inventaire search using the <code>!inv</code> [https://duckduckgo.com/bang bang]
+

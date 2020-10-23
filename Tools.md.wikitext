@@ -1,0 +1,51 @@
+<!-- LANG:EN, title="Tools"-->
+
+Those tools are largely experimental and often require to be able to perform actions that currently require admin rights. See [https://github.com/inventaire/inventaire/issues/91 issue#91]
+
+'''Legend''':
+
+* <span class="square yellow"></span> : '''experimental''' - usually means that the interface is very rough, not self-explanatory
+* <span class="square blue"></span> : '''requires admin rights'''
+* <span class="square purple"></span> : '''some actions require admin rights'''
+* <span class="square lime"></span> : '''doesn't requires admin rights'''
+
+== Entities ==
+
+=== Editor ===
+
+* location: <code>/entity/[uri]/edit</code> ([https://inventaire.io/entity/isbn:9791020906427/edit example])
+* description: anyone can edit the properties of an entity. All pencil buttons on entities pages lead you to the entity editor (ex: [https://inventaire.io/entity/isbn:9791020906427 on the top right of this page]) .
+* categories: <span class="square lime"></span>
+
+=== Cleanup ===
+
+* location: <code>/entity/[uri]/cleanup</code> ([https://inventaire.io/entity/wd:Q26971382/cleanup example])
+* description: this is an interface to help cleanup many related entities at the same time. For instance, from the cleanup page of a serie, you could easily move editions from one part of the serie to another.
+* limitation: only ready for series at the moment
+* categories: <span class="square purple"></span> <span class="square yellow"></span>
+
+=== Merge ===
+
+* location: on entities editor pages
+* categories: <span class="square blue"></span>
+
+=== Deduplication ===
+
+Tools specialized for finding duplicated entities and inviting the user to confirm it should be merged.
+
+==== Deduplication Tasks ====
+
+* location: [https://inventaire.io/tasks <code>/tasks</code>]
+* categories: <span class="square blue"></span> <span class="square yellow"></span>
+
+==== Find most common names among Inventaire human entities ====
+
+* location: [https://inventaire.io/entity/deduplicate <code>/entity/deduplicate</code>]
+* categories: <span class="square blue"></span> <span class="square yellow"></span>
+* warning: that's some scary stuff
+
+==== Merge suggestions ====
+
+* location: <code>/entity/[uri]</code>
+* categories: <span class="square blue"></span> <span class="square yellow"></span>
+

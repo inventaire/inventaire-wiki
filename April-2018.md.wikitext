@@ -1,0 +1,22 @@
+<!-- LANG:EN, title="April 2018"-->
+
+== Events ==
+
+* 24th: [https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Rencontres/Rh%C3%B4ne-Alpes/Cabale_de_la_quenelle Lyon Wikimedian meetup]
+
+== Developments ==
+
+* published the [http://inventaire.io/add/import ISBN importer] and the [http://inventaire.io/add/scan multi-ISBN scanner]: [https://github.com/inventaire/inventaire-client/pull/140 PR]
+* fixed work images to allow both displaying the work page or zooming on the cover: [https://github.com/inventaire/inventaire-client/issues/144 issue], [https://github.com/inventaire/inventaire-client/pull/145 PR]
+* improved date claims formats to accept month precision: [https://github.com/inventaire/inventaire/pull/143 server PR], [https://github.com/inventaire/inventaire-client/pull/143 client PR]
+
+=== internal ===
+
+* implemented zero downtime restart: [https://github.com/inventaire/inventaire/issues/100 issue], [https://github.com/inventaire/inventaire-deploy/commit/8b55857 commit]
+* use human readable test fixtures: [https://github.com/inventaire/inventaire/issues/159 issue], [https://github.com/inventaire/inventaire/pull/162 PR]
+* <code>revert-merge</code> cleanup: [https://github.com/inventaire/inventaire/pull/157 PR]
+
+<hr>
+
+[[March 2018|← March]] - [[News|All News]] - [[May 2018|May →]]
+

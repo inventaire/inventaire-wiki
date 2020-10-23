@@ -1,0 +1,36 @@
+<!-- LANG:EN, title="Organization model"-->
+
+The biggest challenge of this project is not (that much) code, its organizing the contributive energies toward a (roughly) convergent goal.
+
+== General principles to aim for ==
+
+* Better going slowly than being wrong
+* Better doing errors than doing nothing
+* The organization should support people willing to contribute to the project in an open, transparent, welcoming way
+* At the same time, the organization should support a clear vision (cf [https://inventaire.io/welcome#mission Misson and values]), rather than trying to please everyone
+
+== Inspiration ==
+
+* [https://wiki.p2pfoundation.net/DoOcracy Do-ocracy]
+* [https://en.wikipedia.org/wiki/Holacracy Holacracy]
+* Wikimedia
+* [https://www.trustroots.org/faq/foundation Trustroots Foundation]
+
+<!-- LANG:FR, title="Modèle d'organisation"-->
+
+Le plus gros défi de ce projet n'est pas tant le code, que l'organisation des énergies contributives vers un but (globalement) convergent.
+
+== Principes généraux ==
+
+* Mieux vaut aller lentement que faire des erreurs
+* Mieux vaut faire des erreurs que ne rien faire
+* L'organisation doit aider, soutenir, les personnes souhaitant contribuer au projet, de manière ouverte, transparente et accueillante.
+* Dans le même temps, l'organisation doit être au service d'une vision claire (cf [https://inventaire.io/welcome#mission Misson et valeurs]), plutôt que d'essayer de faire plaisir à tous le monde.
+
+== Inspiration ==
+
+* [https://wiki.p2pfoundation.net/DoOcracy Do-ocracy]
+* [https://fr.wikipedia.org/wiki/Holacratie Holacracy]
+* Wikipédia: [https://www.youtube.com/watch?v=x61FPodmTdQ Le Lâcher prise au pouvoir]
+* [https://www.trustroots.org/faq/foundation Trustroots Foundation]
+

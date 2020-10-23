@@ -1,0 +1,14 @@
+<!-- LANG:EN, title="January 2018"-->
+
+== Developments ==
+
+<ul>
+<li><p>Progressing on an interface to clean entities data in a more systematic way, a bit à-la [https://tools.wmflabs.org/mix-n-match/ mix-n-match].</p>
+<p>Branches: [https://github.com/inventaire/inventaire/commits/129-cleaning-entities 129-cleaning-entities@server], [https://github.com/inventaire/inventaire-client/commits/deduplication-tasks deduplication-tasks@client]</p></li>
+<li><p>Progressing on the a mass ISBN importer and a multi-ISBN scanner.</p>
+<p>Branch: [https://github.com/inventaire/inventaire-client/commits/isbns-importer isbns-importer@client]</p></li></ul>
+
+<hr>
+
+[[December 2017|← December 2017]] - [[News|All News]] - [[February 2018|February 2018 →]]
+

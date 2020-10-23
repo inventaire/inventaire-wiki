@@ -1,0 +1,14 @@
+<!-- LANG:EN, title="May 2018"-->
+
+== Events ==
+
+* 18-20th: [https://www.mediawiki.org/wiki/Wikimedia_Hackathon_2018 Wikimedia Hackathon]
+
+== Developments ==
+
+=== internal ===
+
+<hr>
+
+[[April 2018|← April]] - [[News|All News]] - [[June 2018|June →]]
+

@@ -1,5 +1,7 @@
 <!-- LANG:EN, title="Home" -->
 
+/!\ This wiki is currently being moved to a Mediawiki, please do not update this wiki anymore before it has migrated, has changes will not be taken into account anymore.
+
 Welcome to [inventaire.io](https://inventaire.io) [wiki](https://en.wikipedia.org/wiki/Wiki). **This is the space where the community shares knowledge about inventaire** : how it is run? How to use the tool? How to contribute? and more !
 
 ## Summary
@@ -45,6 +47,9 @@ It's a work in progress and you're welcome to contribute to it! See the [[invent
 * [Translate](http://translate.inventaire.io)
 
 <!-- LANG:FR, title="Accueil" -->
+
+
+/!\ Ce wiki est en train d'être déplacé vers un Mediawiki. Veuillez ne plus mettre a jour ce wiki en attendant la migration, les changements effectué ici ne seront pas pris en compte.
 
 Bienvenue sur le [wiki](https://fr.wikipedia.org/wiki/Wiki) d'[inventaire.io](https://inventaire.io) ! Ce wiki est destiné à **centraliser le savoir sur inventaire** : comment est organisé le projet ? Comment utiliser l'application web ? Comment contribuer ? etc.
 

@@ -34,7 +34,7 @@ We complied to most of the [GDPR](https://en.wikipedia.org/wiki/General_Data_Pro
 Our servers are located in the European Union, so, as far as we know, we are not subject to the USA Patriot Act.
 
 ### Cookies
-We currently⁽²⁰²⁰⁻⁰⁶⁻¹²⁾use 2 types of cookies:
+Inventaire only use one type of cookies:
 * Session cookies: those are first-party cookies strictly necessary to be able to provide the service
 * [Analytics](#analytics) cookies: those are third-party statistics cookies, that we should get rid of at some point. In the meantime, you can block those by intalling a tracker-blocker such as uBlock Origin ([firefox](https://addons.mozilla.org/firefox/addon/ublock-origin/), [chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=fr))
 
@@ -74,6 +74,5 @@ Dans les grandes lignes, nous étions prêt pour la [RGPD](https://fr.wikipedia.
 Nos serveurs sont situés dans l'Union européenne, et ne sont, a priori, pas affecté par les lois états-uniennes tel le Patriot Act.
 
 ### Cookies
-Nous utilisons actuellement⁽²⁰²⁰⁻⁰⁶⁻¹²⁾2 types de cookies :
+Inventaire n'utilise qu'un seul types de cookies :
 * Des cookies de session : ceux-ci sont des cookies interne, strictement nécessaire aux fonctionnement, et donc [exemptés de demande de consentement](https://www.cnil.fr/fr/cookies-comment-mettre-mon-site-web-en-conformite)
-* cookies d'[analytics](#analytics): ceux-ci sont des cookies tiers, dont nous comptons nous débarasser à terme. En attendant, vous pouvez les bloquez en installant un bloqueur de tracker tel que uBlock Origin ([firefox](https://addons.mozilla.org/firefox/addon/ublock-origin/), [chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=fr))

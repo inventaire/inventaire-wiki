@@ -36,7 +36,6 @@ Our servers are located in the European Union, so, as far as we know, we are not
 ### Cookies
 Inventaire only use one type of cookies:
 * Session cookies: those are first-party cookies strictly necessary to be able to provide the service
-* [Analytics](#analytics) cookies: those are third-party statistics cookies, that we should get rid of at some point. In the meantime, you can block those by intalling a tracker-blocker such as uBlock Origin ([firefox](https://addons.mozilla.org/firefox/addon/ublock-origin/), [chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=fr))
 
 <!-- LANG:FR, title="Vie privée"-->
 
